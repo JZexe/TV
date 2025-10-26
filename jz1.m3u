@@ -4064,6 +4064,52 @@ https://radm.mediacdn.ru/cdn/radost/playlist_sdhigh.m3u8
 #EXTINF:-1 tvg-logo="http://profi-rus.narod.ru/iptv/logo/5m.png" tvg-name="МузСоюз" group-title="Религиозные",Муз Союз
 http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/playlist.m3u8
 
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 group-title="Поехали!",Поехали!
+http://217.25.80.16/Poehali/mono.m3u8
+
+#EXTINF:-1 group-title="Поехали!",Поехали!
+http://178.217.72.72/Poehali/index.m3u8
+
+#EXTINF:-1 group-title="Поехали!",ПОЕХАЛИ!
+http://iptv46.mcx-ix.ru:8077/Poehali/index.m3u8
+
+#EXTINF:-1 group-title="Поехали!",Поехали!
+http://193.25.8.59:8000/360
+
+#EXTINF:-1 group-title="Поехали!",Поехали!
+http://91.194.191.241:8081/chid278/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Поехали!",Поехали!
+http://tv.ttk.mx:9082
+
+#EXTINF:-1 group-title="Поехали!",Поехали!
+http://api.peers.tv/timeshift/poehali/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NjE1NTE3OTUsImlhdCI6MTc2MTQ2NTM5NSwiY2lkIjo2LCJ1aWQiOjk1ODUyOTQ3NywicmVnIjpmYWxzZSwiaXAiOjM1ODU1NTI1NzksImFkdWx
+
+#EXTINF:-1 group-title="Поехали!",Поехали!
+http://arbiter.bolshoe.tv/?path=abr2/poehali/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjYvMjAyNSA3OjU2OjM2IEFNJmhhc2hfdmFsdWU9bEVLOUcxTm9vRkV0VjZLcXBPT0VWQT09JnZhbGlkbWludXRlcz03MjAmaWQ9Nzc3
+
+#EXTINF:-1 group-title="Поехали!",Поехали!
+http://127.0.0.1:6878/ace/getstream?id=c5841f89c3ae2e6745948308be283a904bf96adb
+
+
+
+
+
+
+
+
+
+
+
 #EXTINF:-1 tvg-logo="https://radiomixer.net/images/2023/11/01/YWT3JC4mWYkfFUAzLthwQmfyrlfTdm3VgrvNmzFA.jpg" tvg-id="no_epg_radio" group-title="Радио", Радио Родных Дорог
 https://stream-msk-17.ott.tricolor.tv/dtv/id961_MSKSG-PVR-1--Radio_Rodnykh_Dorog/01/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwMDM1ODM5NSIsImV4cCI6MTc2MTUzMDQyOCwiaHdpZCI6IjI4YzUzMGRkNTE5NmIwZjQ0ZjkyY2ZhN2RhODVkZDU2ZDE2ZTQ4YjRhZjU2MTA5NTk1YmExNmZkMjYyYzRmNTAiLCJsYXN0X3JlcV9kYXRlIjoxNzYwOTI1NjI4LCJzZXNzaW9uX2lkIjoiY2UzZDlhZTA3NTJlYmJhYWYyNDU4NDI1MjJjZjhkY2EiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.nQarfxv2-Q1EvSL_fuJxWZA2GV6Z1C4vwkTUVIHJUXA
 
@@ -4147,35 +4193,3 @@ http://stream.ehrhiti.lv:8000/khr.mp3
 
 #EXTINF:-1 tvg-logo="https://p16-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-euttp/2bffd5e34aae71b5f2234fd2573cf3fd~c5_720x720.webp" tvg-id="no_epg_radio" group-title="Радио", EHR FM Русские Хиты 2000-х
 http://stream.ehrhiti.lv:8000/Stream_66.mp3
-
-
-
-
-#EXTINF:-1 group-title="Поехали!",Поехали! (1)
-http://217.25.80.16/Poehali/mono.m3u8
-
-#EXTINF:-1 group-title="Поехали!",Поехали! (2)
-http://178.217.72.72/Poehali/index.m3u8
-
-#EXTINF:-1 group-title="Поехали!",ПОЕХАЛИ! (3)
-http://iptv46.mcx-ix.ru:8077/Poehali/index.m3u8
-
-#EXTINF:-1 group-title="Поехали!",Поехали! (4)
-http://193.25.8.59:8000/360
-
-#EXTINF:-1 group-title="Поехали!",Поехали! (5)
-http://91.194.191.241:8081/chid278/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="Поехали!",Поехали! (6)
-http://tv.ttk.mx:9082
-
-#EXTINF:-1 group-title="Поехали!",Поехали! (7)
-http://api.peers.tv/timeshift/poehali/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NjE1NTE3OTUsImlhdCI6MTc2MTQ2NTM5NSwiY2lkIjo2LCJ1aWQiOjk1ODUyOTQ3NywicmVnIjpmYWxzZSwiaXAiOjM1ODU1NTI1NzksImFkdWx
-
-#EXTINF:-1 group-title="Поехали!",Поехали! (8)
-http://arbiter.bolshoe.tv/?path=abr2/poehali/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjYvMjAyNSA3OjU2OjM2IEFNJmhhc2hfdmFsdWU9bEVLOUcxTm9vRkV0VjZLcXBPT0VWQT09JnZhbGlkbWludXRlcz03MjAmaWQ9Nzc3
-
-#EXTINF:-1 group-title="Поехали!",Поехали! (9)
-http://127.0.0.1:6878/ace/getstream?id=c5841f89c3ae2e6745948308be283a904bf96adb
-
-
