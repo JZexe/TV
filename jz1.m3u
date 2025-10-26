@@ -4097,8 +4097,6 @@ http://api.peers.tv/timeshift/poehali/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiI
 #EXTINF:-1 group-title="Поехали!",Поехали!
 http://arbiter.bolshoe.tv/?path=abr2/poehali/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjYvMjAyNSA3OjU2OjM2IEFNJmhhc2hfdmFsdWU9bEVLOUcxTm9vRkV0VjZLcXBPT0VWQT09JnZhbGlkbWludXRlcz03MjAmaWQ9Nzc3
 
-#EXTINF:-1 group-title="Поехали!",Поехали!
-http://127.0.0.1:6878/ace/getstream?id=c5841f89c3ae2e6745948308be283a904bf96adb
 
 
 
@@ -4193,3 +4191,4 @@ http://stream.ehrhiti.lv:8000/khr.mp3
 
 #EXTINF:-1 tvg-logo="https://p16-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-euttp/2bffd5e34aae71b5f2234fd2573cf3fd~c5_720x720.webp" tvg-id="no_epg_radio" group-title="Радио", EHR FM Русские Хиты 2000-х
 http://stream.ehrhiti.lv:8000/Stream_66.mp3
+
