@@ -1816,17 +1816,83 @@ http://stream-msk-13.ott.tricolor.tv/dtv/id176_MSKSG-PVR-1--D_Kino/03/plst.m3u8?
 #EXTINF:-1 group-title="Кино и сериалы", Дом Кино Премиум HD
 http://stream-msk-08.ott.tricolor.tv/dtv/id396_MSKSG-PVR-1--HD_Dom_Kino_premium/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwMDM1ODM5NSIsImV4cCI6MTc2MTUzMDQyOCwiaHdpZCI6IjI4YzUzMGRkNTE5NmIwZjQ0ZjkyY2ZhN2RhODVkZDU2ZDE2ZTQ4YjRhZjU2MTA5NTk1YmExNmZkMjYyYzRmNTAiLCJsYXN0X3JlcV9kYXRlIjoxNzYwOTI1NjI4LCJzZXNzaW9uX2lkIjoiY2UzZDlhZTA3NTJlYmJhYWYyNDU4NDI1MjJjZjhkY2EiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.nQarfxv2-Q1EvSL_fuJxWZA2GV6Z1C4vwkTUVIHJUXA
 
+
+
+
+
 #EXTINF:-1 tvg-id="russky-detektiv" group-title="Кино и сериалы", Русский детектив
-http://stream-msk-10.ott.tricolor.tv/dtv/id516_MSKSG-PVR-1--Russkiy_detektiv/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwMDM1ODM5NSIsImV4cCI6MTc2MTUzMDQyOCwiaHdpZCI6IjI4YzUzMGRkNTE5NmIwZjQ0ZjkyY2ZhN2RhODVkZDU2ZDE2ZTQ4YjRhZjU2MTA5NTk1YmExNmZkMjYyYzRmNTAiLCJsYXN0X3JlcV9kYXRlIjoxNzYwOTI1NjI4LCJzZXNzaW9uX2lkIjoiY2UzZDlhZTA3NTJlYmJhYWYyNDU4NDI1MjJjZjhkY2EiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.nQarfxv2-Q1EvSL_fuJxWZA2GV6Z1C4vwkTUVIHJUXA
+http://31.148.48.15/Russkiy_Detektiv/index.m3u8
+#EXTINF:-1 tvg-id="russky-detektiv" group-title="Кино и сериалы", Русский детектив
+https://flussonic.salomtv.uz/russkiy_detektiv/video.m3u8
+#EXTINF:-1 tvg-id="russky-detektiv" group-title="Кино и сериалы", Русский детектив
+http://91.194.191.241:8081/chid82/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="russky-detektiv" group-title="Кино и сериалы", Русский детектив
+http://178.212.71.253:8000/play/45/index.m3u8
+#EXTINF:-1 tvg-id="russky-detektiv" group-title="Кино и сериалы", Русский детектив
+http://api.peers.tv/timeshift/russkiy_detektiv/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NjE4MTA4NjMsImlhdCI6MTc2MTcyNDQ2MywiY2lkIjo2LCJ1aWQiOjk1OTY3MzU5NiwicmVnIjpmYWxzZSwiaXAiOjMxMTgzMDk5MDQsImFkdWx0IjpmYWxzZX0.sk-ijyFkHL80wET7eQTk9k3HOo4M9SIlqFOuJcgwR68&offset=10
 
 #EXTINF:-1 tvg-id="russky-bestseller" group-title="Кино и сериалы",Русский бестселлер
-http://stream-msk-04.ott.tricolor.tv/dtv/id517_MSKSG-PVR-1--Rus_Bests/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwMDM1ODM5NSIsImV4cCI6MTc2MTUzMDQyOCwiaHdpZCI6IjI4YzUzMGRkNTE5NmIwZjQ0ZjkyY2ZhN2RhODVkZDU2ZDE2ZTQ4YjRhZjU2MTA5NTk1YmExNmZkMjYyYzRmNTAiLCJsYXN0X3JlcV9kYXRlIjoxNzYwOTI1NjI4LCJzZXNzaW9uX2lkIjoiY2UzZDlhZTA3NTJlYmJhYWYyNDU4NDI1MjJjZjhkY2EiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.nQarfxv2-Q1EvSL_fuJxWZA2GV6Z1C4vwkTUVIHJUXA
+http://139.28.255.188:8080/bestseller/index.m3u8
+#EXTINF:-1 tvg-id="russky-bestseller" group-title="Кино и сериалы",Русский бестселлер
+http://178.217.72.72/russkiy_bestseller/index.m3u8
+#EXTINF:-1 tvg-id="russky-bestseller" group-title="Кино и сериалы",Русский бестселлер
+http://178.217.72.72/Sony_Sci_Fi/index.m3u8
+#EXTINF:-1 tvg-id="russky-bestseller" group-title="Кино и сериалы",Русский бестселлер
+http://46.8.46.14/rubestseller/index.m3u8
+#EXTINF:-1 tvg-id="russky-bestseller" group-title="Кино и сериалы",Русский бестселлер
+http://tv.ttk.mx:9043
+#EXTINF:-1 tvg-id="russky-bestseller" group-title="Кино и сериалы",Русский бестселлер
+http://178.212.71.253:8000/play/115/index.m3u8
+#EXTINF:-1 tvg-id="russky-bestseller" group-title="Кино и сериалы",Русский бестселлер
+http://api.peers.tv/timeshift/russia_best/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NjE4MTA4NjMsImlhdCI6MTc2MTcyNDQ2MywiY2lkIjo2LCJ1aWQiOjk1OTY3MzU5NiwicmVnIjpmYWxzZSwiaXAiOjMxMTgzMDk5MDQsImFkdWx0IjpmYWxzZX0.sk-ijyFkHL80wET7eQTk9k3HOo4M9SIlqFOuJcgwR68&offset=10
 
 #EXTINF:-1 tvg-id="russky-roman" group-title="Кино и сериалы",Русский роман
-http://stream-msk-05.ott.tricolor.tv/dtv/id818_MSKSG-PVR-1--Ruskiy_roman_HD/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwMDM1ODM5NSIsImV4cCI6MTc2MTUzMDQyOCwiaHdpZCI6IjI4YzUzMGRkNTE5NmIwZjQ0ZjkyY2ZhN2RhODVkZDU2ZDE2ZTQ4YjRhZjU2MTA5NTk1YmExNmZkMjYyYzRmNTAiLCJsYXN0X3JlcV9kYXRlIjoxNzYwOTI1NjI4LCJzZXNzaW9uX2lkIjoiY2UzZDlhZTA3NTJlYmJhYWYyNDU4NDI1MjJjZjhkY2EiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.nQarfxv2-Q1EvSL_fuJxWZA2GV6Z1C4vwkTUVIHJUXA
+http://31.148.48.15/Russkiy_Roman_HD/index.m3u8
+#EXTINF:-1 tvg-id="russky-roman" group-title="Кино и сериалы",Русский роман
+http://vod.tuva.ru/rusroman/index.m3u8
+#EXTINF:-1 tvg-id="russky-roman" group-title="Кино и сериалы",Русский роман
+http://139.28.255.188:8080/rusroman/index.m3u8
+#EXTINF:-1 tvg-id="russky-roman" group-title="Кино и сериалы",Русский роман
+http://185.46.16.239:8000/Russkiy_roman
+#EXTINF:-1 tvg-id="russky-roman" group-title="Кино и сериалы",Русский роман
+http://46.8.46.14/ruroman/index.m3u8
+#EXTINF:-1 tvg-id="russky-roman" group-title="Кино и сериалы",Русский роман
+http://193.25.8.59:8000/rusroman
+#EXTINF:-1 tvg-id="russky-roman" group-title="Кино и сериалы",Русский роман
+http://tv.ttk.mx:9085
+#EXTINF:-1 tvg-id="russky-roman" group-title="Кино и сериалы",Русский роман
+http://178.212.71.253:8000/play/42/index.m3u8
+#EXTINF:-1 tvg-id="russky-roman" group-title="Кино и сериалы",Русский роман
+http://arbiter.bolshoe.tv/?path=streaming/rus_roman/71/tvrec/playlist.m3u8&&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjkvMjAyNSA3OjU0OjI0IEFNJmhhc2hfdmFsdWU9MmYwanVucHNDUDg1ZnhjOE1MUmpGdz09JnZhbGlkbWludXRlcz03MjAmaWQ9Nzc3
 
 #EXTINF:-1 group-title="Кино и сериалы",Русский иллюзион
 http://91.194.191.241:8081/chid81/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Кино и сериалы",Русский иллюзион
+http://vod.tuva.ru/rusroman/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы",Русский иллюзион
+http://185.46.16.239:8000/Russkiy_Illyuzion
+#EXTINF:-1 group-title="Кино и сериалы",Русский иллюзион
+http://91.194.191.241:8081/chid81/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Кино и сериалы",Русский иллюзион
+http://tv.ttk.mx:9027
+#EXTINF:-1 group-title="Кино и сериалы",Русский иллюзион
+http://195.26.83.96:7006/play/a00y/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы",Русский иллюзион
+http://178.212.71.253:8000/play/49/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы",Русский иллюзион
+http://api.peers.tv/timeshift/russian_illusion/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NjE4MTA4NjMsImlhdCI6MTc2MTcyNDQ2MywiY2lkIjo2LCJ1aWQiOjk1OTY3MzU5NiwicmVnIjpmYWxzZSwiaXAiOjMxMTgzMDk5MDQsImFkdWx0IjpmYWxzZX0.sk-ijyFkHL80wET7eQTk9k3HOo4M9SIlqFOuJcgwR68&offset=10
+#EXTINF:-1 group-title="Кино и сериалы",Русский иллюзион
+http://api.peers.tv/timeshift/russian_roman/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NjE4MTA4NjMsImlhdCI6MTc2MTcyNDQ2MywiY2lkIjo2LCJ1aWQiOjk1OTY3MzU5NiwicmVnIjpmYWxzZSwiaXAiOjMxMTgzMDk5MDQsImFkdWx0IjpmYWxzZX0.sk-ijyFkHL80wET7eQTk9k3HOo4M9SIlqFOuJcgwR68&offset=10
+#EXTINF:-1 group-title="Кино и сериалы",Русский иллюзион
+http://arbiter.bolshoe.tv/?path=streaming/rusillusion/71/tvrec/playlist.m3u8&&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjkvMjAyNSA3OjU0OjI0IEFNJmhhc2hfdmFsdWU9MmYwanVucHNDUDg1ZnhjOE1MUmpGdz09JnZhbGlkbWludXRlcz03MjAmaWQ9Nzc3
+
+
+
+
+#EXTINF:-1 group-title="Кино и сериалы", tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/119/logo_128_1652790001.png", Русский иллюзион
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://mhd128.iptv2022.com/p/z_ribo6b8Uw2v9H2woIjYQ,1761810405/streaming/rusilluzion/324/1/tracks-v5a1/mono.m3u8
+
 
 #EXTINF:-1 group-title="Кино и сериалы", Иллюзион +
 http://217.21.34.160:38003/illuzionplus/index.m3u8
@@ -5123,7 +5189,7 @@ EXTINF:-1 tvg-id="blokbaster-hd" tvg-logo="https://iptvx.one/picons/blokbaster.p
 
 #EXTINF:-1 tvg-id="avto24" tvg-logo="http://epg.it999.ru/img2/2008.png" group-title="Досуг",АВТО 24
 http://192.162.64.99:5000/play/a01o/index.m3u8
-#EXTINF:-1 tvg-id="avto-plus" tvg-logo="https://iptvx.one/picons/avto-plus.png" group-title="Досуг",Авто Плюс
+#EXTINF:-1 tvg-id="avto-plus" tvg-logo="https://iptvx.one/picons/avto-plus.png" group-title="Досуг,Авто Плюс
 http://46.8.46.14/avtoplus/index.m3u8
 #EXTINF:-1 tvg-id="bobior" tvg-logo="https://iptvx.one/picons/bober.png" group-title="Досуг",Бобер HD
 
@@ -5233,7 +5299,7 @@ http://fl2.moveonjoy.com/MTV_LIVE/index.m3u8
 http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
 #EXTINF:-1 tvg-id="muzyka-pervogo" tvg-logo="https://iptvx.one/picons/muzyka-pervogo.png" group-title="Музыкальные",Музыка Первого 
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Muz_Perv
-#EXTINF:-1 tvg-id="onemuz" tvg-logo="https://iptvx.one/picons/1muz.png" group-title="Музыкальные",Первый музыкальный HD
+#EXTINF:-1 tvg-id="onemuz" tvg-logo="https://iptvx.one/picons/1muz.png" group-title="Музыкальные,Первый музыкальный HD
 http://hz1.teleport.cc/HLS/HD.m3u8
 
 
@@ -5410,6 +5476,7 @@ http://stream.ehrhiti.lv:8000/khr.mp3
 
 #EXTINF:-1 tvg-logo="https://p16-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-euttp/2bffd5e34aae71b5f2234fd2573cf3fd~c5_720x720.webp" tvg-id="no_epg_radio" group-title="Радио", EHR FM Русские Хиты 2000-х
 http://stream.ehrhiti.lv:8000/Stream_66.mp3
+
 
 
 
