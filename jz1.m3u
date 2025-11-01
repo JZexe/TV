@@ -2580,7 +2580,7 @@ https://bl.rutube.ru/livestream/965a025e4ebbaf0957415f80c6de8534/index.m3u8?s=uv
 #EXTINF:-1 group-title="Кинозалы Rutube", МузТВ
 https://bl.rutube.ru/livestream/df6fe73494a26f74da51573fd97b9baa/index.m3u8?s=re0ZZ1qlE-AtuyRF1Hh3Lw&e=1761022662&scheme=https
 #EXTINF:-1 group-title="Кинозалы Rutube", VIVA Russia HD
-https://bl.rutube.ru/livestream/f712ae5ff3db23ec09b3674133d44daa/index.m3u8?s=PrKYi-EihgvkW79W1LFK-w&e=1761022662&scheme=https
+https://132544.edgevideo.ru/streams/132544_713325/1325441080/index.m3u8
 #EXTINF:-1 group-title="Кинозалы Rutube", Матч ТВ HD
 https://bl.rutube.ru/livestream/11bbbec75a2ceb8cf446ad16813c6eec/index.m3u8?s=PCmOGJLD9Y_8P1pkcoDESw&e=1761022662&scheme=https
 #EXTINF:-1 group-title="Кинозалы Rutube", beIN SPORTS XTRA Español
@@ -5476,6 +5476,7 @@ http://stream.ehrhiti.lv:8000/khr.mp3
 
 #EXTINF:-1 tvg-logo="https://p16-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-euttp/2bffd5e34aae71b5f2234fd2573cf3fd~c5_720x720.webp" tvg-id="no_epg_radio" group-title="Радио", EHR FM Русские Хиты 2000-х
 http://stream.ehrhiti.lv:8000/Stream_66.mp3
+
 
 
 
