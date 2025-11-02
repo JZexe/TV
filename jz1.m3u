@@ -3037,6 +3037,24 @@ http://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist/cze/live_hq.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/3d/b0/4f/3db04f7e5cf79872e7db59ab1cb3a50b.jpg" tvg-id="no_epg_music" group-title="Музыкальные",Ocko TV
 http://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist/cze/live_hq.m3u8
 
+
+#EXTM3U url-tvg="https://viva-russia.ru/scheduler/epg/epg.xml.gz" x-tvg-url="https://viva-russia.ru/scheduler/epg/epg.xml.gz"
+#EXTINF:-1 tvg-id="VIVARussia.ru" tvg-name="VIVA TV RUSSIA" tvg-country="RU" tvg-language="Russian" tvg-logo="http://viva-russia.ru/scheduler/epg/channel-logo.jpg" group-title="Музыкальные",VIVA TV RUSSIA
+https://live20.bozztv.com/akamaissh101/ssh101/vivarussia/playlist.m3u8
+#EXTINF:-1 tvg-id="VIVARussia.ru" tvg-name="VIVA TV RUSSIA" tvg-country="RU" tvg-language="Russian" tvg-logo="http://viva-russia.ru/scheduler/epg/channel-logo.jpg" group-title="Музыкальные",VIVA TV RUSSIA
+https://ssh101stream.ssh101.com/akamaissh101/ssh101/vivarussia/playlist.m3u8
+#EXTINF:-1 tvg-id="VIVARussia.ru" tvg-name="VIVA TV RUSSIA" tvg-country="RU" tvg-language="Russian" tvg-logo="http://viva-russia.ru/scheduler/epg/channel-logo.jpg" group-title="Музыкальные",VIVA TV RUSSIA
+https://s.catcast.tv/content/39575/index.m3u8
+#EXTINF:-1 tvg-id="VIVARussia.ru" tvg-name="VIVA TV RUSSIA" tvg-country="RU" tvg-language="Russian" tvg-logo="http://viva-russia.ru/scheduler/epg/channel-logo.jpg" group-title="Музыкальные",VIVA TV RUSSIA
+http://autopilot.catcast.tv/content/39575/index.m3u8
+#EXTINF:-1 tvg-id="VIVARussia.ru" tvg-name="VIVA TV RUSSIA" tvg-country="RU" tvg-language="Russian" tvg-logo="http://viva-russia.ru/scheduler/epg/channel-logo.jpg" group-title="Музыкальные",VIVA TV RUSSIA
+https://hls.goodgame.ru/hls/180805.m3u8
+
+
+
+
+
+
 #EXTINF:-1 tvg-logo="https://oklivetv.com/wp-content/uploads/media/2bbab18fa09352f91d2ecb59d6e17fdb.jpeg" tvg-id="no_epg_music" group-title="Музыкальные",Ocko Gold
 https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko_gold.stream.1.smil/playlist.m3u8
 
@@ -5476,6 +5494,7 @@ http://stream.ehrhiti.lv:8000/khr.mp3
 
 #EXTINF:-1 tvg-logo="https://p16-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-euttp/2bffd5e34aae71b5f2234fd2573cf3fd~c5_720x720.webp" tvg-id="no_epg_radio" group-title="Радио", EHR FM Русские Хиты 2000-х
 http://stream.ehrhiti.lv:8000/Stream_66.mp3
+
 
 
 
