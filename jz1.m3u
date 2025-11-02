@@ -97,9 +97,6 @@ http://139.28.255.188:8080/tvcentr/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://zabava-htlive.cdn.ngenix.net/hls/CH_5TV/variant.m3u8
 
-#EXTINF:-1 tvg-id="5kanal-ru" group-title="Эфирные 🖥️", 5 канал Россия
-https://live-stream-09.ott.tricolor.tv/live/live/5_kanal/hls_enc/5_kanal.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwMDM1ODM5NSIsImV4cCI6MTc2MTUzMDQyOCwiaHdpZCI6IjI4YzUzMGRkNTE5NmIwZjQ0ZjkyY2ZhN2RhODVkZDU2ZDE2ZTQ4YjRhZjU2MTA5NTk1YmExNmZkMjYyYzRmNTAiLCJsYXN0X3JlcV9kYXRlIjoxNzYwOTI1NjI4LCJzZXNzaW9uX2lkIjoiY2UzZDlhZTA3NTJlYmJhYWYyNDU4NDI1MjJjZjhkY2EiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.nQarfxv2-Q1EvSL_fuJxWZA2GV6Z1C4vwkTUVIHJUXA
-
 #EXTINF:-1 tvg-id="domashny" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Эфирные 🖥️",Домашний
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY/variant.m3u8
@@ -112,7 +109,7 @@ http://178.217.72.72/Domashniy/index.m3u8
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK/variant.m3u8
 
 #EXTINF:-1 tvg-id="kultura" tvg-logo="https://getsiptv.ru/img/ch_icons/rossiya_kultura.png" group-title="Эфирные 🖥️", Россия Культура
-http://nea-live-stream.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=rossia_k.m3u8&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwMDM1ODM5NSIsImV4cCI6MTc2MTUzMDQyOCwiaHdpZCI6IjI4YzUzMGRkNTE5NmIwZjQ0ZjkyY2ZhN2RhODVkZDU2ZDE2ZTQ4YjRhZjU2MTA5NTk1YmExNmZkMjYyYzRmNTAiLCJsYXN0X3JlcV9kYXRlIjoxNzYwOTI1NjI4LCJzZXNzaW9uX2lkIjoiY2UzZDlhZTA3NTJlYmJhYWYyNDU4NDI1MjJjZjhkY2EiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.nQarfxv2-Q1EvSL_fuJxWZA2GV6Z1C4vwkTUVIHJUXA
+http://146.120.14.239:3001/play/a083
 
 #EXTINF:-1 tvg-id="zvezda" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Эфирные 🖥️",Звезда
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
@@ -127,9 +124,6 @@ http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/mono.ts.m3u8
 #EXTINF:-1 tvg-id="ratnik" group-title="Эфирные 🖥️", Ратник HD
 http://iptv46.mcx-ix.ru:8077/ratnik_hd/index.m3u8
 
-#EXTINF:-1 group-title="Эфирные 🖥️",Зал суда
-http://stream-msk-11.ott.tricolor.tv/dtv/id699_MSKSG-PVR-1--Zal_suda/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwMDM1ODM5NSIsImV4cCI6MTc2MTUzMDQyOCwiaHdpZCI6IjI4YzUzMGRkNTE5NmIwZjQ0ZjkyY2ZhN2RhODVkZDU2ZDE2ZTQ4YjRhZjU2MTA5NTk1YmExNmZkMjYyYzRmNTAiLCJsYXN0X3JlcV9kYXRlIjoxNzYwOTI1NjI4LCJzZXNzaW9uX2lkIjoiY2UzZDlhZTA3NTJlYmJhYWYyNDU4NDI1MjJjZjhkY2EiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.nQarfxv2-Q1EvSL_fuJxWZA2GV6Z1C4vwkTUVIHJUXA
-
 #EXTINF:-1 tvg-id="pervy-krymsky" group-title="Эфирные 🖥️", Первый Крымский
 https://live1.1tvcrimea.ru/1tvcrimea.m3u8
 
@@ -137,15 +131,12 @@ https://live1.1tvcrimea.ru/1tvcrimea.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://s55766.cdn.ngenix.net/s55766-media-origin/rline_high/index.m3u8
 
-#EXTINF:-1 group-title="Эфирные 🖥️",CGTN-Русский
-http://stream-msk-05.ott.tricolor.tv/dtv/id656_MSKSG-PVR-1--CGTN_Rus/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwMDM1ODM5NSIsImV4cCI6MTc2MTUzMDQyOCwiaHdpZCI6IjI4YzUzMGRkNTE5NmIwZjQ0ZjkyY2ZhN2RhODVkZDU2ZDE2ZTQ4YjRhZjU2MTA5NTk1YmExNmZkMjYyYzRmNTAiLCJsYXN0X3JlcV9kYXRlIjoxNzYwOTI1NjI4LCJzZXNzaW9uX2lkIjoiY2UzZDlhZTA3NTJlYmJhYWYyNDU4NDI1MjJjZjhkY2EiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.nQarfxv2-Q1EvSL_fuJxWZA2GV6Z1C4vwkTUVIHJUXA
-
 #EXTINF:-1 tvg-id="otr" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Эфирные 🖥️",ОТР
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://zabava-htlive.cdn.ngenix.net/hls/CH_OTR/variant.m3u8
 
 #EXTINF:-1 tvg-logo="https://iptvx.one/picons/otr.png" tvg-id="otr" group-title="Эфирные 🖥️", ОТР HD
-http://live-stream-18.ott.tricolor.tv/live/live/otr/hls_enc/otr.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwMDM1ODM5NSIsImV4cCI6MTc2MTUzMDQyOCwiaHdpZCI6IjI4YzUzMGRkNTE5NmIwZjQ0ZjkyY2ZhN2RhODVkZDU2ZDE2ZTQ4YjRhZjU2MTA5NTk1YmExNmZkMjYyYzRmNTAiLCJsYXN0X3JlcV9kYXRlIjoxNzYwOTI1NjI4LCJzZXNzaW9uX2lkIjoiY2UzZDlhZTA3NTJlYmJhYWYyNDU4NDI1MjJjZjhkY2EiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.nQarfxv2-Q1EvSL_fuJxWZA2GV6Z1C4vwkTUVIHJUXA
+http://178.217.72.72/OTR/index.m3u8
 
 #EXTINF:-1 catchup="append" tvg-logo="http://only4.tv/ch/417.png" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Эфирные 🖥️",Москва. Доверие
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
@@ -155,127 +146,97 @@ http://rt-mos-htlive.cdn.ngenix.net/hls/CH_R04_DOVERIE/variant.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://rt-ct-belg-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_BELG_MIR_BLG/variant.m3u8
 
-#EXTINF:-1 tvg-id="rbk" group-title="Новости", РБК
-http://stream-msk-07.ott.tricolor.tv/dtv/id191_MSKSG-PVR-1--RBK_TV/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwMDM1ODM5NSIsImV4cCI6MTc2MTUzMDQyOCwiaHdpZCI6IjI4YzUzMGRkNTE5NmIwZjQ0ZjkyY2ZhN2RhODVkZDU2ZDE2ZTQ4YjRhZjU2MTA5NTk1YmExNmZkMjYyYzRmNTAiLCJsYXN0X3JlcV9kYXRlIjoxNzYwOTI1NjI4LCJzZXNzaW9uX2lkIjoiY2UzZDlhZTA3NTJlYmJhYWYyNDU4NDI1MjJjZjhkY2EiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.nQarfxv2-Q1EvSL_fuJxWZA2GV6Z1C4vwkTUVIHJUXA
+#EXTINF:-1 tvg-id="rbk" group-title="Новости 🌍", РБК
+http://178.217.72.72/RBK/index.m3u8
 
-#EXTINF:-1 tvg-id="rbk" group-title="Новости", РБК HD
+#EXTINF:-1 tvg-id="rbk" group-title="Новости 🌍", РБК HD
 http://online.video.rbc.ru/online/rbctv_1080p/index.m3u8
 
-#EXTINF:-1 tvg-id="ОБЩЕСТВЕННАЯ СЛУЖБА НОВОСТЕЙ" group-title="Новости", ОСН ТВ
+#EXTINF:-1 tvg-id="ОБЩЕСТВЕННАЯ СЛУЖБА НОВОСТЕЙ" group-title="Новости 🌍", ОСН ТВ
 http://osnmedia.servicecdn.ru/streams/17603_88089/playlist.m3u8
 
-#EXTINF:-1 tvg-id="http://i123.fastpic.org/big/2024/0804/f2/3224533c0eaac600270e7f33513b67f2.png" tvg-id="NEWS FRONT TV" group-title="Новости", News Front TV
-https://tv.2kita.com/stream/index.m3u8
-
-#EXTINF:-1 group-title="Новости",Беларусь 24
+#EXTINF:-1 group-title="Новости 🌍",Беларусь 24
 https://edge50.dc.beltelecom.by/ngtrk/smil:belarus24.smil/chunklist_b5160000_sleng.m3u8
 
-#EXTINF:-1 tvg-id="ont-by" tvg-logo="http://i120.fastpic.org/big/2022/1030/82/98a51aa644e4a988a369cd1c3bc9e882.png" group-title="Новости", ОНТ Беларусь
+#EXTINF:-1 tvg-id="ont-by" tvg-logo="http://i120.fastpic.org/big/2022/1030/82/98a51aa644e4a988a369cd1c3bc9e882.png" group-title="Новости 🌍", ОНТ Беларусь
 https://edge50.dc.beltelecom.by/ont/ont/chunklist_b5160000_sleng.m3u8
 
-#EXTINF:-1 tvg-id="ldpr-tv" tvg-logo="https://iptvx.one/picons/ldpr-tv.png" group-title="Новости", ЛДПР ТВ
+#EXTINF:-1 tvg-id="ldpr-tv" tvg-logo="https://iptvx.one/picons/ldpr-tv.png" group-title="Новости 🌍", ЛДПР ТВ
 http://46.46.143.222:1935/live/mp4:ldpr.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="solovjinypomiot" group-title="Новости", Соловьев.Live
-https://stream-msk-17.ott.tricolor.tv/dtv/id979_MSKSG-PVR-1--SolovievLive/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwMDM1ODM5NSIsImV4cCI6MTc2MTUzMDQyOCwiaHdpZCI6IjI4YzUzMGRkNTE5NmIwZjQ0ZjkyY2ZhN2RhODVkZDU2ZDE2ZTQ4YjRhZjU2MTA5NTk1YmExNmZkMjYyYzRmNTAiLCJsYXN0X3JlcV9kYXRlIjoxNzYwOTI1NjI4LCJzZXNzaW9uX2lkIjoiY2UzZDlhZTA3NTJlYmJhYWYyNDU4NDI1MjJjZjhkY2EiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.nQarfxv2-Q1EvSL_fuJxWZA2GV6Z1C4vwkTUVIHJUXA
-
-#EXTINF:-1 tvg-id="solovjinypomiot" group-title="Новости", Соловьев.Live HD
+#EXTINF:-1 tvg-id="solovjinypomiot" group-title="Новости 🌍", Соловьев.Live HD
 https://player.smotrim.ru/iframe/stream/live_id/985d5c7b-9727-4942-a4ba-a6e852caf0c1
 
-#EXTINF:-1 tvg-id="dumatv" group-title="Новости", Дума ТВ
+#EXTINF:-1 tvg-id="dumatv" group-title="Новости 🌍", Дума ТВ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 https://dumatv.iptv2022.com/tracks-v4a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="no_epg_news" tvg-logo="https://cdn.ruwiki.ru/commonswiki/files/thumb/6/61/TASS_Logo_Cyrillic.svg/150px-TASS_Logo_Cyrillic.svg.png" group-title="Новости", ТАСС
+#EXTINF:-1 tvg-id="no_epg_news" tvg-logo="https://cdn.ruwiki.ru/commonswiki/files/thumb/6/61/TASS_Logo_Cyrillic.svg/150px-TASS_Logo_Cyrillic.svg.png" group-title="Новости 🌍", ТАСС
 https://tass-hls.servicecdn.ru/httpstreamer/tass-loop-main.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="pro-business" tvg-logo="https://iptvx.one/picons/pro-business.png" group-title="Новости", Про бизнес
+#EXTINF:-1 tvg-id="pro-business" tvg-logo="https://iptvx.one/picons/pro-business.png" group-title="Новости 🌍", Про бизнес
 http://176.107.219.20:9000/play/a003/index.m3u8
 
-#EXTINF:-1 tvg-id="euronews" group-title="Новости", EuroNews
+#EXTINF:-1 tvg-id="euronews" group-title="Новости 🌍", EuroNews
 https://flussonic.salomtv.uz/EURONEWS/video.m3u8
 
-#EXTINF:-1 tvg-id="rtvi" group-title="Новости", RTVi
+#EXTINF:-1 tvg-id="rtvi" group-title="Новости 🌍", RTVi
 http://178.134.1.158:8081/rtvi/index.m3u8
 
-#EXTINF:-1 tvg-id="deutsche-welle-ru" group-title="Новости", DW Russia
+#EXTINF:-1 tvg-id="deutsche-welle-ru" group-title="Новости 🌍", DW Russia
 https://dwamdstream110.akamaized.net/hls/live/2017971/dwstream110/index.m3u8
 
-#EXTINF:-1 tvg-id="cnn" group-title="Новости", CNN
-https://ds2c506obo7m8.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-7zjq3tdqasbg8/index.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D&ads.ssai_vendor=SSSLIVE
+#EXTINF:-1 tvg-id="bbc" group-title="Новости 🌍", BBC News
+https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
 
-#EXTINF:-1 tvg-id="bbc" group-title="Новости", BBC World News
-https://d1kvlt93j1bc49.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-6vpx7bvwjm7ao/v1/amcnetworks_bbcnews_1/samsungheadend_us/latest/main/hls/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE
-
-#EXTINF:-1 tvg-id="Fox News" tvg-logo="http://i115.fastpic.org/big/2021/0923/28/6c6a6cae8faf56699e1b067d6bc24a28.png" group-title="Новости", FOX NEWS CHANNEL FHD
+#EXTINF:-1 tvg-id="Fox News" tvg-logo="http://i115.fastpic.org/big/2021/0923/28/6c6a6cae8faf56699e1b067d6bc24a28.png" group-title="Новости 🌍", FOX NEWS CHANNEL FHD
 https://a1xs.vip/300011
 
-#EXTINF:-1 tvg-id="dozhd" group-title="Новости", Дождь ТВ [СМИ иногент]
-https://wl.tvrain.tv/transcode/ngrp:ses_all/playlist.m3u8
-
-#EXTINF:-1 tvg-id="dozhd" group-title="Новости", Дождь HD [СМИ иногент]
-https://m3u8.ott.blue/watch/7319/video.m3u8?geo=auto&token=94450098895765784220366841698509
-
-#EXTINF:-1 tvg-id="nastoyaschee-vremia" group-title="Новости",Настоящее время HD [СМИ иногент]
+#EXTINF:-1 tvg-id="nastoyaschee-vremia" group-title="Новости 🌍",Настоящее время HD [СМИ иногент]
 https://rfe-ingest.akamaized.net/hls/live/2033043/tvmc05/master.m3u8
 
-#EXTINF:-1 tvg-id="al-jazeera-int" group-title="Новости", Al Jazeera
-http://m3u8.ott.blue/watch/92/video.m3u8?geo=auto&token=94450098895765784220366841698509
-
-#EXTINF:-1 tvg-id="rtd-ru" group-title="Новости",RT Д HD
-http://stream-msk-10.ott.tricolor.tv/dtv/id357_MSKSG-PVR-1--RTD/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwMDM1ODM5NSIsImV4cCI6MTc2MTUzMDQyOCwiaHdpZCI6IjI4YzUzMGRkNTE5NmIwZjQ0ZjkyY2ZhN2RhODVkZDU2ZDE2ZTQ4YjRhZjU2MTA5NTk1YmExNmZkMjYyYzRmNTAiLCJsYXN0X3JlcV9kYXRlIjoxNzYwOTI1NjI4LCJzZXNzaW9uX2lkIjoiY2UzZDlhZTA3NTJlYmJhYWYyNDU4NDI1MjJjZjhkY2EiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.nQarfxv2-Q1EvSL_fuJxWZA2GV6Z1C4vwkTUVIHJUXA
-
-#EXTINF:-1 tvg-id="rt-news" group-title="Новости",RT News
-http://stream-msk-04.ott.tricolor.tv/dtv/id289_MSKSG-PVR-1--RT/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwMDM1ODM5NSIsImV4cCI6MTc2MTUzMDQyOCwiaHdpZCI6IjI4YzUzMGRkNTE5NmIwZjQ0ZjkyY2ZhN2RhODVkZDU2ZDE2ZTQ4YjRhZjU2MTA5NTk1YmExNmZkMjYyYzRmNTAiLCJsYXN0X3JlcV9kYXRlIjoxNzYwOTI1NjI4LCJzZXNzaW9uX2lkIjoiY2UzZDlhZTA3NTJlYmJhYWYyNDU4NDI1MjJjZjhkY2EiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.nQarfxv2-Q1EvSL_fuJxWZA2GV6Z1C4vwkTUVIHJUXA
-
-#EXTINF:-1 tvg-id="rt-news" group-title="Новости",RT News HD
+#EXTINF:-1 tvg-id="rt-news" group-title="Новости 🌍",RT News HD
 http://rt-glb.rttv.com/dvr/rtnews/playlist.m3u8
 
-#EXTINF:-1 tvg-id="360-news" group-title="Новости", 360 Новости
+#EXTINF:-1 tvg-id="360-news" group-title="Новости 🌍", 360 Новости
 http://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-03-srt.smil/tracks-v5a1/mono.m3u8
 
-#EXTINF:-1 group-title="Новости",Известия HD
+#EXTINF:-1 group-title="Новости 🌍",Известия HD
 http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
 
-#EXTINF:-1 tvg-id="cctv4" group-title="Новости", CCTV4 Europe
-http://stream-msk-13.ott.tricolor.tv/dtv/id658_MSKSG-PVR-1--CCTV4/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwMDM1ODM5NSIsImV4cCI6MTc2MTUzMDQyOCwiaHdpZCI6IjI4YzUzMGRkNTE5NmIwZjQ0ZjkyY2ZhN2RhODVkZDU2ZDE2ZTQ4YjRhZjU2MTA5NTk1YmExNmZkMjYyYzRmNTAiLCJsYXN0X3JlcV9kYXRlIjoxNzYwOTI1NjI4LCJzZXNzaW9uX2lkIjoiY2UzZDlhZTA3NTJlYmJhYWYyNDU4NDI1MjJjZjhkY2EiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.nQarfxv2-Q1EvSL_fuJxWZA2GV6Z1C4vwkTUVIHJUXA
+#EXTINF:-1 tvg-id="cgtn" group-title="Новости 🌍", CGTN Русский
+https://english-livetx.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMHsb1VosgoT220802_hd.m3u8
 
-#EXTINF:-1 tvg-id="cgtn" group-title="Новости", CGTN
-http://stream-msk-14.ott.tricolor.tv/dtv/id657_MSKSG-PVR-1--CGTN/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwMDM1ODM5NSIsImV4cCI6MTc2MTUzMDQyOCwiaHdpZCI6IjI4YzUzMGRkNTE5NmIwZjQ0ZjkyY2ZhN2RhODVkZDU2ZDE2ZTQ4YjRhZjU2MTA5NTk1YmExNmZkMjYyYzRmNTAiLCJsYXN0X3JlcV9kYXRlIjoxNzYwOTI1NjI4LCJzZXNzaW9uX2lkIjoiY2UzZDlhZTA3NTJlYmJhYWYyNDU4NDI1MjJjZjhkY2EiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.nQarfxv2-Q1EvSL_fuJxWZA2GV6Z1C4vwkTUVIHJUXA
-
-#EXTINF:-1 tvg-id="rzhd-tv" group-title="Новости",РЖД HD
+#EXTINF:-1 tvg-id="rzhd-tv" group-title="Новости 🌍",РЖД HD
 http://hls.tva.cdnvideo.ru/tva/tvahd.sdp/playlist.m3u8
 
-#EXTINF:-1 tvg-id="mir-24" group-title="Новости", Мир 24
+#EXTINF:-1 tvg-id="mir-24" group-title="Новости 🌍", Мир 24
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 
-#EXTINF:-1 tvg-id="vmeste-rf" group-title="Новости",Вместе-РФ
+#EXTINF:-1 tvg-id="vmeste-rf" group-title="Новости 🌍",Вместе-РФ
 https://qcpdqumitwf.a.trbcdn.net/livemastersrt/pr4mw_lvie-vmesterf-srt.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="krik-tv" tvg-logo="http://i115.fastpic.org/big/2021/0927/96/9eeb7e709b0b078974851708d4a43296.png" group-title="Новости",Крик-ТВ
+#EXTINF:-1 tvg-id="krik-tv" tvg-logo="http://i115.fastpic.org/big/2021/0927/96/9eeb7e709b0b078974851708d4a43296.png" group-title="Новости 🌍",Крик-ТВ
 http://hls-rictv.cdnvideo.ru/rictv/rictv-srt-stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://periscope-app.ru/netcat_files/393/606/moskva_24.jpg" group-title="Новости", Москва 24
-https://stream-msk-13.ott.tricolor.tv/dtv/id254_MSKSG-PVR-1--Moskva24/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwMDM1ODM5NSIsImV4cCI6MTc2MTUzMDQyOCwiaHdpZCI6IjI4YzUzMGRkNTE5NmIwZjQ0ZjkyY2ZhN2RhODVkZDU2ZDE2ZTQ4YjRhZjU2MTA5NTk1YmExNmZkMjYyYzRmNTAiLCJsYXN0X3JlcV9kYXRlIjoxNzYwOTI1NjI4LCJzZXNzaW9uX2lkIjoiY2UzZDlhZTA3NTJlYmJhYWYyNDU4NDI1MjJjZjhkY2EiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.nQarfxv2-Q1EvSL_fuJxWZA2GV6Z1C4vwkTUVIHJUXA
+#EXTINF:-1 tvg-logo="http://periscope-app.ru/netcat_files/393/606/moskva_24.jpg" group-title="Новости 🌍", Москва 24
+http://178.217.72.72/Moskva_24/index.m3u8
 
-#EXTINF:-1 catchup="append" tvg-logo="https://getsiptv.ru/img/ch_icons/rossiya_24.png" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Новости",Россия 24
+#EXTINF:-1 catchup="append" tvg-logo="https://getsiptv.ru/img/ch_icons/rossiya_24.png" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Новости 🌍",Россия 24
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA24/variant.m3u8
 
-#EXTINF:-1 tvg-logo="https://iptvx.one/picons/rossia-24.png" tvg-id="rossia-24" group-title="Новости", Россия-24
-https://live-stream-13.ott.tricolor.tv/live/live/rossia_24/hls_enc/rossia_24.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwMDM1ODM5NSIsImV4cCI6MTc2MTUzMDQyOCwiaHdpZCI6IjI4YzUzMGRkNTE5NmIwZjQ0ZjkyY2ZhN2RhODVkZDU2ZDE2ZTQ4YjRhZjU2MTA5NTk1YmExNmZkMjYyYzRmNTAiLCJsYXN0X3JlcV9kYXRlIjoxNzYwOTI1NjI4LCJzZXNzaW9uX2lkIjoiY2UzZDlhZTA3NTJlYmJhYWYyNDU4NDI1MjJjZjhkY2EiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.nQarfxv2-Q1EvSL_fuJxWZA2GV6Z1C4vwkTUVIHJUXA
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/rossia-24.png" tvg-id="rossia-24" group-title="Новости 🌍", Россия-24
+http://178.217.72.72/Rossiya_24/index.m3u8
 
-#EXTINF:-1 tvg-id="rossia-24" group-title="Новости", Россия 24 HD
+#EXTINF:-1 tvg-id="rossia-24" group-title="Новости 🌍", Россия 24 HD
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-hd/1080p.m3u8
 
-#EXTINF:-1 tvg-id="krym24" group-title="Новости", Крым 24
+#EXTINF:-1 tvg-id="krym24" group-title="Новости 🌍", Крым 24
 http://live24.1tvcrimea.ru/switcher.m3u8
 
-#EXTINF:-1 tvg-id="legendarny24" group-title="Новости", Легендарный 24 HD
+#EXTINF:-1 tvg-id="legendarny24" group-title="Новости 🌍", Легендарный 24 HD
 https://sevas.1tvcrimea.ru/legendarniy24.m3u8
-
-#EXTINF:-1 tvg-id="xabar24" group-title="Новости", Хабар 24
-https://stream-msk-17.ott.tricolor.tv/dtv/id947_MSKSG-PVR-1--KZ24_SD/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwMDM1ODM5NSIsImV4cCI6MTc2MTUzMDQyOCwiaHdpZCI6IjI4YzUzMGRkNTE5NmIwZjQ0ZjkyY2ZhN2RhODVkZDU2ZDE2ZTQ4YjRhZjU2MTA5NTk1YmExNmZkMjYyYzRmNTAiLCJsYXN0X3JlcV9kYXRlIjoxNzYwOTI1NjI4LCJzZXNzaW9uX2lkIjoiY2UzZDlhZTA3NTJlYmJhYWYyNDU4NDI1MjJjZjhkY2EiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.nQarfxv2-Q1EvSL_fuJxWZA2GV6Z1C4vwkTUVIHJUXA
 
 #EXTINF:-1 tvg-id="ufc" group-title="Спортивные", Удар ТВ
 http://87.246.54.249:8085/UDAR/index.m3u8
@@ -4913,54 +4874,54 @@ http://89.38.8.130:39435
 
 
 
-#EXTINF:-1 tvg-id="pervy-info-by" tvg-logo="https://iptvx.one/picons/pervy-info-by.png" group-title="Новости",Первый информационный
+#EXTINF:-1 tvg-id="pervy-info-by" tvg-logo="https://iptvx.one/picons/pervy-info-by.png" group-title="Новости 🌍",Первый информационный
 https://ngtrk.dc.beltelecom.by/ngtrk/smil:informacionnyy.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="krik-tv" tvg-logo="https://iptvx.one/picons/krik-tv.png" group-title="Новости",Крик ТВ 
+#EXTINF:-1 tvg-id="krik-tv" tvg-logo="https://iptvx.one/picons/krik-tv.png" group-title="Новости 🌍",Крик ТВ 
 http://hls-rictv.cdnvideo.ru/rictv/rictv-srt-stream/playlist.m3u8
-#EXTINF:-1 tvg-id="izvestia" tvg-logo="https://iptvx.one/picons/izvestia.png" group-title="Новости",Известия
+#EXTINF:-1 tvg-id="izvestia" tvg-logo="https://iptvx.one/picons/izvestia.png" group-title="Новости 🌍",Известия
 http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
-#EXTINF:-1 tvg-id="360-news" tvg-logo="https://iptvx.one/picons/360-news.png" group-title="Новости",360° Новости
+#EXTINF:-1 tvg-id="360-news" tvg-logo="https://iptvx.one/picons/360-news.png" group-title="Новости 🌍",360° Новости
 https://edge-tv-ll.facecast.io/evacoder_hls_hi/UBZfFgtKB1JwTwoDERNQVGGs/1080.m3u8
-#EXTINF:-1 tvg-id="euronews-en" tvg-logo="https://iptvx.one/picons/euronews.png" group-title="Новости",Euronews
+#EXTINF:-1 tvg-id="euronews-en" tvg-logo="https://iptvx.one/picons/euronews.png" group-title="Новости 🌍",Euronews
 https://flussonic.salomtv.uz/EURONEWS/video.m3u8
-#EXTINF:-1 tvg-id="xabar24" tvg-logo="https://epg.iptvx.one/picons/xabar24.png" group-title="Новости",KZ 24
+#EXTINF:-1 tvg-id="xabar24" tvg-logo="https://epg.iptvx.one/picons/xabar24.png" group-title="Новости 🌍",KZ 24
 https://tvcdn01.oktv.kz/tv/24kz/index.m3u8
-#EXTINF:-1 tvg-id="al-jazeera-int" tvg-logo="https://iptvx.one/picons/al-jazeera-int.png" group-title="Новости",Al Jazeera
+#EXTINF:-1 tvg-id="al-jazeera-int" tvg-logo="https://iptvx.one/picons/al-jazeera-int.png" group-title="Новости 🌍",Al Jazeera
 https://live-hls-web-aje.getaj.net/AJE/index.m3u8
-#EXTINF:-1 tvg-id="mir-24" tvg-logo="https://iptvx.one/picons/mir24.png" group-title="Новости",Мир 24
+#EXTINF:-1 tvg-id="mir-24" tvg-logo="https://iptvx.one/picons/mir24.png" group-title="Новости 🌍",Мир 24
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
-#EXTINF:-1 tvg-id="rossia-24" tvg-logo="https://iptvx.one/picons/rossia-24.png" group-title="Новости",Россия 24
+#EXTINF:-1 tvg-id="rossia-24" tvg-logo="https://iptvx.one/picons/rossia-24.png" group-title="Новости 🌍",Россия 24
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-sd/index.m3u8
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/TASS_Logo_(Cyrillic)_2017.svg/1200px-TASS_Logo_(Cyrillic)_2017.svg.png" group-title="Новости",ТАСС
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/TASS_Logo_(Cyrillic)_2017.svg/1200px-TASS_Logo_(Cyrillic)_2017.svg.png" group-title="Новости 🌍",ТАСС
 https://tass-hls.servicecdn.ru/httpstreamer/tass-loop-main.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="rbk" tvg-logo="https://iptvx.one/picons/rbk.png" group-title="Новости",РБК
+#EXTINF:-1 tvg-id="rbk" tvg-logo="https://iptvx.one/picons/rbk.png" group-title="Новости 🌍",РБК
 http://92.50.128.180/utv/1358/index.m3u8
-#EXTINF:-1 tvg-id="rt-news" tvg-logo="https://iptvx.one/picons/rt-news.png" group-title="Новости",Russia Today
+#EXTINF:-1 tvg-id="rt-news" tvg-logo="https://iptvx.one/picons/rt-news.png" group-title="Новости 🌍",Russia Today
 https://rt-glb.rttv.com/dvr/rtnews/playlist_1600Kb.m3u8
-#EXTINF:-1 tvg-id="cnn" tvg-logo="https://iptvx.one/picons/cnn.png" group-title="Новости",CNN
+#EXTINF:-1 tvg-id="cnn" tvg-logo="https://iptvx.one/picons/cnn.png" group-title="Новости 🌍",CNN
 https://ds2c506obo7m8.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-7zjq3tdqasbg8/index.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D&ads.ssai_vendor=SSSLIVE
-#EXTINF:-1 ttvg-id="bbc" tvg-logo="https://iptvx.one/picons/bbc.png" group-title="Новости",BBC World News
+#EXTINF:-1 ttvg-id="bbc" tvg-logo="https://iptvx.one/picons/bbc.png" group-title="Новости 🌍",BBC World News
 https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
-#EXTINF:-1 tvg-id="france24" tvg-logo="https://iptvx.one/picons/france24.png" group-title="Новости",France 24
+#EXTINF:-1 tvg-id="france24" tvg-logo="https://iptvx.one/picons/france24.png" group-title="Новости 🌍",France 24
 
-#EXTINF:-1 tvg-id="cnbc-europe" tvg-logo="https://iptvx.one/picons/cnbc-europe.png" group-title="Новости",CNBC
+#EXTINF:-1 tvg-id="cnbc-europe" tvg-logo="https://iptvx.one/picons/cnbc-europe.png" group-title="Новости 🌍",CNBC
 
-#EXTINF:-1 tvg-id="fox-news-us" tvg-logo="https://iptvx.one/picons/fox-news-us.png" group-title="Новости",Fox News Channel
+#EXTINF:-1 tvg-id="fox-news-us" tvg-logo="https://iptvx.one/picons/fox-news-us.png" group-title="Новости 🌍",Fox News Channel
 https://stream.livenewsplay.com:9443/hls/foxnews/foxsd.m3u8
 https://zekonew.iosplayer.ru/zeko/premium347/mono.m3u8
-#EXTINF:-1 tvg-id="deutsche-welle-de" tvg-logo="https://iptvx.one/picons/deutsche-welle-de.png" group-title="Новости",Deutsche Welle
+#EXTINF:-1 tvg-id="deutsche-welle-de" tvg-logo="https://iptvx.one/picons/deutsche-welle-de.png" group-title="Новости 🌍",Deutsche Welle
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
-#EXTINF:-1 tvg-id="deutsche-welle-ru" tvg-logo="https://epg.iptvx.one/picons/deutsche-welle-ru.png" group-title="Новости",Deutsche Welle Russia
+#EXTINF:-1 tvg-id="deutsche-welle-ru" tvg-logo="https://epg.iptvx.one/picons/deutsche-welle-ru.png" group-title="Новости 🌍",Deutsche Welle Russia
 
-#EXTINF:-1 tvg-id="6470" tvg-logo="http://epg.one/img2/6470.png" group-title="Новости",Rai News 24
+#EXTINF:-1 tvg-id="6470" tvg-logo="http://epg.one/img2/6470.png" group-title="Новости 🌍",Rai News 24
 
-#EXTINF:-1 tvg-id="2860" tvg-logo="http://epg.one/img2/2860.png" group-title="Новости",Sky News UK
+#EXTINF:-1 tvg-id="2860" tvg-logo="http://epg.one/img2/2860.png" group-title="Новости 🌍",Sky News UK
 
-#EXTINF:-1 tvg-id="solovjinypomiot" tvg-logo="https://epg.iptvx.one/picons/solovjinypomiot.png" group-title="Новости",Соловьев Live
+#EXTINF:-1 tvg-id="solovjinypomiot" tvg-logo="https://epg.iptvx.one/picons/solovjinypomiot.png" group-title="Новости 🌍",Соловьев Live
 https://player.smotrim.ru/iframe/stream/live_id/985d5c7b-9727-4942-a4ba-a6e852caf0c1
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/e/ee/%D0%9E%D0%A1%D0%9D_%D0%A2%D0%92_2022.jpg" group-title="Новости",ОСН
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/e/ee/%D0%9E%D0%A1%D0%9D_%D0%A2%D0%92_2022.jpg" group-title="Новости 🌍",ОСН
 http://osnmedia.servicecdn.ru/streams/17603_88089/playlist.m3u8
-#EXTINF:-1 tvg-id="pro-business" tvg-logo="https://iptvx.one/picons/pro-business.png" group-title="Новости",Про бизнес
+#EXTINF:-1 tvg-id="pro-business" tvg-logo="https://iptvx.one/picons/pro-business.png" group-title="Новости 🌍",Про бизнес
 http://176.107.219.20:9000/play/a003/index.m3u8
 
 
@@ -5673,6 +5634,7 @@ http://stream.ehrhiti.lv:8000/khr.mp3
 
 #EXTINF:-1 tvg-logo="https://p16-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-euttp/2bffd5e34aae71b5f2234fd2573cf3fd~c5_720x720.webp" tvg-id="no_epg_radio" group-title="Радио", EHR FM Русские Хиты 2000-х
 http://stream.ehrhiti.lv:8000/Stream_66.mp3
+
 
 
 
