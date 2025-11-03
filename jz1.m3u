@@ -3780,618 +3780,6 @@ http://arbiter.bolshoe.tv/?path=abr2/poehali/71/copy/playlist.m3u8&wmsAuthSign=c
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1 group-title="JZexe 🍑",Рен ТВ HD
-http://178.217.72.72/REN_TV/index.m3u8
-#EXTINF:-1 group-title="JZexe 🍑",Россия 1 HD
-http://178.217.72.72/Rossiya_HD/index.m3u8
-#EXTINF:-1 group-title="JZexe 🍑",Россия 24
-http://178.217.72.72/Rossiya_24/index.m3u8
-#EXTINF:-1 group-title="JZexe 🍑",Россия К
-http://178.217.72.72/Rossiya_Kultura/index.m3u8
-#EXTINF:-1 group-title="JZexe 🍑",ТНТ HD
-http://178.217.72.72/TNT_HD/index.m3u8
-#EXTINF:-1 group-title="JZexe 🍑",ТНТ4
-http://178.217.72.72/TNT4/index.m3u8
-#EXTINF:-1 group-title="JZexe 🍑",НТВ HD
-http://178.217.72.72/NTV_HD/index.m3u8
-#EXTINF:-1 group-title="JZexe 🍑",НТВ право
-http://178.217.72.72/NTV_Pravo/index.m3u8
-#EXTINF:-1 group-title="JZexe 🍑",НТВ стиль
-http://178.217.72.72/NTV_Stil/index.m3u8
-#EXTINF:-1 group-title="JZexe 🍑",Galaxy HD
-http://178.217.72.72/galaxyhd/index.m3u8
-#EXTINF:-1 group-title="JZexe 🍑",Глазами туриста HD
-http://178.217.72.72/glazamiturista/index.m3u8
-#EXTINF:-1 group-title="JZexe 🍑",HOME 4K
-http://178.217.72.72/HOME_4K/index.m3u8
-#EXTINF:-1 group-title="JZexe 🍑",TERRA HD
-http://178.217.72.72/TERRA_HD/index.m3u8
-#EXTINF:-1 group-title="JZexe 🍑",insight HD
-http://178.217.72.72/insight/index.m3u8
-#EXTINF:-1 group-title="JZexe 🍑",Investigation Discovery
-http://178.217.72.72/ID_Xtra/index.m3u8
-#EXTINF:-1 group-title="JZexe 🍑",Big Planet
-http://178.217.72.72/big_planet/index.m3u8
-#EXTINF:-1 group-title="JZexe 🍑",Телепутешествия
-http://178.217.72.72/teleputeshestviya/index.m3u8
-#EXTINF:-1 group-title="JZexe 🍑",Nat Geo Wild
-http://178.217.72.72/Nat_Geo_Wild/index.m3u8
-#EXTINF:-1 group-title="JZexe 🍑",Nat Geo Wild HD
-http://178.217.72.72/Nat_Geo_Wild_HD/index.m3u8
-#EXTINF:-1 group-title="JZexe 🍑",National Geographic
-http://178.217.72.72/National_Geographic/index.m3u8
-#EXTINF:-1 group-title="JZexe 🍑",National Geographic HD
-http://178.217.72.72/National_Geographic_HD/index.m3u8
-#EXTINF:-1 group-title="JZexe 🍑",Ocean TV
-http://178.217.72.72/Ocean_TV/index.m3u8
-#EXTINF:-1 group-title="JZexe 🍑",RTG TV
-http://178.217.72.72/RTG_TV/index.m3u8
-#EXTINF:-1 group-title="JZexe 🍑",Точка РФ
-http://178.217.72.72/HDL/index.m3u8
-#EXTINF:-1 group-title="JZexe 🍑",Оружие
-http://178.217.72.72/orujie/index.m3u8
-#EXTINF:-1 group-title="JZexe 🍑",Моя планета
-http://178.217.72.72/Moya_Planeta/index.m3u8
-#EXTINF:-1 group-title="JZexe 🍑",Драйв
-http://178.217.72.72/Drayv/index.m3u8
-#EXTINF:-1 group-title="JZexe 🍑",Живая планета
-http://178.217.72.72/Zhivaya_Planeta/index.m3u8
-#EXTINF:-1 group-title="JZexe 🍑",Animal Planet HD
-http://178.217.72.72/Animal_Planet_HD/index.m3u8
-#EXTINF:-1 group-title="JZexe 🍑",Нано ТВ HD
-http://178.217.72.72/NANO_HD/index.m3u8
-#EXTINF:-1 group-title="JZexe 🍑",Наука
-http://178.217.72.72/Nauka_2_0/index.m3u8
-#EXTINF:-1 group-title="JZexe 🍑",Travel Channel
-http://178.217.72.72/Travel_Channel/index.m3u8
-#EXTINF:-1 group-title="JZexe 🍑",Travel+Adventure
-http://178.217.72.72/Travel_And_Adventure/index.m3u8
-#EXTINF:-1 group-title="JZexe 🍑",Viasat Explore
-http://178.217.72.72/Viasat_Explorer/index.m3u8
-#EXTINF:-1 group-title="JZexe 🍑",Viasat History
-http://178.217.72.72/Viasat_History/index.m3u8
-#EXTINF:-1 group-title="JZexe 🍑",Viasat Nature
-http://178.217.72.72/Viasat_Nature/index.m3u8
-#EXTINF:-1 group-title="JZexe 🍑",Discovery HD
-http://178.217.72.72/Discovery_HD/index.m3u8
-#EXTINF:-1 group-title="JZexe 🍑",Дикий
-http://178.217.72.72/Dikiy/index.m3u8
-#EXTINF:-1 group-title="JZexe 🍑",Загородная жизнь
-http://178.217.72.72/Zagorodnaya_Zhizn/index.m3u8
-#EXTINF:-1 group-title="JZexe 🍑",.Black
-http://178.217.72.72/Black/index.m3u8
-#EXTINF:-1 group-title="JZexe 🍑",2x2
-http://178.217.72.72/2x2/index.m3u8
-#EXTINF:-1 group-title="JZexe 🍑",Amedia Hit HD
-http://178.217.72.72/Amedia_Hit/index.m3u8
-#EXTINF:-1 group-title="JZexe 🍑",Amedia Premium HD
-http://178.217.72.72/Amedia_Premium_HD/index.m3u8
-#EXTINF:-1 group-title="JZexe 🍑",Amedia 1 HD
-http://178.217.72.72/A1/index.m3u8
-#EXTINF:-1 group-title="JZexe 🍑",Amedia 2 HD
-http://178.217.72.72/A2/index.m3u8
-#EXTINF:-1 group-title="JZexe 🍑",BCU Action HD
-http://178.217.72.72/BCUActionHD/index.m3u8
-#EXTINF:-1 group-title="JZexe 🍑",BCU Catastrophe HD
-http://178.217.72.72/BCUCatastropheHD/index.m3u8
-#EXTINF:-1 group-title="JZexe 🍑",BCU Comedy HD
-http://178.217.72.72/BCUComedyHD/index.m3u8
-#EXTINF:-1 group-title="JZexe 🍑",BCU Fantastic HD
-http://178.217.72.72/BCUFantasticHD/index.m3u8
-#EXTINF:-1 group-title="JZexe 🍑",BCU Romantic HD
-http://178.217.72.72/BCURomanticHD/index.m3u8
-#EXTINF:-1 group-title="JZexe 🍑",BCU Stars HD
-http://178.217.72.72/BCUStarsHD/index.m3u8
-#EXTINF:-1 group-title="JZexe 🍑",BCU VHS HD
-http://178.217.72.72/BCUVHSHD/index.m3u8
-#EXTINF:-1 group-title="JZexe 🍑",BCU Kinorating HD
-http://178.217.72.72/BCUKinoratingHD/index.m3u8
-#EXTINF:-1 group-title="JZexe 🍑",Bollywood HD
-http://178.217.72.72/Bollywood_HD/index.m3u8
-#EXTINF:-1 group-title="JZexe 🍑",Cinema
-http://178.217.72.72/cinema/index.m3u8
-#EXTINF:-1 group-title="JZexe 🍑",CineMan Action HD
-http://178.217.72.72/CineMan_Action/index.m3u8
-#EXTINF:-1 group-title="JZexe 🍑",CineMan Comedy HD
-http://178.217.72.72/CineMan_Comedy/index.m3u8
-#EXTINF:-1 group-title="JZexe 🍑",CineMan HD
-http://178.217.72.72/CineMan/index.m3u8
-#EXTINF:-1 group-title="JZexe 🍑",CineMan Marvel HD
-http://178.217.72.72/CineMan_Marvel/index.m3u8
-#EXTINF:-1 group-title="JZexe 🍑",CineMan Melodrama HD
-http://178.217.72.72/CineMan_Melodrama/index.m3u8
-#EXTINF:-1 group-title="JZexe 🍑",CineMan Thriller HD
-http://178.217.72.72/CineMan_Thriller/index.m3u8
-#EXTINF:-1 group-title="JZexe 🍑",CineMan Top HD
-http://178.217.72.72/CineMan_Top/index.m3u8
-#EXTINF:-1 group-title="JZexe 🍑",CineMan VHS HD
-http://178.217.72.72/CineMan_VHS/index.m3u8
-#EXTINF:-1 group-title="JZexe 🍑",Fan
-http://178.217.72.72/fan/index.m3u8
-#EXTINF:-1 group-title="JZexe 🍑",Food network
-http://178.217.72.72/food_network/index.m3u8
-#EXTINF:-1 group-title="JZexe 🍑",h1 HD
-http://178.217.72.72/h1/index.m3u8
-#EXTINF:-1 group-title="JZexe 🍑",h2 HD
-http://178.217.72.72/h2/index.m3u8
-#EXTINF:-1 group-title="JZexe 🍑",Hollywood
-http://178.217.72.72/hollywood/index.m3u8
-#EXTINF:-1 group-title="JZexe 🍑",Hollywood HD
-http://178.217.72.72/hollywoodhd/index.m3u8
-#EXTINF:-1 group-title="JZexe 🍑",tv5 HD
-http://178.217.72.72/tv5/index.m3u8
-#EXTINF:-1 group-title="JZexe 🍑",TV XXI
-http://178.217.72.72/TV_XXI/index.m3u8
-#EXTINF:-1 group-title="JZexe 🍑",VIP Comedy HD
-http://178.217.72.72/vip_comedy/index.m3u8
-#EXTINF:-1 group-title="JZexe 🍑",VIP Megahit HD
-http://178.217.72.72/vip_megahit/index.m3u8
-#EXTINF:-1 group-title="JZexe 🍑",VIP Premiere HD
-http://178.217.72.72/vip_premiere/index.m3u8
-#EXTINF:-1 group-title="JZexe 🍑",Авто 24
-http://178.217.72.72/Avto_24/index.m3u8
-#EXTINF:-1 group-title="JZexe 🍑",Аппетитный
-http://178.217.72.72/Morskoy/index.m3u8
-#EXTINF:-1 group-title="JZexe 🍑",Арсенал HD
-http://178.217.72.72/arsenalhd/index.m3u8
-#EXTINF:-1 group-title="JZexe 🍑",Беларусь 24
-http://178.217.72.72/belarus24/index.m3u8
-#EXTINF:-1 group-title="JZexe 🍑",Время
-http://178.217.72.72/Vremya/index.m3u8
-#EXTINF:-1 group-title="JZexe 🍑",Дом кино
-http://178.217.72.72/Dom_Kino/index.m3u8
-#EXTINF:-1 group-title="JZexe 🍑",Дом Кино Премиум HD
-http://178.217.72.72/Dom_Kino_Premium_HD/index.m3u8
-#EXTINF:-1 group-title="JZexe 🍑",Домашний HD
-http://178.217.72.72/Domashniy/index.m3u8
-#EXTINF:-1 group-title="JZexe 🍑",Дорама HD
-http://178.217.72.72/Dorama/index.m3u8
-#EXTINF:-1 group-title="JZexe 🍑",Звезда
-http://178.217.72.72/Zvezda/index.m3u8
-#EXTINF:-1 group-title="JZexe 🍑",Зоо ТВ
-http://178.217.72.72/zootv/index.m3u8
-#EXTINF:-1 group-title="JZexe 🍑",Зоопарк
-http://178.217.72.72/Zoopark/index.m3u8
-#EXTINF:-1 group-title="JZexe 🍑",Известия HD
-http://178.217.72.72/Izvestiya/index.m3u8
-#EXTINF:-1 group-title="JZexe 🍑",КВН ТВ
-http://178.217.72.72/KVN_TV/index.m3u8
-#EXTINF:-1 group-title="JZexe 🍑",Кинеко
-http://178.217.72.72/kineko/index.m3u8
-#EXTINF:-1 group-title="JZexe 🍑",Кино ТВ
-http://178.217.72.72/Kino_TV/index.m3u8
-#EXTINF:-1 group-title="JZexe 🍑",Кинопоказ HD
-http://178.217.72.72/kinopokazhd/index.m3u8
-#EXTINF:-1 group-title="JZexe 🍑",Премиальное HD
-http://178.217.72.72/kinopremium/index.m3u8
-#EXTINF:-1 group-title="JZexe 🍑",Кинокомедия
-http://178.217.72.72/Kinokomediya/index.m3u8
-#EXTINF:-1 group-title="JZexe 🍑",Киномикс
-http://178.217.72.72/Kinomiks/index.m3u8
-#EXTINF:-1 group-title="JZexe 🍑",Киносвидание
-http://178.217.72.72/Kinosvidanie/index.m3u8
-#EXTINF:-1 group-title="JZexe 🍑",Киносерия
-http://178.217.72.72/kinoseriya/index.m3u8
-#EXTINF:-1 group-title="JZexe 🍑",Киноужас
-http://178.217.72.72/kinoujas/index.m3u8
-#EXTINF:-1 group-title="JZexe 🍑",Наше новое кино
-http://178.217.72.72/Nashe_Novoe_Kino/index.m3u8
-#EXTINF:-1 group-title="JZexe 🍑",Кинохит
-http://178.217.72.72/Kinokhit/index.m3u8
-#EXTINF:-1 group-title="JZexe 🍑",Киносемья
-http://178.217.72.72/Kinosemya/index.m3u8
-#EXTINF:-1 group-title="JZexe 🍑",Комедийное HD
-http://178.217.72.72/komediynoe/index.m3u8
-#EXTINF:-1 group-title="JZexe 🍑",Комедия
-http://178.217.72.72/Komediya/index.m3u8
-#EXTINF:-1 group-title="JZexe 🍑",Красная линия
-http://178.217.72.72/Krasnaya_Liniya/index.m3u8
-#EXTINF:-1 group-title="JZexe 🍑",Мир
-http://178.217.72.72/Mir/index.m3u8
-#EXTINF:-1 group-title="JZexe 🍑",Мир 24
-http://178.217.72.72/Mir_24/index.m3u8
-#EXTINF:-1 group-title="JZexe 🍑",Москва 24
-http://178.217.72.72/Moskva_24/index.m3u8
-#EXTINF:-1 group-title="JZexe 🍑",Мосфильм. Золотая коллекция
-http://178.217.72.72/mosfilm/index.m3u8
-#EXTINF:-1 group-title="JZexe 🍑",Наш кинопоказ HD
-http://178.217.72.72/nashkinopokazhd/index.m3u8
-#EXTINF:-1 group-title="JZexe 🍑",Наше HD
-http://178.217.72.72/nashekrutoe/index.m3u8
-#EXTINF:-1 group-title="JZexe 🍑",Ностальгия
-http://178.217.72.72/Nostalgiya/index.m3u8
-#EXTINF:-1 group-title="JZexe 🍑",НСТ
-http://178.217.72.72/NSTV/index.m3u8
-#EXTINF:-1 group-title="JZexe 🍑",О!
-http://178.217.72.72/O/index.m3u8
-#EXTINF:-1 group-title="JZexe 🍑",ОТР
-http://178.217.72.72/OTR/index.m3u8
-#EXTINF:-1 group-title="JZexe 🍑",Победа
-http://178.217.72.72/pobeda/index.m3u8
-#EXTINF:-1 group-title="JZexe 🍑",Поехали!
-http://178.217.72.72/Poehali/index.m3u8
-#EXTINF:-1 group-title="JZexe 🍑",Пятница HD
-http://178.217.72.72/Pyatnitsa/index.m3u8
-#EXTINF:-1 group-title="JZexe 🍑",РБК
-http://178.217.72.72/RBK/index.m3u8
-#EXTINF:-1 group-title="JZexe 🍑",Русский бестселлер
-http://178.217.72.72/russkiy_bestseller/index.m3u8
-#EXTINF:-1 group-title="JZexe 🍑",Русский бестселлер
-http://178.217.72.72/Sony_Sci_Fi/index.m3u8
-#EXTINF:-1 group-title="JZexe 🍑",Сарафан
-http://178.217.72.72/Sarafan/index.m3u8
-#EXTINF:-1 group-title="JZexe 🍑",Совершенно секретно
-http://178.217.72.72/Sovershenno_Sekretno/index.m3u8
-#EXTINF:-1 group-title="JZexe 🍑",Спас
-http://178.217.72.72/Spas/index.m3u8
-#EXTINF:-1 group-title="JZexe 🍑",Ю
-http://178.217.72.72/Yu_TV/index.m3u8
-#EXTINF:-1 group-title="JZexe 🍑",СТС HD
-http://178.217.72.72/STS/index.m3u8
-#EXTINF:-1 group-title="JZexe 🍑",СТС Love
-http://178.217.72.72/STS_Love/index.m3u8
-#EXTINF:-1 group-title="JZexe 🍑",Суббота
-http://178.217.72.72/super/index.m3u8
-#EXTINF:-1 group-title="JZexe 🍑",ТВ3 HD
-http://178.217.72.72/TV3/index.m3u8
-#EXTINF:-1 group-title="JZexe 🍑",Телекафе
-http://178.217.72.72/Telekafe/index.m3u8
-#EXTINF:-1 group-title="JZexe 🍑",Тонус ТВ
-http://178.217.72.72/tonus/index.m3u8
-#EXTINF:-1 group-title="JZexe 🍑",Точка ТВ
-http://178.217.72.72/Tochka_TV/index.m3u8
-#EXTINF:-1 group-title="JZexe 🍑",Усадьба
-http://178.217.72.72/Usadba/index.m3u8
-#EXTINF:-1 group-title="JZexe 🍑",Успех
-http://178.217.72.72/uspeh/index.m3u8
-#EXTINF:-1 group-title="JZexe 🍑",Хит HD
-http://178.217.72.72/hithd/index.m3u8
-#EXTINF:-1 group-title="JZexe 🍑",СТС Kids HD
-http://178.217.72.72/ctc_kids_hd/index.m3u8
-#EXTINF:-1 group-title="JZexe 🍑",Солнце
-http://178.217.72.72/Disney_Channel/index.m3u8
-#EXTINF:-1 group-title="JZexe 🍑",Мама
-http://178.217.72.72/Mama/index.m3u8
-#EXTINF:-1 group-title="JZexe 🍑",Gulli Girl
-http://178.217.72.72/Gulli/index.m3u8
-#EXTINF:-1 group-title="JZexe 🍑",Карусель
-http://178.217.72.72/Karusel/index.m3u8
-#EXTINF:-1 group-title="JZexe 🍑",Детский мир
-http://178.217.72.72/Detskiy_Mir/index.m3u8
-#EXTINF:-1 group-title="JZexe 🍑",Бобёр
-http://178.217.72.72/Bober/index.m3u8
-#EXTINF:-1 group-title="JZexe 🍑",JimJam
-http://178.217.72.72/JimJam/index.m3u8
-#EXTINF:-1 group-title="JZexe 🍑",Bolt HD
-http://178.217.72.72/bolt/index.m3u8
-#EXTINF:-1 group-title="JZexe 🍑",Ani
-http://178.217.72.72/Ani/index.m3u8
-#EXTINF:-1 group-title="JZexe 🍑",Мульт HD
-http://178.217.72.72/Mult/index.m3u8
-#EXTINF:-1 group-title="JZexe 🍑",Мультимузыка
-http://178.217.72.72/Multimuzyka/index.m3u8
-#EXTINF:-1 group-title="JZexe 🍑",TiJi
-http://178.217.72.72/TiJi/index.m3u8
-#EXTINF:-1 group-title="JZexe 🍑",Супергерои
-http://178.217.72.72/Malysh/index.m3u8
-#EXTINF:-1 group-title="JZexe 🍑",Bridge HD
-http://178.217.72.72/Bridge_HD/index.m3u8
-#EXTINF:-1 group-title="JZexe 🍑",Bridge TV classic
-http://178.217.72.72/bridge_classic/index.m3u8
-#EXTINF:-1 group-title="JZexe 🍑",Bridge HD
-http://178.217.72.72/Bridge_TV/index.m3u8
-#EXTINF:-1 group-title="JZexe 🍑",Шансон ТВ
-http://178.217.72.72/Shanson_TV/index.m3u8
-#EXTINF:-1 group-title="JZexe 🍑",Mezzo
-http://178.217.72.72/Mezzo/index.m3u8
-#EXTINF:-1 group-title="JZexe 🍑",Mezzo Live HD
-http://178.217.72.72/Mezzo_Live_HD/index.m3u8
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1 group-title="JZexe 🍑",Россия К
-http://217.21.34.160:38007/kultura/index.m3u8
-#EXTINF:-1 group-title="JZexe 🍑",Amedia Premium HD
-http://217.21.34.160:38007/amediapremium/index.m3u8
-#EXTINF:-1 group-title="JZexe 🍑",RTG HD
-http://217.21.34.160:38007/rtghd/index.m3u8
-#EXTINF:-1 group-title="JZexe 🍑",24 Техно
-http://217.21.34.160:38007/tehno24/index.m3u8
-#EXTINF:-1 group-title="JZexe 🍑",Живая природа
-http://217.21.34.160:38007/zhivaya_priroda/index.m3u8
-#EXTINF:-1 group-title="JZexe 🍑",Дикая охота HD
-http://217.21.34.160:38007/dikayaohotahd/index.m3u8
-#EXTINF:-1 group-title="JZexe 🍑",Дикая рыбалка HD
-http://217.21.34.160:38007/dikayarybalkahd/index.m3u8
-#EXTINF:-1 group-title="JZexe 🍑",Глазами туриста
-http://217.21.34.160:38007/glazami_turista/index.m3u8
-#EXTINF:-1 group-title="JZexe 🍑",Любимое кино
-http://217.21.34.160:38007/lubimoekino/index.m3u8
-#EXTINF:-1 group-title="JZexe 🍑",Мир сериала
-http://217.21.34.160:38007/mirseriala/index.m3u8
-#EXTINF:-1 group-title="JZexe 🍑",Шансон ТВ
-http://217.21.34.160:38007/shanson/index.m3u8
-#EXTINF:-1 group-title="JZexe 🍑",Top Secret
-http://217.21.34.160:38007/sovsek/index.m3u8
-#EXTINF:-1 group-title="JZexe 🍑",СТС Kids
-http://217.21.34.160:38007/stskids/index.m3u8
-#EXTINF:-1 group-title="JZexe 🍑",TV XXI
-http://217.21.34.160:38007/tv-xxi/index.m3u8
-#EXTINF:-1 group-title="JZexe 🍑",Детский мир
-http://217.21.34.160:38007/detmir/index.m3u8
-
-
-#EXTINF:-1 group-title="JZexe 🍑",Первый HD
-http://46.8.46.14/1HD/index.m3u8
-#EXTINF:-1 group-title="JZexe 🍑",Первый канал
-http://46.8.46.14/1/index.m3u8
-#EXTINF:-1 group-title="JZexe 🍑",Россия 1
-http://46.8.46.14/ros1/index.m3u8
-#EXTINF:-1 group-title="JZexe 🍑",ТНТ
-http://46.8.46.14/tnt/index.m3u8
-#EXTINF:-1 group-title="JZexe 🍑",НТВ
-http://46.8.46.14/ntv/index.m3u8
-#EXTINF:-1 group-title="JZexe 🍑",Рен ТВ
-http://46.8.46.14/rentv/index.m3u8
-#EXTINF:-1 group-title="JZexe 🍑",Investigation Discovery
-http://46.8.46.14/id/index.m3u8
-#EXTINF:-1 group-title="JZexe 🍑",Discovery Science
-http://46.8.46.14/DiscoveryScience/index.m3u8
-#EXTINF:-1 group-title="JZexe 🍑",Наука
-http://46.8.46.14/nauka/index.m3u8
-#EXTINF:-1 group-title="JZexe 🍑",Оружие
-http://46.8.46.14/Oruzhie/index.m3u8
-#EXTINF:-1 group-title="JZexe 🍑",Охотник и рыболов HD
-http://46.8.46.14/ohota/index.m3u8
-#EXTINF:-1 group-title="JZexe 🍑",National Geographic
-http://46.8.46.14/National_Geographic/index.m3u8
-#EXTINF:-1 group-title="JZexe 🍑",Приключения HD
-http://46.8.46.14/AdventureHD/index.m3u8
-#EXTINF:-1 group-title="JZexe 🍑",RTG TV
-http://46.8.46.14/rutravel/index.m3u8
-#EXTINF:-1 group-title="JZexe 🍑",Доктор
-http://46.8.46.14/doktor/index.m3u8
-#EXTINF:-1 group-title="JZexe 🍑",Успех
-http://46.8.46.14/uspeh/index.m3u8
-#EXTINF:-1 group-title="JZexe 🍑",Загородная Жизнь
-http://46.8.46.14/usadba/index.m3u8
-#EXTINF:-1 group-title="JZexe 🍑",Нано ТВ
-http://46.8.46.14/Nano/index.m3u8
-#EXTINF:-1 group-title="JZexe 🍑",TV1000 Action
-http://46.8.46.14/actiontv/index.m3u8
-#EXTINF:-1 group-title="JZexe 🍑",TV1000
-http://46.8.46.14/tv1000/index.m3u8
-#EXTINF:-1 group-title="JZexe 🍑",VIP COMEDY
-http://46.8.46.14/vipcomedy/index.m3u8
-#EXTINF:-1 group-title="JZexe 🍑",VIP MEGAHIT HD
-http://46.8.46.14/vipmegahit/index.m3u8
-#EXTINF:-1 group-title="JZexe 🍑",FX
-http://46.8.46.14/FOX/index.m3u8
-#EXTINF:-1 group-title="JZexe 🍑",Comedy Central
-http://46.8.46.14/paramountcomedy/index.m3u8
-#EXTINF:-1 group-title="JZexe 🍑",Русский Бестселлер
-http://46.8.46.14/rubestseller/index.m3u8
-#EXTINF:-1 group-title="JZexe 🍑",Русский Роман HD
-http://46.8.46.14/ruroman/index.m3u8
-#EXTINF:-1 group-title="JZexe 🍑",Победа
-http://46.8.46.14/Pobeda/index.m3u8
-#EXTINF:-1 group-title="JZexe 🍑",Романтичное HD
-http://46.8.46.14/Romantichnoe_HD/index.m3u8
-#EXTINF:-1 group-title="JZexe 🍑",Hollywood
-http://46.8.46.14/amc/index.m3u8
-#EXTINF:-1 group-title="JZexe 🍑",Cinema
-http://46.8.46.14/cinema/index.m3u8
-#EXTINF:-1 group-title="JZexe 🍑",Мир сериала
-http://46.8.46.14/MirSeriala/index.m3u8
-#EXTINF:-1 group-title="JZexe 🍑",Еврокино
-http://46.8.46.14/eurokino/index.m3u8
-#EXTINF:-1 group-title="JZexe 🍑",TV XXI
-http://46.8.46.14/TV21/index.m3u8
-#EXTINF:-1 group-title="JZexe 🍑",Amedia 2
-http://46.8.46.14/A2/index.m3u8
-#EXTINF:-1 group-title="JZexe 🍑",FAN
-http://46.8.46.14/FAN/index.m3u8
-#EXTINF:-1 group-title="JZexe 🍑",КВН ТВ
-http://46.8.46.14/kvn/index.m3u8
-#EXTINF:-1 group-title="JZexe 🍑",Авто плюс
-http://46.8.46.14/avtoplus/index.m3u8
-#EXTINF:-1 group-title="JZexe 🍑",Живи HD
-http://46.8.46.14/zhivi/index.m3u8
-#EXTINF:-1 group-title="JZexe 🍑",Зоопарк
-http://46.8.46.14/zoo/index.m3u8
-#EXTINF:-1 group-title="JZexe 🍑",Театр
-http://46.8.46.14/Teatr/index.m3u8
-#EXTINF:-1 group-title="JZexe 🍑",Драйв
-http://46.8.46.14/Drive/index.m3u8
-#EXTINF:-1 group-title="JZexe 🍑",Кухня HD
-http://46.8.46.14/kuhnya/index.m3u8
-#EXTINF:-1 group-title="JZexe 🍑",Белрос
-http://46.8.46.14/tro/index.m3u8
-#EXTINF:-1 group-title="JZexe 🍑",Телекафе
-http://46.8.46.14/telecafe/index.m3u8
-#EXTINF:-1 group-title="JZexe 🍑",Luxury
-http://46.8.46.14/Luxury/index.m3u8
-#EXTINF:-1 group-title="JZexe 🍑",5 Канал
-http://46.8.46.14/5ch/index.m3u8
-#EXTINF:-1 group-title="JZexe 🍑",Домашний
-http://46.8.46.14/dom/index.m3u8
-#EXTINF:-1 group-title="JZexe 🍑",Че
-http://46.8.46.14/che/index.m3u8
-#EXTINF:-1 group-title="JZexe 🍑",ТВЦ
-http://46.8.46.14/TVCenter/index.m3u8
-#EXTINF:-1 group-title="JZexe 🍑",Мир
-http://46.8.46.14/mir/index.m3u8
-#EXTINF:-1 group-title="JZexe 🍑",Звезда
-http://46.8.46.14/zvezda/index.m3u8
-#EXTINF:-1 group-title="JZexe 🍑",Ю
-http://46.8.46.14/utv/index.m3u8
-#EXTINF:-1 group-title="JZexe 🍑",ТВ3
-http://46.8.46.14/tv3/index.m3u8
-#EXTINF:-1 group-title="JZexe 🍑",Спас
-http://46.8.46.14/spas/index.m3u8
-#EXTINF:-1 group-title="JZexe 🍑",Союз
-http://46.8.46.14/soyuz/index.m3u8
-#EXTINF:-1 group-title="JZexe 🍑",РБК
-http://46.8.46.14/rbk/index.m3u8
-#EXTINF:-1 group-title="JZexe 🍑",Nick Jr
-http://46.8.46.14/nickjr/index.m3u8
-#EXTINF:-1 group-title="JZexe 🍑",Cartoon Network
-http://46.8.46.14/Cartoon_Network/index.m3u8
-#EXTINF:-1 group-title="JZexe 🍑",Уникум
-http://46.8.46.14/detskiy/index.m3u8
-#EXTINF:-1 group-title="JZexe 🍑",Nickelodeon
-http://46.8.46.14/Nickelodeon/index.m3u8
-#EXTINF:-1 group-title="JZexe 🍑",Gulli Girl
-http://46.8.46.14/Gulli/index.m3u8
-#EXTINF:-1 group-title="JZexe 🍑",Шансон ТВ
-http://46.8.46.14/shanson/index.m3u8
-#EXTINF:-1 group-title="JZexe 🍑",RU.TV
-http://46.8.46.14/rutv/index.m3u8
-#EXTINF:-1 group-title="JZexe 🍑",Жара
-http://46.8.46.14/Zhara/index.m3u8
-#EXTINF:-1 group-title="JZexe 🍑",Bridge TV Hits
-http://46.8.46.14/BridgeDance/index.m3u8
-#EXTINF:-1 group-title="JZexe 🍑",Viasat Sport
-http://46.8.46.14/viasport/index.m3u8
-#EXTINF:-1 group-title="JZexe 🍑",Матч ТВ
-http://46.8.46.14/match/index.m3u8
-#EXTINF:-1 group-title="JZexe 🍑",Матч! Боец
-http://46.8.46.14/boec/index.m3u8
-#EXTINF:-1 group-title="JZexe 🍑",Матч Премьер
-http://46.8.46.14/premier/index.m3u8
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 #EXTINF:-1 tvg-id="match-football1" tvg-logo="https://iptvx.one/picons/match-football1.png" group-title="Спортивные ⚽️",Матч! Футбол 1 HD
 http://193.111.244.35:7474/matchfut1hd/index.m3u8
 #EXTINF:-1 tvg-id="match-football1" tvg-logo="https://iptvx.one/picons/match-football1.png" group-title="Спортивные ⚽️",Матч! Футбол 1 HD*
@@ -5460,6 +4848,1513 @@ http://188.237.47.212:6005
 http://tv.streams.baikal-telecom.net:8080/NanoTV/index.m3u8
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 group-title="JZexe 1 🍑 (TECT)",Рен ТВ HD
+http://178.217.72.72/REN_TV/index.m3u8
+#EXTINF:-1 group-title="JZexe 1 🍑 (TECT)",Россия 1 HD
+http://178.217.72.72/Rossiya_HD/index.m3u8
+#EXTINF:-1 group-title="JZexe 1 🍑 (TECT)",Россия 24
+http://178.217.72.72/Rossiya_24/index.m3u8
+#EXTINF:-1 group-title="JZexe 1 🍑 (TECT)",Россия К
+http://178.217.72.72/Rossiya_Kultura/index.m3u8
+#EXTINF:-1 group-title="JZexe 1 🍑 (TECT)",ТНТ HD
+http://178.217.72.72/TNT_HD/index.m3u8
+#EXTINF:-1 group-title="JZexe 1 🍑 (TECT)",ТНТ4
+http://178.217.72.72/TNT4/index.m3u8
+#EXTINF:-1 group-title="JZexe 1 🍑 (TECT)",НТВ HD
+http://178.217.72.72/NTV_HD/index.m3u8
+#EXTINF:-1 group-title="JZexe 1 🍑 (TECT)",НТВ право
+http://178.217.72.72/NTV_Pravo/index.m3u8
+#EXTINF:-1 group-title="JZexe 1 🍑 (TECT)",НТВ стиль
+http://178.217.72.72/NTV_Stil/index.m3u8
+#EXTINF:-1 group-title="JZexe 1 🍑 (TECT)",Galaxy HD
+http://178.217.72.72/galaxyhd/index.m3u8
+#EXTINF:-1 group-title="JZexe 1 🍑 (TECT)",Глазами туриста HD
+http://178.217.72.72/glazamiturista/index.m3u8
+#EXTINF:-1 group-title="JZexe 1 🍑 (TECT)",HOME 4K
+http://178.217.72.72/HOME_4K/index.m3u8
+#EXTINF:-1 group-title="JZexe 1 🍑 (TECT)",TERRA HD
+http://178.217.72.72/TERRA_HD/index.m3u8
+#EXTINF:-1 group-title="JZexe 1 🍑 (TECT)",insight HD
+http://178.217.72.72/insight/index.m3u8
+#EXTINF:-1 group-title="JZexe 1 🍑 (TECT)",Investigation Discovery
+http://178.217.72.72/ID_Xtra/index.m3u8
+#EXTINF:-1 group-title="JZexe 1 🍑 (TECT)",Big Planet
+http://178.217.72.72/big_planet/index.m3u8
+#EXTINF:-1 group-title="JZexe 1 🍑 (TECT)",Телепутешествия
+http://178.217.72.72/teleputeshestviya/index.m3u8
+#EXTINF:-1 group-title="JZexe 1 🍑 (TECT)",Nat Geo Wild
+http://178.217.72.72/Nat_Geo_Wild/index.m3u8
+#EXTINF:-1 group-title="JZexe 1 🍑 (TECT)",Nat Geo Wild HD
+http://178.217.72.72/Nat_Geo_Wild_HD/index.m3u8
+#EXTINF:-1 group-title="JZexe 1 🍑 (TECT)",National Geographic
+http://178.217.72.72/National_Geographic/index.m3u8
+#EXTINF:-1 group-title="JZexe 1 🍑 (TECT)",National Geographic HD
+http://178.217.72.72/National_Geographic_HD/index.m3u8
+#EXTINF:-1 group-title="JZexe 1 🍑 (TECT)",Ocean TV
+http://178.217.72.72/Ocean_TV/index.m3u8
+#EXTINF:-1 group-title="JZexe 1 🍑 (TECT)",RTG TV
+http://178.217.72.72/RTG_TV/index.m3u8
+#EXTINF:-1 group-title="JZexe 1 🍑 (TECT)",Точка РФ
+http://178.217.72.72/HDL/index.m3u8
+#EXTINF:-1 group-title="JZexe 1 🍑 (TECT)",Оружие
+http://178.217.72.72/orujie/index.m3u8
+#EXTINF:-1 group-title="JZexe 1 🍑 (TECT)",Моя планета
+http://178.217.72.72/Moya_Planeta/index.m3u8
+#EXTINF:-1 group-title="JZexe 1 🍑 (TECT)",Драйв
+http://178.217.72.72/Drayv/index.m3u8
+#EXTINF:-1 group-title="JZexe 1 🍑 (TECT)",Живая планета
+http://178.217.72.72/Zhivaya_Planeta/index.m3u8
+#EXTINF:-1 group-title="JZexe 1 🍑 (TECT)",Animal Planet HD
+http://178.217.72.72/Animal_Planet_HD/index.m3u8
+#EXTINF:-1 group-title="JZexe 1 🍑 (TECT)",Нано ТВ HD
+http://178.217.72.72/NANO_HD/index.m3u8
+#EXTINF:-1 group-title="JZexe 1 🍑 (TECT)",Наука
+http://178.217.72.72/Nauka_2_0/index.m3u8
+#EXTINF:-1 group-title="JZexe 1 🍑 (TECT)",Travel Channel
+http://178.217.72.72/Travel_Channel/index.m3u8
+#EXTINF:-1 group-title="JZexe 1 🍑 (TECT)",Travel+Adventure
+http://178.217.72.72/Travel_And_Adventure/index.m3u8
+#EXTINF:-1 group-title="JZexe 1 🍑 (TECT)",Viasat Explore
+http://178.217.72.72/Viasat_Explorer/index.m3u8
+#EXTINF:-1 group-title="JZexe 1 🍑 (TECT)",Viasat History
+http://178.217.72.72/Viasat_History/index.m3u8
+#EXTINF:-1 group-title="JZexe 1 🍑 (TECT)",Viasat Nature
+http://178.217.72.72/Viasat_Nature/index.m3u8
+#EXTINF:-1 group-title="JZexe 1 🍑 (TECT)",Discovery HD
+http://178.217.72.72/Discovery_HD/index.m3u8
+#EXTINF:-1 group-title="JZexe 1 🍑 (TECT)",Дикий
+http://178.217.72.72/Dikiy/index.m3u8
+#EXTINF:-1 group-title="JZexe 1 🍑 (TECT)",Загородная жизнь
+http://178.217.72.72/Zagorodnaya_Zhizn/index.m3u8
+#EXTINF:-1 group-title="JZexe 1 🍑 (TECT)",.Black
+http://178.217.72.72/Black/index.m3u8
+#EXTINF:-1 group-title="JZexe 1 🍑 (TECT)",2x2
+http://178.217.72.72/2x2/index.m3u8
+#EXTINF:-1 group-title="JZexe 1 🍑 (TECT)",Amedia Hit HD
+http://178.217.72.72/Amedia_Hit/index.m3u8
+#EXTINF:-1 group-title="JZexe 1 🍑 (TECT)",Amedia Premium HD
+http://178.217.72.72/Amedia_Premium_HD/index.m3u8
+#EXTINF:-1 group-title="JZexe 1 🍑 (TECT)",Amedia 1 HD
+http://178.217.72.72/A1/index.m3u8
+#EXTINF:-1 group-title="JZexe 1 🍑 (TECT)",Amedia 2 HD
+http://178.217.72.72/A2/index.m3u8
+#EXTINF:-1 group-title="JZexe 1 🍑 (TECT)",BCU Action HD
+http://178.217.72.72/BCUActionHD/index.m3u8
+#EXTINF:-1 group-title="JZexe 1 🍑 (TECT)",BCU Catastrophe HD
+http://178.217.72.72/BCUCatastropheHD/index.m3u8
+#EXTINF:-1 group-title="JZexe 1 🍑 (TECT)",BCU Comedy HD
+http://178.217.72.72/BCUComedyHD/index.m3u8
+#EXTINF:-1 group-title="JZexe 1 🍑 (TECT)",BCU Fantastic HD
+http://178.217.72.72/BCUFantasticHD/index.m3u8
+#EXTINF:-1 group-title="JZexe 1 🍑 (TECT)",BCU Romantic HD
+http://178.217.72.72/BCURomanticHD/index.m3u8
+#EXTINF:-1 group-title="JZexe 1 🍑 (TECT)",BCU Stars HD
+http://178.217.72.72/BCUStarsHD/index.m3u8
+#EXTINF:-1 group-title="JZexe 1 🍑 (TECT)",BCU VHS HD
+http://178.217.72.72/BCUVHSHD/index.m3u8
+#EXTINF:-1 group-title="JZexe 1 🍑 (TECT)",BCU Kinorating HD
+http://178.217.72.72/BCUKinoratingHD/index.m3u8
+#EXTINF:-1 group-title="JZexe 1 🍑 (TECT)",Bollywood HD
+http://178.217.72.72/Bollywood_HD/index.m3u8
+#EXTINF:-1 group-title="JZexe 1 🍑 (TECT)",Cinema
+http://178.217.72.72/cinema/index.m3u8
+#EXTINF:-1 group-title="JZexe 1 🍑 (TECT)",CineMan Action HD
+http://178.217.72.72/CineMan_Action/index.m3u8
+#EXTINF:-1 group-title="JZexe 1 🍑 (TECT)",CineMan Comedy HD
+http://178.217.72.72/CineMan_Comedy/index.m3u8
+#EXTINF:-1 group-title="JZexe 1 🍑 (TECT)",CineMan HD
+http://178.217.72.72/CineMan/index.m3u8
+#EXTINF:-1 group-title="JZexe 1 🍑 (TECT)",CineMan Marvel HD
+http://178.217.72.72/CineMan_Marvel/index.m3u8
+#EXTINF:-1 group-title="JZexe 1 🍑 (TECT)",CineMan Melodrama HD
+http://178.217.72.72/CineMan_Melodrama/index.m3u8
+#EXTINF:-1 group-title="JZexe 1 🍑 (TECT)",CineMan Thriller HD
+http://178.217.72.72/CineMan_Thriller/index.m3u8
+#EXTINF:-1 group-title="JZexe 1 🍑 (TECT)",CineMan Top HD
+http://178.217.72.72/CineMan_Top/index.m3u8
+#EXTINF:-1 group-title="JZexe 1 🍑 (TECT)",CineMan VHS HD
+http://178.217.72.72/CineMan_VHS/index.m3u8
+#EXTINF:-1 group-title="JZexe 1 🍑 (TECT)",Fan
+http://178.217.72.72/fan/index.m3u8
+#EXTINF:-1 group-title="JZexe 1 🍑 (TECT)",Food network
+http://178.217.72.72/food_network/index.m3u8
+#EXTINF:-1 group-title="JZexe 1 🍑 (TECT)",h1 HD
+http://178.217.72.72/h1/index.m3u8
+#EXTINF:-1 group-title="JZexe 1 🍑 (TECT)",h2 HD
+http://178.217.72.72/h2/index.m3u8
+#EXTINF:-1 group-title="JZexe 1 🍑 (TECT)",Hollywood
+http://178.217.72.72/hollywood/index.m3u8
+#EXTINF:-1 group-title="JZexe 1 🍑 (TECT)",Hollywood HD
+http://178.217.72.72/hollywoodhd/index.m3u8
+#EXTINF:-1 group-title="JZexe 1 🍑 (TECT)",tv5 HD
+http://178.217.72.72/tv5/index.m3u8
+#EXTINF:-1 group-title="JZexe 1 🍑 (TECT)",TV XXI
+http://178.217.72.72/TV_XXI/index.m3u8
+#EXTINF:-1 group-title="JZexe 1 🍑 (TECT)",VIP Comedy HD
+http://178.217.72.72/vip_comedy/index.m3u8
+#EXTINF:-1 group-title="JZexe 1 🍑 (TECT)",VIP Megahit HD
+http://178.217.72.72/vip_megahit/index.m3u8
+#EXTINF:-1 group-title="JZexe 1 🍑 (TECT)",VIP Premiere HD
+http://178.217.72.72/vip_premiere/index.m3u8
+#EXTINF:-1 group-title="JZexe 1 🍑 (TECT)",Авто 24
+http://178.217.72.72/Avto_24/index.m3u8
+#EXTINF:-1 group-title="JZexe 1 🍑 (TECT)",Аппетитный
+http://178.217.72.72/Morskoy/index.m3u8
+#EXTINF:-1 group-title="JZexe 1 🍑 (TECT)",Арсенал HD
+http://178.217.72.72/arsenalhd/index.m3u8
+#EXTINF:-1 group-title="JZexe 1 🍑 (TECT)",Беларусь 24
+http://178.217.72.72/belarus24/index.m3u8
+#EXTINF:-1 group-title="JZexe 1 🍑 (TECT)",Время
+http://178.217.72.72/Vremya/index.m3u8
+#EXTINF:-1 group-title="JZexe 1 🍑 (TECT)",Дом кино
+http://178.217.72.72/Dom_Kino/index.m3u8
+#EXTINF:-1 group-title="JZexe 1 🍑 (TECT)",Дом Кино Премиум HD
+http://178.217.72.72/Dom_Kino_Premium_HD/index.m3u8
+#EXTINF:-1 group-title="JZexe 1 🍑 (TECT)",Домашний HD
+http://178.217.72.72/Domashniy/index.m3u8
+#EXTINF:-1 group-title="JZexe 1 🍑 (TECT)",Дорама HD
+http://178.217.72.72/Dorama/index.m3u8
+#EXTINF:-1 group-title="JZexe 1 🍑 (TECT)",Звезда
+http://178.217.72.72/Zvezda/index.m3u8
+#EXTINF:-1 group-title="JZexe 1 🍑 (TECT)",Зоо ТВ
+http://178.217.72.72/zootv/index.m3u8
+#EXTINF:-1 group-title="JZexe 1 🍑 (TECT)",Зоопарк
+http://178.217.72.72/Zoopark/index.m3u8
+#EXTINF:-1 group-title="JZexe 1 🍑 (TECT)",Известия HD
+http://178.217.72.72/Izvestiya/index.m3u8
+#EXTINF:-1 group-title="JZexe 1 🍑 (TECT)",КВН ТВ
+http://178.217.72.72/KVN_TV/index.m3u8
+#EXTINF:-1 group-title="JZexe 1 🍑 (TECT)",Кинеко
+http://178.217.72.72/kineko/index.m3u8
+#EXTINF:-1 group-title="JZexe 1 🍑 (TECT)",Кино ТВ
+http://178.217.72.72/Kino_TV/index.m3u8
+#EXTINF:-1 group-title="JZexe 1 🍑 (TECT)",Кинопоказ HD
+http://178.217.72.72/kinopokazhd/index.m3u8
+#EXTINF:-1 group-title="JZexe 1 🍑 (TECT)",Премиальное HD
+http://178.217.72.72/kinopremium/index.m3u8
+#EXTINF:-1 group-title="JZexe 1 🍑 (TECT)",Кинокомедия
+http://178.217.72.72/Kinokomediya/index.m3u8
+#EXTINF:-1 group-title="JZexe 1 🍑 (TECT)",Киномикс
+http://178.217.72.72/Kinomiks/index.m3u8
+#EXTINF:-1 group-title="JZexe 1 🍑 (TECT)",Киносвидание
+http://178.217.72.72/Kinosvidanie/index.m3u8
+#EXTINF:-1 group-title="JZexe 1 🍑 (TECT)",Киносерия
+http://178.217.72.72/kinoseriya/index.m3u8
+#EXTINF:-1 group-title="JZexe 1 🍑 (TECT)",Киноужас
+http://178.217.72.72/kinoujas/index.m3u8
+#EXTINF:-1 group-title="JZexe 1 🍑 (TECT)",Наше новое кино
+http://178.217.72.72/Nashe_Novoe_Kino/index.m3u8
+#EXTINF:-1 group-title="JZexe 1 🍑 (TECT)",Кинохит
+http://178.217.72.72/Kinokhit/index.m3u8
+#EXTINF:-1 group-title="JZexe 1 🍑 (TECT)",Киносемья
+http://178.217.72.72/Kinosemya/index.m3u8
+#EXTINF:-1 group-title="JZexe 1 🍑 (TECT)",Комедийное HD
+http://178.217.72.72/komediynoe/index.m3u8
+#EXTINF:-1 group-title="JZexe 1 🍑 (TECT)",Комедия
+http://178.217.72.72/Komediya/index.m3u8
+#EXTINF:-1 group-title="JZexe 1 🍑 (TECT)",Красная линия
+http://178.217.72.72/Krasnaya_Liniya/index.m3u8
+#EXTINF:-1 group-title="JZexe 1 🍑 (TECT)",Мир
+http://178.217.72.72/Mir/index.m3u8
+#EXTINF:-1 group-title="JZexe 1 🍑 (TECT)",Мир 24
+http://178.217.72.72/Mir_24/index.m3u8
+#EXTINF:-1 group-title="JZexe 1 🍑 (TECT)",Москва 24
+http://178.217.72.72/Moskva_24/index.m3u8
+#EXTINF:-1 group-title="JZexe 1 🍑 (TECT)",Мосфильм. Золотая коллекция
+http://178.217.72.72/mosfilm/index.m3u8
+#EXTINF:-1 group-title="JZexe 1 🍑 (TECT)",Наш кинопоказ HD
+http://178.217.72.72/nashkinopokazhd/index.m3u8
+#EXTINF:-1 group-title="JZexe 1 🍑 (TECT)",Наше HD
+http://178.217.72.72/nashekrutoe/index.m3u8
+#EXTINF:-1 group-title="JZexe 1 🍑 (TECT)",Ностальгия
+http://178.217.72.72/Nostalgiya/index.m3u8
+#EXTINF:-1 group-title="JZexe 1 🍑 (TECT)",НСТ
+http://178.217.72.72/NSTV/index.m3u8
+#EXTINF:-1 group-title="JZexe 1 🍑 (TECT)",О!
+http://178.217.72.72/O/index.m3u8
+#EXTINF:-1 group-title="JZexe 1 🍑 (TECT)",ОТР
+http://178.217.72.72/OTR/index.m3u8
+#EXTINF:-1 group-title="JZexe 1 🍑 (TECT)",Победа
+http://178.217.72.72/pobeda/index.m3u8
+#EXTINF:-1 group-title="JZexe 1 🍑 (TECT)",Поехали!
+http://178.217.72.72/Poehali/index.m3u8
+#EXTINF:-1 group-title="JZexe 1 🍑 (TECT)",Пятница HD
+http://178.217.72.72/Pyatnitsa/index.m3u8
+#EXTINF:-1 group-title="JZexe 1 🍑 (TECT)",РБК
+http://178.217.72.72/RBK/index.m3u8
+#EXTINF:-1 group-title="JZexe 1 🍑 (TECT)",Русский бестселлер
+http://178.217.72.72/russkiy_bestseller/index.m3u8
+#EXTINF:-1 group-title="JZexe 1 🍑 (TECT)",Русский бестселлер
+http://178.217.72.72/Sony_Sci_Fi/index.m3u8
+#EXTINF:-1 group-title="JZexe 1 🍑 (TECT)",Сарафан
+http://178.217.72.72/Sarafan/index.m3u8
+#EXTINF:-1 group-title="JZexe 1 🍑 (TECT)",Совершенно секретно
+http://178.217.72.72/Sovershenno_Sekretno/index.m3u8
+#EXTINF:-1 group-title="JZexe 1 🍑 (TECT)",Спас
+http://178.217.72.72/Spas/index.m3u8
+#EXTINF:-1 group-title="JZexe 1 🍑 (TECT)",Ю
+http://178.217.72.72/Yu_TV/index.m3u8
+#EXTINF:-1 group-title="JZexe 1 🍑 (TECT)",СТС HD
+http://178.217.72.72/STS/index.m3u8
+#EXTINF:-1 group-title="JZexe 1 🍑 (TECT)",СТС Love
+http://178.217.72.72/STS_Love/index.m3u8
+#EXTINF:-1 group-title="JZexe 1 🍑 (TECT)",Суббота
+http://178.217.72.72/super/index.m3u8
+#EXTINF:-1 group-title="JZexe 1 🍑 (TECT)",ТВ3 HD
+http://178.217.72.72/TV3/index.m3u8
+#EXTINF:-1 group-title="JZexe 1 🍑 (TECT)",Телекафе
+http://178.217.72.72/Telekafe/index.m3u8
+#EXTINF:-1 group-title="JZexe 1 🍑 (TECT)",Тонус ТВ
+http://178.217.72.72/tonus/index.m3u8
+#EXTINF:-1 group-title="JZexe 1 🍑 (TECT)",Точка ТВ
+http://178.217.72.72/Tochka_TV/index.m3u8
+#EXTINF:-1 group-title="JZexe 1 🍑 (TECT)",Усадьба
+http://178.217.72.72/Usadba/index.m3u8
+#EXTINF:-1 group-title="JZexe 1 🍑 (TECT)",Успех
+http://178.217.72.72/uspeh/index.m3u8
+#EXTINF:-1 group-title="JZexe 1 🍑 (TECT)",Хит HD
+http://178.217.72.72/hithd/index.m3u8
+#EXTINF:-1 group-title="JZexe 1 🍑 (TECT)",СТС Kids HD
+http://178.217.72.72/ctc_kids_hd/index.m3u8
+#EXTINF:-1 group-title="JZexe 1 🍑 (TECT)",Солнце
+http://178.217.72.72/Disney_Channel/index.m3u8
+#EXTINF:-1 group-title="JZexe 1 🍑 (TECT)",Мама
+http://178.217.72.72/Mama/index.m3u8
+#EXTINF:-1 group-title="JZexe 1 🍑 (TECT)",Gulli Girl
+http://178.217.72.72/Gulli/index.m3u8
+#EXTINF:-1 group-title="JZexe 1 🍑 (TECT)",Карусель
+http://178.217.72.72/Karusel/index.m3u8
+#EXTINF:-1 group-title="JZexe 1 🍑 (TECT)",Детский мир
+http://178.217.72.72/Detskiy_Mir/index.m3u8
+#EXTINF:-1 group-title="JZexe 1 🍑 (TECT)",Бобёр
+http://178.217.72.72/Bober/index.m3u8
+#EXTINF:-1 group-title="JZexe 1 🍑 (TECT)",JimJam
+http://178.217.72.72/JimJam/index.m3u8
+#EXTINF:-1 group-title="JZexe 1 🍑 (TECT)",Bolt HD
+http://178.217.72.72/bolt/index.m3u8
+#EXTINF:-1 group-title="JZexe 1 🍑 (TECT)",Ani
+http://178.217.72.72/Ani/index.m3u8
+#EXTINF:-1 group-title="JZexe 1 🍑 (TECT)",Мульт HD
+http://178.217.72.72/Mult/index.m3u8
+#EXTINF:-1 group-title="JZexe 1 🍑 (TECT)",Мультимузыка
+http://178.217.72.72/Multimuzyka/index.m3u8
+#EXTINF:-1 group-title="JZexe 1 🍑 (TECT)",TiJi
+http://178.217.72.72/TiJi/index.m3u8
+#EXTINF:-1 group-title="JZexe 1 🍑 (TECT)",Супергерои
+http://178.217.72.72/Malysh/index.m3u8
+#EXTINF:-1 group-title="JZexe 1 🍑 (TECT)",Bridge HD
+http://178.217.72.72/Bridge_HD/index.m3u8
+#EXTINF:-1 group-title="JZexe 1 🍑 (TECT)",Bridge TV classic
+http://178.217.72.72/bridge_classic/index.m3u8
+#EXTINF:-1 group-title="JZexe 1 🍑 (TECT)",Bridge HD
+http://178.217.72.72/Bridge_TV/index.m3u8
+#EXTINF:-1 group-title="JZexe 1 🍑 (TECT)",Шансон ТВ
+http://178.217.72.72/Shanson_TV/index.m3u8
+#EXTINF:-1 group-title="JZexe 1 🍑 (TECT)",Mezzo
+http://178.217.72.72/Mezzo/index.m3u8
+#EXTINF:-1 group-title="JZexe 1 🍑 (TECT)",Mezzo Live HD
+http://178.217.72.72/Mezzo_Live_HD/index.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 group-title="JZexe 1 🍑 (TECT)",Россия К
+http://217.21.34.160:38007/kultura/index.m3u8
+#EXTINF:-1 group-title="JZexe 1 🍑 (TECT)",Amedia Premium HD
+http://217.21.34.160:38007/amediapremium/index.m3u8
+#EXTINF:-1 group-title="JZexe 1 🍑 (TECT)",RTG HD
+http://217.21.34.160:38007/rtghd/index.m3u8
+#EXTINF:-1 group-title="JZexe 1 🍑 (TECT)",24 Техно
+http://217.21.34.160:38007/tehno24/index.m3u8
+#EXTINF:-1 group-title="JZexe 1 🍑 (TECT)",Живая природа
+http://217.21.34.160:38007/zhivaya_priroda/index.m3u8
+#EXTINF:-1 group-title="JZexe 1 🍑 (TECT)",Дикая охота HD
+http://217.21.34.160:38007/dikayaohotahd/index.m3u8
+#EXTINF:-1 group-title="JZexe 1 🍑 (TECT)",Дикая рыбалка HD
+http://217.21.34.160:38007/dikayarybalkahd/index.m3u8
+#EXTINF:-1 group-title="JZexe 1 🍑 (TECT)",Глазами туриста
+http://217.21.34.160:38007/glazami_turista/index.m3u8
+#EXTINF:-1 group-title="JZexe 1 🍑 (TECT)",Любимое кино
+http://217.21.34.160:38007/lubimoekino/index.m3u8
+#EXTINF:-1 group-title="JZexe 1 🍑 (TECT)",Мир сериала
+http://217.21.34.160:38007/mirseriala/index.m3u8
+#EXTINF:-1 group-title="JZexe 1 🍑 (TECT)",Шансон ТВ
+http://217.21.34.160:38007/shanson/index.m3u8
+#EXTINF:-1 group-title="JZexe 1 🍑 (TECT)",Top Secret
+http://217.21.34.160:38007/sovsek/index.m3u8
+#EXTINF:-1 group-title="JZexe 1 🍑 (TECT)",СТС Kids
+http://217.21.34.160:38007/stskids/index.m3u8
+#EXTINF:-1 group-title="JZexe 1 🍑 (TECT)",TV XXI
+http://217.21.34.160:38007/tv-xxi/index.m3u8
+#EXTINF:-1 group-title="JZexe 1 🍑 (TECT)",Детский мир
+http://217.21.34.160:38007/detmir/index.m3u8
+
+
+#EXTINF:-1 group-title="JZexe 1 🍑 (TECT)",Первый HD
+http://46.8.46.14/1HD/index.m3u8
+#EXTINF:-1 group-title="JZexe 1 🍑 (TECT)",Первый канал
+http://46.8.46.14/1/index.m3u8
+#EXTINF:-1 group-title="JZexe 1 🍑 (TECT)",Россия 1
+http://46.8.46.14/ros1/index.m3u8
+#EXTINF:-1 group-title="JZexe 1 🍑 (TECT)",ТНТ
+http://46.8.46.14/tnt/index.m3u8
+#EXTINF:-1 group-title="JZexe 1 🍑 (TECT)",НТВ
+http://46.8.46.14/ntv/index.m3u8
+#EXTINF:-1 group-title="JZexe 1 🍑 (TECT)",Рен ТВ
+http://46.8.46.14/rentv/index.m3u8
+#EXTINF:-1 group-title="JZexe 1 🍑 (TECT)",Investigation Discovery
+http://46.8.46.14/id/index.m3u8
+#EXTINF:-1 group-title="JZexe 1 🍑 (TECT)",Discovery Science
+http://46.8.46.14/DiscoveryScience/index.m3u8
+#EXTINF:-1 group-title="JZexe 1 🍑 (TECT)",Наука
+http://46.8.46.14/nauka/index.m3u8
+#EXTINF:-1 group-title="JZexe 1 🍑 (TECT)",Оружие
+http://46.8.46.14/Oruzhie/index.m3u8
+#EXTINF:-1 group-title="JZexe 1 🍑 (TECT)",Охотник и рыболов HD
+http://46.8.46.14/ohota/index.m3u8
+#EXTINF:-1 group-title="JZexe 1 🍑 (TECT)",National Geographic
+http://46.8.46.14/National_Geographic/index.m3u8
+#EXTINF:-1 group-title="JZexe 1 🍑 (TECT)",Приключения HD
+http://46.8.46.14/AdventureHD/index.m3u8
+#EXTINF:-1 group-title="JZexe 1 🍑 (TECT)",RTG TV
+http://46.8.46.14/rutravel/index.m3u8
+#EXTINF:-1 group-title="JZexe 1 🍑 (TECT)",Доктор
+http://46.8.46.14/doktor/index.m3u8
+#EXTINF:-1 group-title="JZexe 1 🍑 (TECT)",Успех
+http://46.8.46.14/uspeh/index.m3u8
+#EXTINF:-1 group-title="JZexe 1 🍑 (TECT)",Загородная Жизнь
+http://46.8.46.14/usadba/index.m3u8
+#EXTINF:-1 group-title="JZexe 1 🍑 (TECT)",Нано ТВ
+http://46.8.46.14/Nano/index.m3u8
+#EXTINF:-1 group-title="JZexe 1 🍑 (TECT)",TV1000 Action
+http://46.8.46.14/actiontv/index.m3u8
+#EXTINF:-1 group-title="JZexe 1 🍑 (TECT)",TV1000
+http://46.8.46.14/tv1000/index.m3u8
+#EXTINF:-1 group-title="JZexe 1 🍑 (TECT)",VIP COMEDY
+http://46.8.46.14/vipcomedy/index.m3u8
+#EXTINF:-1 group-title="JZexe 1 🍑 (TECT)",VIP MEGAHIT HD
+http://46.8.46.14/vipmegahit/index.m3u8
+#EXTINF:-1 group-title="JZexe 1 🍑 (TECT)",FX
+http://46.8.46.14/FOX/index.m3u8
+#EXTINF:-1 group-title="JZexe 1 🍑 (TECT)",Comedy Central
+http://46.8.46.14/paramountcomedy/index.m3u8
+#EXTINF:-1 group-title="JZexe 1 🍑 (TECT)",Русский Бестселлер
+http://46.8.46.14/rubestseller/index.m3u8
+#EXTINF:-1 group-title="JZexe 1 🍑 (TECT)",Русский Роман HD
+http://46.8.46.14/ruroman/index.m3u8
+#EXTINF:-1 group-title="JZexe 1 🍑 (TECT)",Победа
+http://46.8.46.14/Pobeda/index.m3u8
+#EXTINF:-1 group-title="JZexe 1 🍑 (TECT)",Романтичное HD
+http://46.8.46.14/Romantichnoe_HD/index.m3u8
+#EXTINF:-1 group-title="JZexe 1 🍑 (TECT)",Hollywood
+http://46.8.46.14/amc/index.m3u8
+#EXTINF:-1 group-title="JZexe 1 🍑 (TECT)",Cinema
+http://46.8.46.14/cinema/index.m3u8
+#EXTINF:-1 group-title="JZexe 1 🍑 (TECT)",Мир сериала
+http://46.8.46.14/MirSeriala/index.m3u8
+#EXTINF:-1 group-title="JZexe 1 🍑 (TECT)",Еврокино
+http://46.8.46.14/eurokino/index.m3u8
+#EXTINF:-1 group-title="JZexe 1 🍑 (TECT)",TV XXI
+http://46.8.46.14/TV21/index.m3u8
+#EXTINF:-1 group-title="JZexe 1 🍑 (TECT)",Amedia 2
+http://46.8.46.14/A2/index.m3u8
+#EXTINF:-1 group-title="JZexe 1 🍑 (TECT)",FAN
+http://46.8.46.14/FAN/index.m3u8
+#EXTINF:-1 group-title="JZexe 1 🍑 (TECT)",КВН ТВ
+http://46.8.46.14/kvn/index.m3u8
+#EXTINF:-1 group-title="JZexe 1 🍑 (TECT)",Авто плюс
+http://46.8.46.14/avtoplus/index.m3u8
+#EXTINF:-1 group-title="JZexe 1 🍑 (TECT)",Живи HD
+http://46.8.46.14/zhivi/index.m3u8
+#EXTINF:-1 group-title="JZexe 1 🍑 (TECT)",Зоопарк
+http://46.8.46.14/zoo/index.m3u8
+#EXTINF:-1 group-title="JZexe 1 🍑 (TECT)",Театр
+http://46.8.46.14/Teatr/index.m3u8
+#EXTINF:-1 group-title="JZexe 1 🍑 (TECT)",Драйв
+http://46.8.46.14/Drive/index.m3u8
+#EXTINF:-1 group-title="JZexe 1 🍑 (TECT)",Кухня HD
+http://46.8.46.14/kuhnya/index.m3u8
+#EXTINF:-1 group-title="JZexe 1 🍑 (TECT)",Белрос
+http://46.8.46.14/tro/index.m3u8
+#EXTINF:-1 group-title="JZexe 1 🍑 (TECT)",Телекафе
+http://46.8.46.14/telecafe/index.m3u8
+#EXTINF:-1 group-title="JZexe 1 🍑 (TECT)",Luxury
+http://46.8.46.14/Luxury/index.m3u8
+#EXTINF:-1 group-title="JZexe 1 🍑 (TECT)",5 Канал
+http://46.8.46.14/5ch/index.m3u8
+#EXTINF:-1 group-title="JZexe 1 🍑 (TECT)",Домашний
+http://46.8.46.14/dom/index.m3u8
+#EXTINF:-1 group-title="JZexe 1 🍑 (TECT)",Че
+http://46.8.46.14/che/index.m3u8
+#EXTINF:-1 group-title="JZexe 1 🍑 (TECT)",ТВЦ
+http://46.8.46.14/TVCenter/index.m3u8
+#EXTINF:-1 group-title="JZexe 1 🍑 (TECT)",Мир
+http://46.8.46.14/mir/index.m3u8
+#EXTINF:-1 group-title="JZexe 1 🍑 (TECT)",Звезда
+http://46.8.46.14/zvezda/index.m3u8
+#EXTINF:-1 group-title="JZexe 1 🍑 (TECT)",Ю
+http://46.8.46.14/utv/index.m3u8
+#EXTINF:-1 group-title="JZexe 1 🍑 (TECT)",ТВ3
+http://46.8.46.14/tv3/index.m3u8
+#EXTINF:-1 group-title="JZexe 1 🍑 (TECT)",Спас
+http://46.8.46.14/spas/index.m3u8
+#EXTINF:-1 group-title="JZexe 1 🍑 (TECT)",Союз
+http://46.8.46.14/soyuz/index.m3u8
+#EXTINF:-1 group-title="JZexe 1 🍑 (TECT)",РБК
+http://46.8.46.14/rbk/index.m3u8
+#EXTINF:-1 group-title="JZexe 1 🍑 (TECT)",Nick Jr
+http://46.8.46.14/nickjr/index.m3u8
+#EXTINF:-1 group-title="JZexe 1 🍑 (TECT)",Cartoon Network
+http://46.8.46.14/Cartoon_Network/index.m3u8
+#EXTINF:-1 group-title="JZexe 1 🍑 (TECT)",Уникум
+http://46.8.46.14/detskiy/index.m3u8
+#EXTINF:-1 group-title="JZexe 1 🍑 (TECT)",Nickelodeon
+http://46.8.46.14/Nickelodeon/index.m3u8
+#EXTINF:-1 group-title="JZexe 1 🍑 (TECT)",Gulli Girl
+http://46.8.46.14/Gulli/index.m3u8
+#EXTINF:-1 group-title="JZexe 1 🍑 (TECT)",Шансон ТВ
+http://46.8.46.14/shanson/index.m3u8
+#EXTINF:-1 group-title="JZexe 1 🍑 (TECT)",RU.TV
+http://46.8.46.14/rutv/index.m3u8
+#EXTINF:-1 group-title="JZexe 1 🍑 (TECT)",Жара
+http://46.8.46.14/Zhara/index.m3u8
+#EXTINF:-1 group-title="JZexe 1 🍑 (TECT)",Bridge TV Hits
+http://46.8.46.14/BridgeDance/index.m3u8
+#EXTINF:-1 group-title="JZexe 1 🍑 (TECT)",Viasat Sport
+http://46.8.46.14/viasport/index.m3u8
+#EXTINF:-1 group-title="JZexe 1 🍑 (TECT)",Матч ТВ
+http://46.8.46.14/match/index.m3u8
+#EXTINF:-1 group-title="JZexe 1 🍑 (TECT)",Матч! Боец
+http://46.8.46.14/boec/index.m3u8
+#EXTINF:-1 group-title="JZexe 1 🍑 (TECT)",Матч Премьер
+http://46.8.46.14/premier/index.m3u8
+
+#EXTINF:-1 group-title="JZexe 2 🍑 (TECT)",ТНТ4
+http://139.28.255.188:8080/tnt4/index.m3u8
+#EXTINF:-1 group-title="JZexe 2 🍑 (TECT)",РЕН ТВ HD
+http://139.28.255.188:8080/rentv/index.m3u8
+#EXTINF:-1 group-title="JZexe 2 🍑 (TECT)",НТВ HD
+http://139.28.255.188:8080/ntvhd/index.m3u8
+#EXTINF:-1 group-title="JZexe 2 🍑 (TECT)",НТВ ХИТ
+http://139.28.255.188:8080/ntvhit/index.m3u8
+#EXTINF:-1 group-title="JZexe 2 🍑 (TECT)",НТВ ПРАВО
+http://139.28.255.188:8080/ntvpravo/index.m3u8
+#EXTINF:-1 group-title="JZexe 2 🍑 (TECT)",НТВ СЕРИАЛ
+http://139.28.255.188:8080/ntvserial/index.m3u8
+#EXTINF:-1 group-title="JZexe 2 🍑 (TECT)",Discovery Channel
+http://139.28.255.188:8080/Discovery/index.m3u8
+#EXTINF:-1 group-title="JZexe 2 🍑 (TECT)",Дикий
+http://139.28.255.188:8080/Dikij/index.m3u8
+#EXTINF:-1 group-title="JZexe 2 🍑 (TECT)",Киносерия
+http://139.28.255.188:8080/kinoserija/index.m3u8
+#EXTINF:-1 group-title="JZexe 2 🍑 (TECT)",Кинохит
+http://139.28.255.188:8080/kinohit/index.m3u8
+#EXTINF:-1 group-title="JZexe 2 🍑 (TECT)",Кинопремьера HD
+http://139.28.255.188:8080/kinoprem/index.m3u8
+#EXTINF:-1 group-title="JZexe 2 🍑 (TECT)",TV1000 action
+http://139.28.255.188:8080/tv1000action/index.m3u8
+#EXTINF:-1 group-title="JZexe 2 🍑 (TECT)",TV1000
+http://139.28.255.188:8080/tv1000/index.m3u8
+#EXTINF:-1 group-title="JZexe 2 🍑 (TECT)",TV1000 Русское Кино
+http://139.28.255.188:8080/tv1000ruskino/index.m3u8
+#EXTINF:-1 group-title="JZexe 2 🍑 (TECT)",Русский роман
+http://139.28.255.188:8080/rusroman/index.m3u8
+#EXTINF:-1 group-title="JZexe 2 🍑 (TECT)",Киномикс
+http://139.28.255.188:8080/kinomiks/index.m3u8
+#EXTINF:-1 group-title="JZexe 2 🍑 (TECT)",Победа HD
+http://139.28.255.188:8080/Pobeda/index.m3u8
+#EXTINF:-1 group-title="JZexe 2 🍑 (TECT)",Русский Бестселлер
+http://139.28.255.188:8080/bestseller/index.m3u8
+#EXTINF:-1 group-title="JZexe 2 🍑 (TECT)",FilmBox
+http://139.28.255.188:8080/FilmBox/index.m3u8
+#EXTINF:-1 group-title="JZexe 2 🍑 (TECT)",Дом кино
+http://139.28.255.188:8080/domkino/index.m3u8
+#EXTINF:-1 group-title="JZexe 2 🍑 (TECT)",Сарафан
+http://139.28.255.188:8080/sarafan/index.m3u8
+#EXTINF:-1 group-title="JZexe 2 🍑 (TECT)",TV3 Plus LV
+http://139.28.255.188:8080/3plus/index.m3u8
+#EXTINF:-1 group-title="JZexe 2 🍑 (TECT)",FilmZone
+http://139.28.255.188:8080/FilmZone/index.m3u8
+#EXTINF:-1 group-title="JZexe 2 🍑 (TECT)",DUO6 HD LV
+http://139.28.255.188:8080/SonyTurbo/index.m3u8
+#EXTINF:-1 group-title="JZexe 2 🍑 (TECT)" tvg-id="riga-tv24",Riga 24
+http://139.28.255.188:8080/Riga24/index.m3u8
+#EXTINF:-1 group-title="JZexe 2 🍑 (TECT)",TV6 HD LV
+http://139.28.255.188:8080/TV6/index.m3u8
+#EXTINF:-1 group-title="JZexe 2 🍑 (TECT)",Усадьба
+http://139.28.255.188:8080/usadba/index.m3u8
+#EXTINF:-1 group-title="JZexe 2 🍑 (TECT)",FashionBox
+http://139.28.255.188:8080/FashionBox/index.m3u8
+#EXTINF:-1 group-title="JZexe 2 🍑 (TECT)",Euronews HD
+http://139.28.255.188:8080/Euronews/index.m3u8
+#EXTINF:-1 group-title="JZexe 2 🍑 (TECT)",TLC HD
+http://139.28.255.188:8080/TLCHD/index.m3u8
+#EXTINF:-1 group-title="JZexe 2 🍑 (TECT)",5 Канал
+http://139.28.255.188:8080/5tv/index.m3u8
+#EXTINF:-1 group-title="JZexe 2 🍑 (TECT)",ЧЕ
+http://139.28.255.188:8080/4e/index.m3u8
+#EXTINF:-1 group-title="JZexe 2 🍑 (TECT)",ОТР
+http://139.28.255.188:8080/otr/index.m3u8
+#EXTINF:-1 group-title="JZexe 2 🍑 (TECT)",Спас
+http://139.28.255.188:8080/spas/index.m3u8
+#EXTINF:-1 group-title="JZexe 2 🍑 (TECT)",СТС HD
+http://139.28.255.188:8080/sts/index.m3u8
+#EXTINF:-1 group-title="JZexe 2 🍑 (TECT)",ЗВЕЗДА HD
+http://139.28.255.188:8080/zvezda/index.m3u8
+#EXTINF:-1 group-title="JZexe 2 🍑 (TECT)",ТВЦ
+http://139.28.255.188:8080/tvcentr/index.m3u8
+#EXTINF:-1 group-title="JZexe 2 🍑 (TECT)",ТВ3
+http://139.28.255.188:8080/tv3ru/index.m3u8
+#EXTINF:-1 group-title="JZexe 2 🍑 (TECT)",МИР
+http://139.28.255.188:8080/mir/index.m3u8
+#EXTINF:-1 group-title="JZexe 2 🍑 (TECT)",Пятница
+http://139.28.255.188:8080/pjatnica/index.m3u8
+#EXTINF:-1 group-title="JZexe 2 🍑 (TECT)",Ю
+http://139.28.255.188:8080/yutv/index.m3u8
+#EXTINF:-1 group-title="JZexe 2 🍑 (TECT)",Duck TV
+http://139.28.255.188:8080/DuckTV/index.m3u8
+#EXTINF:-1 group-title="JZexe 2 🍑 (TECT)",Nick Jr
+http://139.28.255.188:8080/NickJunior/index.m3u8
+#EXTINF:-1 group-title="JZexe 2 🍑 (TECT)",Карусель
+http://139.28.255.188:8080/karusel/index.m3u8
+#EXTINF:-1 group-title="JZexe 2 🍑 (TECT)",Муз ТВ
+http://139.28.255.188:8080/muztv/index.m3u8
+#EXTINF:-1 group-title="JZexe 2 🍑 (TECT)",360tunebox
+http://139.28.255.188:8080/360tunebox/index.m3u8
+#EXTINF:-1 group-title="JZexe 2 🍑 (TECT)",МузСоюз
+http://139.28.255.188:8080/muzsojuz/index.m3u8
+#EXTINF:-1 group-title="Спорткомплекс 🏆",Матч HD
+http://139.28.255.188:8080/match/index.m3u8
+#EXTINF:-1 group-title="Спорткомплекс 🏆",Матч! Боец
+http://139.28.255.188:8080/matchboec/index.m3u8
+#EXTINF:-1 group-title="Спорткомплекс 🏆",Матч! Арена
+http://139.28.255.188:8080/matcharena/index.m3u8
+#EXTINF:-1 group-title="Спорткомплекс 🏆",FightBox HD
+http://139.28.255.188:8080/FightBox/index.m3u8
+
+
+#EXTINF:-1 group-title="JZexe 3 🍑 (TECT)",Первый Канал HD
+http://217.25.80.16/Pervii_Kanal_HD/mono.m3u8
+#EXTINF:-1 group-title="JZexe 3 🍑 (TECT)",Первый Канал
+http://217.25.80.16/Pervii_Kanal/mono.m3u8
+#EXTINF:-1 group-title="JZexe 3 🍑 (TECT)",Россия 24
+http://217.25.80.16/Rossia_24/mono.m3u8
+#EXTINF:-1 group-title="JZexe 3 🍑 (TECT)",Рен ТВ
+http://217.25.80.16/REN_TV/mono.m3u8
+#EXTINF:-1 group-title="JZexe 3 🍑 (TECT)",Россия 1
+http://217.25.80.16/rossiya_1/mono.m3u8
+#EXTINF:-1 group-title="JZexe 3 🍑 (TECT)",ТНТ
+http://217.25.80.16/TNT/mono.m3u8
+#EXTINF:-1 group-title="JZexe 3 🍑 (TECT)",ТНТ HD
+http://217.25.80.16/TNT_HD/mono.m3u8
+#EXTINF:-1 group-title="JZexe 3 🍑 (TECT)",ТНТ4
+http://217.25.80.16/TNT4/mono.m3u8
+#EXTINF:-1 group-title="JZexe 3 🍑 (TECT)",НТВ
+http://217.25.80.16/NTV/mono.m3u8
+#EXTINF:-1 group-title="JZexe 3 🍑 (TECT)",НТВ HD
+http://217.25.80.16/NTV_HD/mono.m3u8
+#EXTINF:-1 group-title="JZexe 3 🍑 (TECT)",НТВ Хит
+http://217.25.80.16/NTV_Hit/mono.m3u8
+#EXTINF:-1 group-title="JZexe 3 🍑 (TECT)",НТВ Право
+http://217.25.80.16/NTV_Pravo/mono.m3u8
+#EXTINF:-1 group-title="JZexe 3 🍑 (TECT)",Россия К
+http://217.25.80.16/Rossia_Kul_tura/mono.m3u8
+#EXTINF:-1 group-title="JZexe 3 🍑 (TECT)",Точка РФ
+http://217.25.80.16/HD_Life/mono.m3u8
+#EXTINF:-1 group-title="JZexe 3 🍑 (TECT)",Viasat Explore
+http://217.25.80.16/Viasat_Explorer/mono.m3u8
+#EXTINF:-1 group-title="JZexe 3 🍑 (TECT)",Viasat History
+http://217.25.80.16/Viasat_History/mono.m3u8
+#EXTINF:-1 group-title="JZexe 3 🍑 (TECT)",Viasat Nature
+http://217.25.80.16/Viasat_Nature/mono.m3u8
+#EXTINF:-1 group-title="JZexe 3 🍑 (TECT)",Viasat Sport
+http://217.25.80.16/Viasat_Sport/mono.m3u8
+#EXTINF:-1 group-title="JZexe 3 🍑 (TECT)",Viasat Sport HD
+http://217.25.80.16/Viasat_Sport_HD/mono.m3u8
+#EXTINF:-1 group-title="JZexe 3 🍑 (TECT)",Nat Geo Wild
+http://217.25.80.16/Nat_Geo_Wild/mono.m3u8
+#EXTINF:-1 group-title="JZexe 3 🍑 (TECT)",National Geographic
+http://217.25.80.16/National_Geographic/mono.m3u8
+#EXTINF:-1 group-title="JZexe 3 🍑 (TECT)",National Geographic HD
+http://217.25.80.16/National_Geographic_HD/mono.m3u8
+#EXTINF:-1 group-title="JZexe 3 🍑 (TECT)",Моя планета
+http://217.25.80.16/Moa_Planeta/mono.m3u8
+#EXTINF:-1 group-title="JZexe 3 🍑 (TECT)",Живая Планета
+http://217.25.80.16/Givaa_Planeta/mono.m3u8
+#EXTINF:-1 group-title="JZexe 3 🍑 (TECT)",Зоопарк
+http://217.25.80.16/Zoopark/mono.m3u8
+#EXTINF:-1 group-title="JZexe 3 🍑 (TECT)",Охота и Рыбалка
+http://217.25.80.16/Ohota_i_Ribalka/mono.m3u8
+#EXTINF:-1 group-title="JZexe 3 🍑 (TECT)",Мужской
+http://217.25.80.16/Mugskoi/mono.m3u8
+#EXTINF:-1 group-title="JZexe 3 🍑 (TECT)",Диалоги о рыбалке
+http://217.25.80.16/Dialogi_o_ribalke/mono.m3u8
+#EXTINF:-1 group-title="JZexe 3 🍑 (TECT)",Большая Азия
+http://217.25.80.16/Bolshaya_aziya/mono.m3u8
+#EXTINF:-1 group-title="JZexe 3 🍑 (TECT)",Дикий
+http://217.25.80.16/Dikii/mono.m3u8
+#EXTINF:-1 group-title="JZexe 3 🍑 (TECT)",Доктор
+http://217.25.80.16/Doktor/mono.m3u8
+#EXTINF:-1 group-title="JZexe 3 🍑 (TECT)",ДОМАШНИЕ ЖИВОТНЫЕ
+http://217.25.80.16/Domasnie_givotnie/mono.m3u8
+#EXTINF:-1 group-title="JZexe 3 🍑 (TECT)",В мире животных HD
+http://217.25.80.16/V_MIRE_GIVOTNIH_HD/mono.m3u8
+#EXTINF:-1 group-title="JZexe 3 🍑 (TECT)",История
+http://217.25.80.16/Istoria/mono.m3u8
+#EXTINF:-1 group-title="JZexe 3 🍑 (TECT)",RTG TV
+http://217.25.80.16/RTG_TV/mono.m3u8
+#EXTINF:-1 group-title="JZexe 3 🍑 (TECT)",RTG HD
+http://217.25.80.16/RTG_HD/mono.m3u8
+#EXTINF:-1 group-title="JZexe 3 🍑 (TECT)",Загородная Жизнь
+http://217.25.80.16/Zagorodnaa_Gizn_/mono.m3u8
+#EXTINF:-1 group-title="JZexe 3 🍑 (TECT)",Наука 2.0
+http://217.25.80.16/Nauka_2_0/mono.m3u8
+#EXTINF:-1 group-title="JZexe 3 🍑 (TECT)",Ocean TV
+http://217.25.80.16/Ocean_TV/mono.m3u8
+#EXTINF:-1 group-title="JZexe 3 🍑 (TECT)",24 Техно
+http://217.25.80.16/24_Tehno/mono.m3u8
+#EXTINF:-1 group-title="JZexe 3 🍑 (TECT)",Нано ТВ
+http://217.25.80.16/Nano/mono.m3u8
+#EXTINF:-1 group-title="JZexe 3 🍑 (TECT)",Иллюзион+
+http://217.25.80.16/Illuzion_/mono.m3u8
+#EXTINF:-1 group-title="JZexe 3 🍑 (TECT)",FilmBOX
+http://217.25.80.16/FilmBOX/mono.m3u8
+#EXTINF:-1 group-title="JZexe 3 🍑 (TECT)",TV1000
+http://217.25.80.16/TV1000/mono.m3u8
+#EXTINF:-1 group-title="JZexe 3 🍑 (TECT)",TV1000 HD
+http://217.25.80.16/TV1000_HD/mono.m3u8
+#EXTINF:-1 group-title="JZexe 3 🍑 (TECT)",TV1000 Action
+http://217.25.80.16/TV1000_Action/mono.m3u8
+#EXTINF:-1 group-title="JZexe 3 🍑 (TECT)",TV1000 Action HD
+http://217.25.80.16/TV1000_Action_HD/mono.m3u8
+#EXTINF:-1 group-title="JZexe 3 🍑 (TECT)",TV1000 Русское кино
+http://217.25.80.16/TV1000_Russkoe_kino/mono.m3u8
+#EXTINF:-1 group-title="JZexe 3 🍑 (TECT)",Amedia 1
+http://217.25.80.16/A1/mono.m3u8
+#EXTINF:-1 group-title="JZexe 3 🍑 (TECT)",Amedia 2
+http://217.25.80.16/A2/mono.m3u8
+#EXTINF:-1 group-title="JZexe 3 🍑 (TECT)",Amedia Hit
+http://217.25.80.16/Amedia_hit/mono.m3u8
+#EXTINF:-1 group-title="JZexe 3 🍑 (TECT)",Amedia Hit HD
+http://217.25.80.16/Amedia_Hit_HD/mono.m3u8
+#EXTINF:-1 group-title="JZexe 3 🍑 (TECT)",Amedia Premium
+http://217.25.80.16/Amedia_Premium_HD/mono.m3u8
+#EXTINF:-1 group-title="JZexe 3 🍑 (TECT)",Hollywood HD
+http://217.25.80.16/Hollywood_HD/mono.m3u8
+#EXTINF:-1 group-title="JZexe 3 🍑 (TECT)",Cinema
+http://217.25.80.16/Cinema/mono.m3u8
+#EXTINF:-1 group-title="JZexe 3 🍑 (TECT)",День Победы HD
+http://217.25.80.16/Den_pobedy_hd/mono.m3u8
+#EXTINF:-1 group-title="JZexe 3 🍑 (TECT)",Дом КИНО
+http://217.25.80.16/Dom_kino/mono.m3u8
+#EXTINF:-1 group-title="JZexe 3 🍑 (TECT)",Дом Кино Премиум HD
+http://217.25.80.16/Dom_Kino_Premium_HD/mono.m3u8
+#EXTINF:-1 group-title="JZexe 3 🍑 (TECT)",Дорама
+http://217.25.80.16/dorama/mono.m3u8
+#EXTINF:-1 group-title="JZexe 3 🍑 (TECT)",Еврокино
+http://217.25.80.16/Evrokino/mono.m3u8
+#EXTINF:-1 group-title="JZexe 3 🍑 (TECT)",Кинеко
+http://217.25.80.16/FOX/mono.m3u8
+#EXTINF:-1 group-title="JZexe 3 🍑 (TECT)",Кинеко HD
+http://217.25.80.16/FOX_HD/mono.m3u8
+#EXTINF:-1 group-title="JZexe 3 🍑 (TECT)",ХИТ HD
+http://217.25.80.16/hit_hd/mono.m3u8
+#EXTINF:-1 group-title="JZexe 3 🍑 (TECT)",Камеди HD
+http://217.25.80.16/kamedi_hd/mono.m3u8
+#EXTINF:-1 group-title="JZexe 3 🍑 (TECT)",Кино тв HD
+http://217.25.80.16/Kino_TV/mono.m3u8
+#EXTINF:-1 group-title="JZexe 3 🍑 (TECT)",Любимое Кино
+http://217.25.80.16/Lubimoe_kino/mono.m3u8
+#EXTINF:-1 group-title="JZexe 3 🍑 (TECT)",Наш Кинопоказ HD
+http://217.25.80.16/nash_kinopokaz_hd/mono.m3u8
+#EXTINF:-1 group-title="JZexe 3 🍑 (TECT)",Победа
+http://217.25.80.16/Pobeda/mono.m3u8
+#EXTINF:-1 group-title="JZexe 3 🍑 (TECT)",.Sci-Fi
+http://217.25.80.16/Sony_Sci_Fi/mono.m3u8
+#EXTINF:-1 group-title="JZexe 3 🍑 (TECT)",TV XXI
+http://217.25.80.16/XXI/mono.m3u8
+#EXTINF:-1 group-title="JZexe 3 🍑 (TECT)",Сарафан
+http://217.25.80.16/Sarafan/mono.m3u8
+#EXTINF:-1 group-title="JZexe 3 🍑 (TECT)",Авто 24
+http://217.25.80.16/Avto24/mono.m3u8
+#EXTINF:-1 group-title="JZexe 3 🍑 (TECT)",Bollywood HD
+http://217.25.80.16/Bollywood_HD/mono.m3u8
+#EXTINF:-1 group-title="JZexe 3 🍑 (TECT)",ViP Comedy
+http://217.25.80.16/ViP_Comedy_HD/mono.m3u8
+#EXTINF:-1 group-title="JZexe 3 🍑 (TECT)",ViP Premiere
+http://217.25.80.16/ViP_Premiere_HD/mono.m3u8
+#EXTINF:-1 group-title="JZexe 3 🍑 (TECT)",VIP Megahit
+http://217.25.80.16/ViP_Megahit_HD/mono.m3u8
+#EXTINF:-1 group-title="JZexe 3 🍑 (TECT)",Filmbox Arthouse
+http://217.25.80.16/FilmBOX_Arthouse/mono.m3u8
+#EXTINF:-1 group-title="JZexe 3 🍑 (TECT)",Про Любовь HD
+http://217.25.80.16/pro_lubov_hd/mono.m3u8
+#EXTINF:-1 group-title="JZexe 3 🍑 (TECT)",Plan B
+http://217.25.80.16/plan_b_hd/mono.m3u8
+#EXTINF:-1 group-title="JZexe 3 🍑 (TECT)",.Black
+http://217.25.80.16/_black/mono.m3u8
+#EXTINF:-1 group-title="JZexe 3 🍑 (TECT)",Время
+http://217.25.80.16/VREMA/mono.m3u8
+#EXTINF:-1 group-title="JZexe 3 🍑 (TECT)",Мaйдан
+http://217.25.80.16/Maidan/mono.m3u8
+#EXTINF:-1 group-title="JZexe 3 🍑 (TECT)",DocuBOX HD
+http://217.25.80.16/DocuBOX_HD/mono.m3u8
+#EXTINF:-1 group-title="JZexe 3 🍑 (TECT)",Точка отрыва
+http://217.25.80.16/Tochka_otryva/mono.m3u8
+#EXTINF:-1 group-title="JZexe 3 🍑 (TECT)",360°
+http://217.25.80.16/Telekanal_360/mono.m3u8
+#EXTINF:-1 group-title="JZexe 3 🍑 (TECT)",8 канал
+http://217.25.80.16/8_Kanal/mono.m3u8
+#EXTINF:-1 group-title="JZexe 3 🍑 (TECT)",Кто Куда
+http://217.25.80.16/Mir_Uvlecenii/mono.m3u8
+#EXTINF:-1 group-title="JZexe 3 🍑 (TECT)",Москва Доверие
+http://217.25.80.16/Moskva_Doverie/mono.m3u8
+#EXTINF:-1 group-title="JZexe 3 🍑 (TECT)",RT Doc
+http://217.25.80.16/rtd_hd/mono.m3u8
+#EXTINF:-1 group-title="JZexe 3 🍑 (TECT)",1 Республиканский
+http://217.25.80.16/1_Respublikanskii/mono.m3u8
+#EXTINF:-1 group-title="JZexe 3 🍑 (TECT)",Новороссия
+http://217.25.80.16/novorossiya/mono.m3u8
+#EXTINF:-1 group-title="JZexe 3 🍑 (TECT)",Оплот 2
+http://217.25.80.16/Oplot_2/mono.m3u8
+#EXTINF:-1 group-title="JZexe 3 🍑 (TECT)",Оплот
+http://217.25.80.16/Oplot_HD/mono.m3u8
+#EXTINF:-1 group-title="JZexe 3 🍑 (TECT)",СПАС
+http://217.25.80.16/SPAS_TV/mono.m3u8
+#EXTINF:-1 group-title="JZexe 3 🍑 (TECT)",Домашний
+http://217.25.80.16/Domasnii/mono.m3u8
+#EXTINF:-1 group-title="JZexe 3 🍑 (TECT)",Пятница
+http://217.25.80.16/Patnica/mono.m3u8
+#EXTINF:-1 group-title="JZexe 3 🍑 (TECT)",Известия
+http://217.25.80.16/izvestiya/mono.m3u8
+#EXTINF:-1 group-title="JZexe 3 🍑 (TECT)",Арсенал HD
+http://217.25.80.16/arsenal_hd/mono.m3u8
+#EXTINF:-1 group-title="JZexe 3 🍑 (TECT)",БелРос
+http://217.25.80.16/TRO/mono.m3u8
+#EXTINF:-1 group-title="JZexe 3 🍑 (TECT)",Театр
+http://217.25.80.16/Teatr/mono.m3u8
+#EXTINF:-1 group-title="JZexe 3 🍑 (TECT)",Теледом HD
+http://217.25.80.16/teledom_hd/mono.m3u8
+#EXTINF:-1 group-title="JZexe 3 🍑 (TECT)",Телекафе
+http://217.25.80.16/Telekafe/mono.m3u8
+#EXTINF:-1 group-title="JZexe 3 🍑 (TECT)",Славянский Мир
+http://217.25.80.16/Slavyanskiy_mir/mono.m3u8
+#EXTINF:-1 group-title="JZexe 3 🍑 (TECT)",2x2
+http://217.25.80.16/2x2/mono.m3u8
+#EXTINF:-1 group-title="JZexe 3 🍑 (TECT)",ОТР
+http://217.25.80.16/OTR/mono.m3u8
+#EXTINF:-1 group-title="JZexe 3 🍑 (TECT)",ТВ3
+http://217.25.80.16/TV_3/mono.m3u8
+#EXTINF:-1 group-title="JZexe 3 🍑 (TECT)",СТС
+http://217.25.80.16/STS/mono.m3u8
+#EXTINF:-1 group-title="JZexe 3 🍑 (TECT)",СТС Love
+http://217.25.80.16/STS_Love/mono.m3u8
+#EXTINF:-1 group-title="JZexe 3 🍑 (TECT)",СТС HD
+http://217.25.80.16/CTC_HD/mono.m3u8
+#EXTINF:-1 group-title="JZexe 3 🍑 (TECT)",Домашний HD
+http://217.25.80.16/domashniy_hd/mono.m3u8
+#EXTINF:-1 group-title="JZexe 3 🍑 (TECT)",ЧЕ
+http://217.25.80.16/Ce/mono.m3u8
+#EXTINF:-1 group-title="JZexe 3 🍑 (TECT)",Мир
+http://217.25.80.16/Mir/mono.m3u8
+#EXTINF:-1 group-title="JZexe 3 🍑 (TECT)",МИР 24
+http://217.25.80.16/Mir_24/mono.m3u8
+#EXTINF:-1 group-title="JZexe 3 🍑 (TECT)",Москва 24
+http://217.25.80.16/Moskva_24/mono.m3u8
+#EXTINF:-1 group-title="JZexe 3 🍑 (TECT)",ТВЦ
+http://217.25.80.16/TVC/mono.m3u8
+#EXTINF:-1 group-title="JZexe 3 🍑 (TECT)",Ю
+http://217.25.80.16/U/mono.m3u8
+#EXTINF:-1 group-title="JZexe 3 🍑 (TECT)",Союз
+http://217.25.80.16/Souz/mono.m3u8
+#EXTINF:-1 group-title="JZexe 3 🍑 (TECT)",Звезда
+http://217.25.80.16/Zvezda/mono.m3u8
+#EXTINF:-1 group-title="JZexe 3 🍑 (TECT)",5 Канал
+http://217.25.80.16/Peterburg_5_kanal/mono.m3u8
+#EXTINF:-1 group-title="JZexe 3 🍑 (TECT)",РБК
+http://217.25.80.16/RBK/mono.m3u8
+#EXTINF:-1 group-title="JZexe 3 🍑 (TECT)",Cinema HD
+http://217.25.80.16/Cinema_HD/mono.m3u8
+#EXTINF:-1 group-title="JZexe 3 🍑 (TECT)",Еда HD
+http://217.25.80.16/Eda_HD/mono.m3u8
+#EXTINF:-1 group-title="JZexe 3 🍑 (TECT)",Fan HD
+http://217.25.80.16/fan_hd/mono.m3u8
+#EXTINF:-1 group-title="JZexe 3 🍑 (TECT)",FAN
+http://217.25.80.16/FAN/mono.m3u8
+#EXTINF:-1 group-title="JZexe 3 🍑 (TECT)",Авто плюс
+http://217.25.80.16/Avto_Plus/mono.m3u8
+#EXTINF:-1 group-title="JZexe 3 🍑 (TECT)",FlixSnip
+http://217.25.80.16/FlixSnip/mono.m3u8
+#EXTINF:-1 group-title="JZexe 3 🍑 (TECT)",Fox Life
+http://217.25.80.16/Fox_Life/mono.m3u8
+#EXTINF:-1 group-title="JZexe 3 🍑 (TECT)",Fox life HD
+http://217.25.80.16/fox_life_hd/mono.m3u8
+#EXTINF:-1 group-title="JZexe 3 🍑 (TECT)",Gags network
+http://217.25.80.16/Gagsnetwork/mono.m3u8
+#EXTINF:-1 group-title="JZexe 3 🍑 (TECT)",Hollywood
+http://217.25.80.16/Hollywood/mono.m3u8
+#EXTINF:-1 group-title="JZexe 3 🍑 (TECT)",Кино ТВ HD
+http://217.25.80.16/Kino_TV_HD/mono.m3u8
+#EXTINF:-1 group-title="JZexe 3 🍑 (TECT)",Кинохит
+http://217.25.80.16/Kinohit/mono.m3u8
+#EXTINF:-1 group-title="JZexe 3 🍑 (TECT)",Индийское кино
+http://217.25.80.16/Indiiskoe_kino/mono.m3u8
+#EXTINF:-1 group-title="JZexe 3 🍑 (TECT)",Кинокомедия
+http://217.25.80.16/Kinokomedia/mono.m3u8
+#EXTINF:-1 group-title="JZexe 3 🍑 (TECT)",Киномикс
+http://217.25.80.16/Kinomiks/mono.m3u8
+#EXTINF:-1 group-title="JZexe 3 🍑 (TECT)",Родное кино
+http://217.25.80.16/Rodnoe_kino/mono.m3u8
+#EXTINF:-1 group-title="JZexe 3 🍑 (TECT)",Киномикс HD
+http://217.25.80.16/Kinomiks_HD/mono.m3u8
+#EXTINF:-1 group-title="JZexe 3 🍑 (TECT)",Кинопоказ HD
+http://217.25.80.16/kinopokaz_hd/mono.m3u8
+#EXTINF:-1 group-title="JZexe 3 🍑 (TECT)",Киносерия
+http://217.25.80.16/KINOSERIA/mono.m3u8
+#EXTINF:-1 group-title="JZexe 3 🍑 (TECT)",Киносвидание
+http://217.25.80.16/Kinosvidanie/mono.m3u8
+#EXTINF:-1 group-title="JZexe 3 🍑 (TECT)",Комедийное HD
+http://217.25.80.16/Komediynoe_HD/mono.m3u8
+#EXTINF:-1 group-title="JZexe 3 🍑 (TECT)",Индия
+http://217.25.80.16/Zee_TV/mono.m3u8
+#EXTINF:-1 group-title="JZexe 3 🍑 (TECT)",Кухня ТВ
+http://217.25.80.16/kuhnya_tv/mono.m3u8
+#EXTINF:-1 group-title="JZexe 3 🍑 (TECT)",КВН ТВ
+http://217.25.80.16/KVN_TV/mono.m3u8
+#EXTINF:-1 group-title="JZexe 3 🍑 (TECT)",Наше HD
+http://217.25.80.16/nashe_hd/mono.m3u8
+#EXTINF:-1 group-title="JZexe 3 🍑 (TECT)",o2tv
+http://217.25.80.16/o2tv/mono.m3u8
+#EXTINF:-1 group-title="JZexe 3 🍑 (TECT)",Поехали!
+http://217.25.80.16/Poehali/mono.m3u8
+#EXTINF:-1 group-title="JZexe 3 🍑 (TECT)",Премиальное HD
+http://217.25.80.16/Premialnoe_HD/mono.m3u8
+#EXTINF:-1 group-title="JZexe 3 🍑 (TECT)",.RED
+http://217.25.80.16/RED/mono.m3u8
+#EXTINF:-1 group-title="JZexe 3 🍑 (TECT)",Субота
+http://217.25.80.16/Subbota/mono.m3u8
+#EXTINF:-1 group-title="JZexe 3 🍑 (TECT)",Уникум
+http://217.25.80.16/Unikum/mono.m3u8
+#EXTINF:-1 group-title="JZexe 3 🍑 (TECT)",Радость Моя
+http://217.25.80.16/Radost__moa/mono.m3u8
+#EXTINF:-1 group-title="JZexe 3 🍑 (TECT)",Мульт HD
+http://217.25.80.16/Mult_HD/mono.m3u8
+#EXTINF:-1 group-title="JZexe 3 🍑 (TECT)",Мультиландия
+http://217.25.80.16/Multilandia/mono.m3u8
+#EXTINF:-1 group-title="JZexe 3 🍑 (TECT)",Бобер
+http://217.25.80.16/BOBER/mono.m3u8
+#EXTINF:-1 group-title="JZexe 3 🍑 (TECT)",СТС Kids
+http://217.25.80.16/CTC_Kids/mono.m3u8
+#EXTINF:-1 group-title="JZexe 3 🍑 (TECT)",СТС Kids HD
+http://217.25.80.16/CTC_Kids_HD/mono.m3u8
+#EXTINF:-1 group-title="JZexe 3 🍑 (TECT)",Tiji
+http://217.25.80.16/Tiji/mono.m3u8
+#EXTINF:-1 group-title="JZexe 3 🍑 (TECT)",Мама
+http://217.25.80.16/Mama/mono.m3u8
+#EXTINF:-1 group-title="JZexe 3 🍑 (TECT)",Солнце
+http://217.25.80.16/Disney_Channel/mono.m3u8
+#EXTINF:-1 group-title="JZexe 3 🍑 (TECT)",Gulli Girl
+http://217.25.80.16/Gulli_Girl/mono.m3u8
+#EXTINF:-1 group-title="JZexe 3 🍑 (TECT)",Детский мир
+http://217.25.80.16/Detskii_mir/mono.m3u8
+#EXTINF:-1 group-title="JZexe 3 🍑 (TECT)",Карусель
+http://217.25.80.16/Karusel_/mono.m3u8
+#EXTINF:-1 group-title="JZexe 3 🍑 (TECT)",Мульт
+http://217.25.80.16/Mul_t/mono.m3u8
+#EXTINF:-1 group-title="JZexe 3 🍑 (TECT)",В гостях у сказки
+http://217.25.80.16/V_gostah_u_skazki/mono.m3u8
+#EXTINF:-1 group-title="JZexe 3 🍑 (TECT)",Мультимузыка
+http://217.25.80.16/Mul_timuzika/mono.m3u8
+#EXTINF:-1 group-title="JZexe 3 🍑 (TECT)",Ani
+http://217.25.80.16/Ani/mono.m3u8
+#EXTINF:-1 group-title="JZexe 3 🍑 (TECT)",BRIDGE TV
+http://217.25.80.16/BRIDGE_TV/mono.m3u8
+#EXTINF:-1 group-title="JZexe 3 🍑 (TECT)",AIVA HD
+http://217.25.80.16/aiva_hd/mono.m3u8
+#EXTINF:-1 group-title="JZexe 3 🍑 (TECT)",Mezzo
+http://217.25.80.16/Mezzo/mono.m3u8
+#EXTINF:-1 group-title="JZexe 3 🍑 (TECT)",Mezzo Live HD
+http://217.25.80.16/Mezzo_Live_HD/mono.m3u8
+#EXTINF:-1 group-title="JZexe 3 🍑 (TECT)",МузТВ
+http://217.25.80.16/MUZ_TV/mono.m3u8
+#EXTINF:-1 group-title="JZexe 3 🍑 (TECT)",Музыка Первого
+http://217.25.80.16/Muzika_Pervogo/mono.m3u8
+#EXTINF:-1 group-title="JZexe 3 🍑 (TECT)",ТНТ Music
+http://217.25.80.16/tnt_music/mono.m3u8
+#EXTINF:-1 group-title="JZexe 3 🍑 (TECT)",Ru.TV
+http://217.25.80.16/Ru_TV/mono.m3u8
+#EXTINF:-1 group-title="JZexe 3 🍑 (TECT)",Жара
+http://217.25.80.16/GARA/mono.m3u8
+#EXTINF:-1 group-title="JZexe 3 🍑 (TECT)",Шансон ТВ
+http://217.25.80.16/Sanson_TV/mono.m3u8
+#EXTINF:-1 group-title="JZexe 3 🍑 (TECT)",Bolt HD
+http://217.25.80.16/Bolt/mono.m3u8
+#EXTINF:-1 group-title="JZexe 3 🍑 (TECT)",Da Vinci
+http://217.25.80.16/Da_Vinci/mono.m3u8
+
+
+
+
+
+#EXTINF:-1 group-title="JZexe 4 🍑 (TECT)" , Первый HD
+http://50.7.28.226/8150/index.m3u8
+#EXTINF:-1 group-title="JZexe 4 🍑 (TECT)" , ТНТ
+http://50.7.28.226/9311/index.m3u8
+#EXTINF:-1 group-title="JZexe 4 🍑 (TECT)" , НТВ
+http://50.7.28.226/8298/index.m3u8
+#EXTINF:-1 group-title="JZexe 4 🍑 (TECT)" , Travel+Adventure
+http://50.7.28.226/8170/index.m3u8
+#EXTINF:-1 group-title="JZexe 4 🍑 (TECT)" , Viasat History
+http://50.7.28.226/9017/index.m3u8
+#EXTINF:-1 group-title="JZexe 4 🍑 (TECT)" , История 
+http://50.7.28.226/8082/index.m3u8
+#EXTINF:-1 group-title="JZexe 4 🍑 (TECT)" , Discovery HD
+http://50.7.28.226/8748/index.m3u8
+#EXTINF:-1 group-title="JZexe 4 🍑 (TECT)" , Глазами туриста
+http://50.7.28.226/8904/index.m3u8
+#EXTINF:-1 group-title="JZexe 4 🍑 (TECT)" , СТС Love 
+http://50.7.28.226/8174/index.m3u8
+#EXTINF:-1 group-title="JZexe 4 🍑 (TECT)" , Bollywood 
+http://50.7.28.226/8240/index.m3u8
+#EXTINF:-1 group-title="JZexe 4 🍑 (TECT)" , Среда 
+http://50.7.28.226/8295/index.m3u8
+#EXTINF:-1 group-title="JZexe 4 🍑 (TECT)" , Спас
+http://50.7.28.226/8301/index.m3u8
+#EXTINF:-1 group-title="JZexe 4 🍑 (TECT)" , Беларусь 2
+http://50.7.28.226/8302/index.m3u8
+#EXTINF:-1 group-title="JZexe 4 🍑 (TECT)" , Shot TV
+http://50.7.28.226/8358/index.m3u8
+#EXTINF:-1 group-title="JZexe 4 🍑 (TECT)" , Кинеко
+http://50.7.28.226/8370/index.m3u8
+#EXTINF:-1 group-title="JZexe 4 🍑 (TECT)" , Fan HD
+http://50.7.28.226/8386/index.m3u8
+#EXTINF:-1 group-title="JZexe 4 🍑 (TECT)" , Box Spy HD
+http://50.7.28.226/8354/index.m3u8
+#EXTINF:-1 group-title="JZexe 4 🍑 (TECT)" , Box Travel HD
+http://50.7.28.226/8416/index.m3u8
+#EXTINF:-1 group-title="JZexe 4 🍑 (TECT)" , Box Zombie HD
+http://50.7.28.226/8418/index.m3u8
+#EXTINF:-1 group-title="JZexe 4 🍑 (TECT)" , Box Stories HD
+http://50.7.28.226/8429/index.m3u8
+#EXTINF:-1 group-title="JZexe 4 🍑 (TECT)" , Box Gangster HD
+http://50.7.28.226/8985/index.m3u8
+#EXTINF:-1 group-title="JZexe 4 🍑 (TECT)" , Box Serial HD
+http://50.7.28.226/8988/index.m3u8
+#EXTINF:-1 group-title="JZexe 4 🍑 (TECT)" , BCU Kids+
+http://50.7.28.226/8454/index.m3u8
+#EXTINF:-1 group-title="JZexe 4 🍑 (TECT)" , BCU Kinorating
+http://50.7.28.226/8455/index.m3u8
+#EXTINF:-1 group-title="JZexe 4 🍑 (TECT)" , BCU Catastrophe HD 
+http://50.7.28.226/8877/index.m3u8
+#EXTINF:-1 group-title="JZexe 4 🍑 (TECT)" , BCU Romantic HD
+http://50.7.28.226/8884/index.m3u8
+#EXTINF:-1 group-title="JZexe 4 🍑 (TECT)" , BCU Сваты
+http://50.7.28.226/8889/index.m3u8
+#EXTINF:-1 group-title="JZexe 4 🍑 (TECT)" , Продвижение 
+http://50.7.28.226/8665/index.m3u8
+#EXTINF:-1 group-title="JZexe 4 🍑 (TECT)" , Наше Мужское HD
+http://50.7.28.226/8740/index.m3u8
+#EXTINF:-1 group-title="JZexe 4 🍑 (TECT)" , MM Honey
+http://50.7.28.226/8895/index.m3u8
+#EXTINF:-1 group-title="JZexe 4 🍑 (TECT)" , MM Драма HD
+http://50.7.28.226/8634/index.m3u8
+#EXTINF:-1 group-title="JZexe 4 🍑 (TECT)" , MM Макромир
+http://50.7.28.226/8636/index.m3u8
+#EXTINF:-1 group-title="JZexe 4 🍑 (TECT)" , MM Newfilm 3
+http://50.7.28.226/8743/index.m3u8
+#EXTINF:-1 group-title="JZexe 4 🍑 (TECT)" , MM Relax
+http://50.7.28.226/8793/index.m3u8
+#EXTINF:-1 group-title="JZexe 4 🍑 (TECT)" , MM Celebrity HD
+http://50.7.28.226/8991/index.m3u8
+#EXTINF:-1 group-title="JZexe 4 🍑 (TECT)" , CineMan VHS
+http://50.7.28.226/8807/index.m3u8
+#EXTINF:-1 group-title="JZexe 4 🍑 (TECT)" , CineMan Симпсоны 
+http://50.7.28.226/8833/index.m3u8
+#EXTINF:-1 group-title="JZexe 4 🍑 (TECT)" , Cinema 
+http://50.7.28.226/8949/index.m3u8
+#EXTINF:-1 group-title="JZexe 4 🍑 (TECT)" , CineMan Thriller
+http://50.7.28.226/8954/index.m3u8
+#EXTINF:-1 group-title="JZexe 4 🍑 (TECT)" , CineMan MiniSeries
+http://50.7.28.226/8961/index.m3u8
+#EXTINF:-1 group-title="JZexe 4 🍑 (TECT)" , 8812
+http://50.7.28.226/8812/index.m3u8
+#EXTINF:-1 group-title="JZexe 4 🍑 (TECT)" , CineMan РуКино
+http://50.7.28.226/8871/index.m3u8
+#EXTINF:-1 group-title="JZexe 4 🍑 (TECT)" , Романтичное HD
+http://50.7.28.226/8948/index.m3u8
+#EXTINF:-1 group-title="JZexe 4 🍑 (TECT)" , Viasat Kino
+http://50.7.28.226/9020/index.m3u8
+#EXTINF:-1 group-title="JZexe 4 🍑 (TECT)" , Домашний
+http://50.7.28.226/9204/index.m3u8
+#EXTINF:-1 group-title="JZexe 4 🍑 (TECT)" , 1+1 Марафон UA
+http://50.7.28.226/8116/index.m3u8
+#EXTINF:-1 group-title="JZexe 4 🍑 (TECT)" , Дом кино 
+http://50.7.28.226/8136/index.m3u8
+#EXTINF:-1 group-title="JZexe 4 🍑 (TECT)" , VIP Serial
+http://50.7.28.226/9222/index.m3u8
+#EXTINF:-1 group-title="JZexe 4 🍑 (TECT)" , Твоё ТВ
+http://50.7.28.226/9236/index.m3u8
+#EXTINF:-1 group-title="JZexe 4 🍑 (TECT)" , Твоё ТВ Юмор
+http://50.7.28.226/9246/index.m3u8
+#EXTINF:-1 group-title="JZexe 4 🍑 (TECT)" , Enter-фільм
+http://50.7.28.226/9327/index.m3u8
+#EXTINF:-1 group-title="JZexe 4 🍑 (TECT)" , Bridge TV Hits
+http://50.7.28.226/9202/index.m3u8
+#EXTINF:-1 group-title="JZexe 4 🍑 (TECT)" , Bridge TV Rock
+http://50.7.28.226/9229/index.m3u8
+#EXTINF:-1 group-title="JZexe 4 🍑 (TECT)" , Bridge TV Фрэш
+http://50.7.28.226/9230/index.m3u8
+#EXTINF:-1 group-title="JZexe 4 🍑 (TECT)" , Bridge TV Этно
+http://50.7.28.226/9231/index.m3u8
+#EXTINF:-1 group-title="JZexe 4 🍑 (TECT)" , Лапки Live
+http://50.7.28.226/8551/index.m3u8
+#EXTINF:-1 group-title="JZexe 4 🍑 (TECT)" , О!
+http://50.7.28.226/8664/index.m3u8
+#EXTINF:-1 group-title="JZexe 4 🍑 (TECT)" , Бигуди 
+http://50.7.28.226/9328/index.m3u8
+#EXTINF:-1 group-title="JZexe 4 🍑 (TECT)" , Bolt
+http://50.7.28.226/9329/index.m3u8
+#EXTINF:-1 group-title="JZexe 4 🍑 (TECT)" , Мульт
+http://50.7.28.226/8157/index.m3u8
+#EXTINF:-1 group-title="JZexe 4 🍑 (TECT)" , Рыжий
+http://50.7.28.226/9224/index.m3u8
+
+
+
+
+
+
+#EXTINF:-1 group-title="JZexe 5 🍑 (TECT)",Россия К
+http://146.120.14.239:3001/play/a083
+#EXTINF:-1 group-title="JZexe 5 🍑 (TECT)",Беларусь 1
+http://146.120.14.239:3001/play/a06d
+#EXTINF:-1 group-title="JZexe 5 🍑 (TECT)",ОНТ
+http://146.120.14.239:3001/play/a06e
+#EXTINF:-1 group-title="JZexe 5 🍑 (TECT)",СТВ
+http://146.120.14.239:3001/play/a06f
+#EXTINF:-1 group-title="JZexe 5 🍑 (TECT)",Мир
+http://146.120.14.239:3001/play/a09j
+#EXTINF:-1 group-title="JZexe 5 🍑 (TECT)",Первый Информационный
+http://146.120.14.239:3001/play/a06h
+#EXTINF:-1 group-title="JZexe 5 🍑 (TECT)",РТР Беларусь
+http://146.120.14.239:3001/play/a06i
+#EXTINF:-1 group-title="JZexe 5 🍑 (TECT)",НТВ Право
+http://146.120.14.239:3001/play/a079
+#EXTINF:-1 group-title="JZexe 5 🍑 (TECT)",НТВ Стиль
+http://146.120.14.239:3001/play/a07a
+#EXTINF:-1 group-title="JZexe 5 🍑 (TECT)",НТВ Сериал
+http://146.120.14.239:3001/play/a0bx
+#EXTINF:-1 group-title="JZexe 5 🍑 (TECT)",НТВ Беларусь
+http://146.120.14.239:3001/play/a06j
+#EXTINF:-1 group-title="JZexe 5 🍑 (TECT)",Беларусь 3
+http://146.120.14.239:3001/play/a06k
+#EXTINF:-1 group-title="JZexe 5 🍑 (TECT)",Беларусь 2
+http://146.120.14.239:3001/play/a0kh
+#EXTINF:-1 group-title="JZexe 5 🍑 (TECT)",Загородная жизнь
+http://146.120.14.239:3001/play/a0bp
+#EXTINF:-1 group-title="JZexe 5 🍑 (TECT)",Моя Планета
+http://146.120.14.239:3001/play/a06v
+#EXTINF:-1 group-title="JZexe 5 🍑 (TECT)",Наука
+http://146.120.14.239:3001/play/a06w
+#EXTINF:-1 group-title="JZexe 5 🍑 (TECT)",Глазами Туриста
+http://146.120.14.239:3001/play/a0bs
+#EXTINF:-1 group-title="JZexe 5 🍑 (TECT)",Investigation Discovery
+http://146.120.14.239:3001/play/a06x
+#EXTINF:-1 group-title="JZexe 5 🍑 (TECT)",Discovery Channel
+http://146.120.14.239:3001/play/a06y
+#EXTINF:-1 group-title="JZexe 5 🍑 (TECT)",Animal Planet
+http://146.120.14.239:3001/play/a06z
+#EXTINF:-1 group-title="JZexe 5 🍑 (TECT)",Тайны Галактики
+http://146.120.14.239:3001/play/a08j
+#EXTINF:-1 group-title="JZexe 5 🍑 (TECT)",Моя Стихия
+http://146.120.14.239:3001/play/a089
+#EXTINF:-1 group-title="JZexe 5 🍑 (TECT)",Оружие
+http://146.120.14.239:3001/play/a09a
+#EXTINF:-1 group-title="JZexe 5 🍑 (TECT)",Совершенно Секретно
+http://146.120.14.239:3001/play/a0fo
+#EXTINF:-1 group-title="JZexe 5 🍑 (TECT)",Точка РФ
+http://146.120.14.239:3001/play/a0jh
+#EXTINF:-1 group-title="JZexe 5 🍑 (TECT)",Дикая Охота HD
+http://146.120.14.239:3001/play/a0ji
+#EXTINF:-1 group-title="JZexe 5 🍑 (TECT)",Дикая Рыбалка HD
+http://146.120.14.239:3001/play/a0jk
+#EXTINF:-1 group-title="JZexe 5 🍑 (TECT)",Ocean TV
+http://146.120.14.239:3001/play/a06s
+#EXTINF:-1 group-title="JZexe 5 🍑 (TECT)",Домашний
+http://146.120.14.239:3001/play/a06n
+#EXTINF:-1 group-title="JZexe 5 🍑 (TECT)",Перец International
+http://146.120.14.239:3001/play/a06o
+#EXTINF:-1 group-title="JZexe 5 🍑 (TECT)",ТНТ International
+http://146.120.14.239:3001/play/a08i
+#EXTINF:-1 group-title="JZexe 5 🍑 (TECT)",5 International
+http://146.120.14.239:3001/play/a08q
+#EXTINF:-1 group-title="JZexe 5 🍑 (TECT)",Сарафан
+http://146.120.14.239:3001/play/a06q
+#EXTINF:-1 group-title="JZexe 5 🍑 (TECT)",Успех
+http://146.120.14.239:3001/play/a06r
+#EXTINF:-1 group-title="JZexe 5 🍑 (TECT)",Hollywood HD
+http://146.120.14.239:3001/play/a06t
+#EXTINF:-1 group-title="JZexe 5 🍑 (TECT)",Amedia Premium HD
+http://146.120.14.239:3001/play/a06u
+#EXTINF:-1 group-title="JZexe 5 🍑 (TECT)",Киноман
+http://146.120.14.239:3001/play/a0fv
+#EXTINF:-1 group-title="JZexe 5 🍑 (TECT)",Дом кино
+http://146.120.14.239:3001/play/a073
+#EXTINF:-1 group-title="JZexe 5 🍑 (TECT)",Время
+http://146.120.14.239:3001/play/a0be
+#EXTINF:-1 group-title="JZexe 5 🍑 (TECT)",Победа
+http://146.120.14.239:3001/play/a076
+#EXTINF:-1 group-title="JZexe 5 🍑 (TECT)",НСТ
+http://146.120.14.239:3001/play/a077
+#EXTINF:-1 group-title="JZexe 5 🍑 (TECT)",Театр
+http://146.120.14.239:3001/play/a07d
+#EXTINF:-1 group-title="JZexe 5 🍑 (TECT)",Мир 24
+http://146.120.14.239:3001/play/a07e
+#EXTINF:-1 group-title="JZexe 5 🍑 (TECT)",Наша Тема
+http://146.120.14.239:3001/play/a0gi
+#EXTINF:-1 group-title="JZexe 5 🍑 (TECT)",Amedia 1
+http://146.120.14.239:3001/play/a07g
+#EXTINF:-1 group-title="JZexe 5 🍑 (TECT)",Мужской
+http://146.120.14.239:3001/play/a0br
+#EXTINF:-1 group-title="JZexe 5 🍑 (TECT)",Amedia 2
+http://146.120.14.239:3001/play/a07i
+#EXTINF:-1 group-title="JZexe 5 🍑 (TECT)",Amedia HIT HD
+http://146.120.14.239:3001/play/a07j
+#EXTINF:-1 group-title="JZexe 5 🍑 (TECT)",Дорама
+http://146.120.14.239:3001/play/a07k
+#EXTINF:-1 group-title="JZexe 5 🍑 (TECT)",Индийское Кино
+http://146.120.14.239:3001/play/a07p
+#EXTINF:-1 group-title="JZexe 5 🍑 (TECT)",Кинокомедия
+http://146.120.14.239:3001/play/a07t
+#EXTINF:-1 group-title="JZexe 5 🍑 (TECT)",Киномикс
+http://146.120.14.239:3001/play/a07q
+#EXTINF:-1 group-title="JZexe 5 🍑 (TECT)",Киносвидание
+http://146.120.14.239:3001/play/a07r
+#EXTINF:-1 group-title="JZexe 5 🍑 (TECT)",Кинопремьера HD
+http://146.120.14.239:3001/play/a0ds
+#EXTINF:-1 group-title="JZexe 5 🍑 (TECT)",Киносемья
+http://146.120.14.239:3001/play/a082
+#EXTINF:-1 group-title="JZexe 5 🍑 (TECT)",Киносерия
+http://146.120.14.239:3001/play/a07x
+#EXTINF:-1 group-title="JZexe 5 🍑 (TECT)",Кинохит
+http://146.120.14.239:3001/play/a07s
+#EXTINF:-1 group-title="JZexe 5 🍑 (TECT)",Мужское Кино
+http://146.120.14.239:3001/play/a07y
+#EXTINF:-1 group-title="JZexe 5 🍑 (TECT)",НАШЕ НОВОЕ КИНО
+http://146.120.14.239:3001/play/a0ih
+#EXTINF:-1 group-title="JZexe 5 🍑 (TECT)",Родное Кино
+http://146.120.14.239:3001/play/a07z
+#EXTINF:-1 group-title="JZexe 5 🍑 (TECT)",365 дней ТВ
+http://146.120.14.239:3001/play/a07m
+#EXTINF:-1 group-title="JZexe 5 🍑 (TECT)",Авто Плюс
+http://146.120.14.239:3001/play/a07n
+#EXTINF:-1 group-title="JZexe 5 🍑 (TECT)",Слуцк ТВ 2
+http://146.120.14.239:3001/play/a085
+#EXTINF:-1 group-title="JZexe 5 🍑 (TECT)",КВН ТВ
+http://146.120.14.239:3001/play/a086
+#EXTINF:-1 group-title="JZexe 5 🍑 (TECT)",Кто есть кто
+http://146.120.14.239:3001/play/a07u
+#EXTINF:-1 group-title="JZexe 5 🍑 (TECT)",Кухня ТВ
+http://146.120.14.239:3001/play/a07v
+#EXTINF:-1 group-title="JZexe 5 🍑 (TECT)",Ностальгия
+http://146.120.14.239:3001/play/a081
+#EXTINF:-1 group-title="JZexe 5 🍑 (TECT)",Kazakh TV
+http://146.120.14.239:3001/play/a0bt
+#EXTINF:-1 group-title="JZexe 5 🍑 (TECT)",Suspense
+http://146.120.14.239:3001/play/a08o
+#EXTINF:-1 group-title="JZexe 5 🍑 (TECT)",Анекдот ТВ
+http://146.120.14.239:3001/play/a08p
+#EXTINF:-1 group-title="JZexe 5 🍑 (TECT)",БелРос
+http://146.120.14.239:3001/play/a0gk
+#EXTINF:-1 group-title="JZexe 5 🍑 (TECT)",Women's Magazine
+http://146.120.14.239:3001/play/a08w
+#EXTINF:-1 group-title="JZexe 5 🍑 (TECT)",Слуцк ТВ
+http://146.120.14.239:3001/play/a06m
+#EXTINF:-1 group-title="JZexe 5 🍑 (TECT)",Союз
+http://146.120.14.239:3001/play/a0bn
+#EXTINF:-1 group-title="JZexe 5 🍑 (TECT)",Любимое Кино
+http://146.120.14.239:3001/play/a095
+#EXTINF:-1 group-title="JZexe 5 🍑 (TECT)",Мир сериала
+http://146.120.14.239:3001/play/a096
+#EXTINF:-1 group-title="JZexe 5 🍑 (TECT)",Дом Кино Премиум
+http://146.120.14.239:3001/play/a097
+#EXTINF:-1 group-title="JZexe 5 🍑 (TECT)",Феникс+Кино
+http://146.120.14.239:3001/play/a099
+#EXTINF:-1 group-title="JZexe 5 🍑 (TECT)",Детский Мир
+http://146.120.14.239:3001/play/a0fc
+#EXTINF:-1 group-title="JZexe 5 🍑 (TECT)",СТС Kids
+http://146.120.14.239:3001/play/a0ob
+#EXTINF:-1 group-title="JZexe 5 🍑 (TECT)",Уникум
+http://146.120.14.239:3001/play/a084
+#EXTINF:-1 group-title="JZexe 5 🍑 (TECT)",О!
+http://146.120.14.239:3001/play/a07l
+#EXTINF:-1 group-title="JZexe 5 🍑 (TECT)",В Гостях У Сказки
+http://146.120.14.239:3001/play/a078
+#EXTINF:-1 group-title="JZexe 5 🍑 (TECT)",Duck TV
+http://146.120.14.239:3001/play/a075
+#EXTINF:-1 group-title="JZexe 5 🍑 (TECT)",Cartoon Classic
+http://146.120.14.239:3001/play/a08h
+#EXTINF:-1 group-title="JZexe 5 🍑 (TECT)",Карусель
+http://146.120.14.239:3001/play/a070
+#EXTINF:-1 group-title="JZexe 5 🍑 (TECT)",Мульт
+http://146.120.14.239:3001/play/a071
+#EXTINF:-1 group-title="JZexe 5 🍑 (TECT)",СуперГерои
+http://146.120.14.239:3001/play/a0gj
+#EXTINF:-1 group-title="JZexe 5 🍑 (TECT)",Мультиландия
+http://146.120.14.239:3001/play/a08z
+#EXTINF:-1 group-title="JZexe 5 🍑 (TECT)",Бобёр
+http://146.120.14.239:3001/play/a0du
+#EXTINF:-1 group-title="JZexe 5 🍑 (TECT)",Европа Плюс ТВ
+http://146.120.14.239:3001/play/a07o
+#EXTINF:-1 group-title="JZexe 5 🍑 (TECT)",Музыка Live
+http://146.120.14.239:3001/play/a07w
+#EXTINF:-1 group-title="JZexe 5 🍑 (TECT)",Mezzo
+http://146.120.14.239:3001/play/a0bz
+#EXTINF:-1 group-title="JZexe 5 🍑 (TECT)",МузСоюз
+http://146.120.14.239:3001/play/a08g
+#EXTINF:-1 group-title="JZexe 5 🍑 (TECT)",Bridge TV Deluxe
+http://146.120.14.239:3001/play/a0jl
+#EXTINF:-1 group-title="JZexe 5 🍑 (TECT)",Шансон ТВ
+http://146.120.14.239:3001/play/a0i3
+
+
+
+
+
+#EXTINF:-1 group-title="JZexe 5 🍑 (TECT)",РЕН ТВ
+http://95.47.156.60:8000/play/11/index.m3u8
+#EXTINF:-1 group-title="JZexe 5 🍑 (TECT)",РОССИЯ К
+http://95.47.156.60:8000/play/6/index.m3u8
+#EXTINF:-1 group-title="JZexe 5 🍑 (TECT)",ТНТ
+http://95.47.156.60:8000/play/19/index.m3u8
+#EXTINF:-1 group-title="JZexe 5 🍑 (TECT)",НТВ
+http://95.47.156.60:8000/play/4/index.m3u8
+#EXTINF:-1 group-title="JZexe 5 🍑 (TECT)",ПЯТЫЙ КАНАЛ
+http://95.47.156.60:8000/play/5/index.m3u8
+#EXTINF:-1 group-title="JZexe 5 🍑 (TECT)"tvg-id="art-tv" ,ART-ТВ   
+http://95.47.156.60:8000/play/a011/index.m3u8
+#EXTINF:-1 group-title="JZexe 5 🍑 (TECT)",Архыз 24
+http://95.47.156.60:8000/play/a00w/index.m3u8
+#EXTINF:-1 group-title="JZexe 5 🍑 (TECT)",Домашний
+http://95.47.156.60:8000/play/14/index.m3u8
+#EXTINF:-1 group-title="JZexe 5 🍑 (TECT)",Звезда
+http://95.47.156.60:8000/play/17/index.m3u8
+#EXTINF:-1 group-title="JZexe 5 🍑 (TECT)",МИР
+http://95.47.156.60:8000/play/18/index.m3u8
+#EXTINF:-1 group-title="JZexe 5 🍑 (TECT)",ММТВ
+http://95.47.156.60:8000/play/a014/index.m3u8
+#EXTINF:-1 group-title="JZexe 5 🍑 (TECT)",ПРНК
+http://95.47.156.60:8000/play/a013/index.m3u8
+#EXTINF:-1 group-title="JZexe 5 🍑 (TECT)",Пятница
+http://95.47.156.60:8000/play/16/index.m3u8
+#EXTINF:-1 group-title="JZexe 5 🍑 (TECT)",Резонанс ТВ
+http://95.47.156.60:8000/play/a015/index.m3u8
+#EXTINF:-1 group-title="JZexe 5 🍑 (TECT)",СТС
+http://95.47.156.60:8000/play/13/index.m3u8
+#EXTINF:-1 group-title="JZexe 5 🍑 (TECT)",Своё ТВ
+http://95.47.156.60:8000/play/21/index.m3u8
+#EXTINF:-1 group-title="JZexe 5 🍑 (TECT)",Спас
+http://95.47.156.60:8000/play/12/index.m3u8
+#EXTINF:-1 group-title="JZexe 5 🍑 (TECT)",ТБВ
+http://95.47.156.60:8000/play/a012/index.m3u8
+#EXTINF:-1 group-title="JZexe 5 🍑 (TECT)",ТВЦ
+http://95.47.156.60:8000/play/10/index.m3u8
+#EXTINF:-1 group-title="JZexe 5 🍑 (TECT)",ТВ3
+http://95.47.156.60:8000/play/15/index.m3u8
+#EXTINF:-1 group-title="JZexe 5 🍑 (TECT)",КАРУСЕЛЬ
+http://95.47.156.60:8000/play/8/index.m3u8
+#EXTINF:-1 group-title="JZexe 5 🍑 (TECT)",МузТВ
+http://95.47.156.60:8000/play/20/index.m3u8
+#EXTINF:-1 group-title="JZexe 5 🍑 (TECT)",МАТЧ ТВ
+http://95.47.156.60:8000/play/3/index.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 #EXTINF:-1  tvg-id="retro-fm" tvg-logo="https://epgx.site/p/retro-fm.png" group-title="Радио 📻" radio="true",Ретро FM
 http://emgregion.hostingradio.ru:8064/moscow.retrofm.mp3
 #EXTINF:-1 tvg-id="radio-mayak" tvg-logo="https://epgx.site/p/radio-mayak.png" group-title="Радио 📻" radio="true",Радио Маяк
@@ -5574,34 +6469,3 @@ http://stream.ehrhiti.lv:8000/khr.mp3
 
 #EXTINF:-1 tvg-logo="https://p16-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-euttp/2bffd5e34aae71b5f2234fd2573cf3fd~c5_720x720.webp" tvg-id="no_epg_radio" group-title="Радио 📻", EHR FM Русские Хиты 2000-х
 http://stream.ehrhiti.lv:8000/Stream_66.mp3
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
