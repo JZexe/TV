@@ -5347,6 +5347,7 @@ http://217.21.34.160:38007/tv-xxi/index.m3u8
 http://217.21.34.160:38007/detmir/index.m3u8
 
 
+
 #EXTINF:-1 group-title="JZexe 1 🍑 (TECT)",Первый HD
 http://46.8.46.14/1HD/index.m3u8
 #EXTINF:-1 group-title="JZexe 1 🍑 (TECT)",Первый канал
@@ -5486,6 +5487,20 @@ http://46.8.46.14/boec/index.m3u8
 #EXTINF:-1 group-title="JZexe 1 🍑 (TECT)",Матч Премьер
 http://46.8.46.14/premier/index.m3u8
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 #EXTINF:-1 group-title="JZexe 2 🍑 (TECT)",ТНТ4
 http://139.28.255.188:8080/tnt4/index.m3u8
 #EXTINF:-1 group-title="JZexe 2 🍑 (TECT)",РЕН ТВ HD
@@ -5580,14 +5595,19 @@ http://139.28.255.188:8080/muztv/index.m3u8
 http://139.28.255.188:8080/360tunebox/index.m3u8
 #EXTINF:-1 group-title="JZexe 2 🍑 (TECT)",МузСоюз
 http://139.28.255.188:8080/muzsojuz/index.m3u8
-#EXTINF:-1 group-title="Спорткомплекс 🏆",Матч HD
-http://139.28.255.188:8080/match/index.m3u8
-#EXTINF:-1 group-title="Спорткомплекс 🏆",Матч! Боец
-http://139.28.255.188:8080/matchboec/index.m3u8
-#EXTINF:-1 group-title="Спорткомплекс 🏆",Матч! Арена
-http://139.28.255.188:8080/matcharena/index.m3u8
-#EXTINF:-1 group-title="Спорткомплекс 🏆",FightBox HD
-http://139.28.255.188:8080/FightBox/index.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 #EXTINF:-1 group-title="JZexe 3 🍑 (TECT)",Первый Канал HD
@@ -5953,6 +5973,15 @@ http://217.25.80.16/Da_Vinci/mono.m3u8
 
 
 
+
+
+
+
+
+
+
+
+
 #EXTINF:-1 group-title="JZexe 4 🍑 (TECT)" , Первый HD
 http://50.7.28.226/8150/index.m3u8
 #EXTINF:-1 group-title="JZexe 4 🍑 (TECT)" , ТНТ
@@ -6075,6 +6104,18 @@ http://50.7.28.226/9329/index.m3u8
 http://50.7.28.226/8157/index.m3u8
 #EXTINF:-1 group-title="JZexe 4 🍑 (TECT)" , Рыжий
 http://50.7.28.226/9224/index.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -6276,8 +6317,6 @@ http://146.120.14.239:3001/play/a0i3
 
 
 
-
-
 #EXTINF:-1 group-title="JZexe 5 🍑 (TECT)",РЕН ТВ
 http://95.47.156.60:8000/play/11/index.m3u8
 #EXTINF:-1 group-title="JZexe 5 🍑 (TECT)",РОССИЯ К
@@ -6324,6 +6363,24 @@ http://95.47.156.60:8000/play/8/index.m3u8
 http://95.47.156.60:8000/play/20/index.m3u8
 #EXTINF:-1 group-title="JZexe 5 🍑 (TECT)",МАТЧ ТВ
 http://95.47.156.60:8000/play/3/index.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -6469,3 +6526,4 @@ http://stream.ehrhiti.lv:8000/khr.mp3
 
 #EXTINF:-1 tvg-logo="https://p16-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-euttp/2bffd5e34aae71b5f2234fd2573cf3fd~c5_720x720.webp" tvg-id="no_epg_radio" group-title="Радио 📻", EHR FM Русские Хиты 2000-х
 http://stream.ehrhiti.lv:8000/Stream_66.mp3
+
