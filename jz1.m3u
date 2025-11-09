@@ -21430,3 +21430,41 @@ http://lova.me/hls/hithd.m3u8
 http://rt-vlg-kzn-htlive.cdn.ngenix.net/hls/CH_R03_OTT_VLG_KZN_TMTV/variant.m3u8?version2
 
 
+
+
+
+
+
+#EXTM3U url-tvg="https://viva-russia.ru/scheduler/epg/epg.xml.gz" x-tvg-url="https://viva-russia.ru/scheduler/epg/epg.xml.gz"
+#EXTINF:-1 tvg-id="VIVARussia.ru" tvg-name="VIVA TV RUSSIA" tvg-country="RU" tvg-language="Russian" tvg-logo="http://viva-russia.ru/scheduler/epg/channel-logo.jpg" group-title="Музыкальные 🎶",VIVA TV RUSSIA
+https://live20.bozztv.com/akamaissh101/ssh101/vivarussia/playlist.m3u8
+
+
+
+
+
+
+
+#EXTINF:-1 group-title="Познавательные 🎓",Поехали!
+http://217.25.80.16/Poehali/mono.m3u8
+
+#EXTINF:-1 group-title="Познавательные 🎓",Поехали!
+http://178.217.72.72/Poehali/index.m3u8
+
+#EXTINF:-1 group-title="Познавательные 🎓",ПОЕХАЛИ!
+http://iptv46.mcx-ix.ru:8077/Poehali/index.m3u8
+
+#EXTINF:-1 group-title="Познавательные 🎓",Поехали!
+http://193.25.8.59:8000/360
+
+#EXTINF:-1 group-title="Познавательные 🎓",Поехали!
+http://91.194.191.241:8081/chid278/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Познавательные 🎓",Поехали!
+http://tv.ttk.mx:9082
+
+#EXTINF:-1 group-title="Познавательные 🎓",Поехали!
+http://api.peers.tv/timeshift/poehali/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NjE1NTE3OTUsImlhdCI6MTc2MTQ2NTM5NSwiY2lkIjo2LCJ1aWQiOjk1ODUyOTQ3NywicmVnIjpmYWxzZSwiaXAiOjM1ODU1NTI1NzksImFkdWx
+
+#EXTINF:-1 group-title="Познавательные 🎓",Поехали!
+http://arbiter.bolshoe.tv/?path=abr2/poehali/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjYvMjAyNSA3OjU2OjM2IEFNJmhhc2hfdmFsdWU9bEVLOUcxTm9vRkV0VjZLcXBPT0VWQT09JnZhbGlkbWludXRlcz03MjAmaWQ9Nzc3
