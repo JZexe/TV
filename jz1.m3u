@@ -4530,10 +4530,10 @@ https://live.teleradiocom.tj/16/3m.m3u8
 #EXTINF:-1 tvg-id="TVSugd.tj" tvg-logo="https://i.imgur.com/YzkwTHb.png" group-title="TJ+TM",TV Sugd
 #EXTVLCOPT:http-user-agent=Go-http-client/1.1
 https://live.teleradiocom.tj/14/3m.m3u8
-#EXTINF:-1 tvg-id="TVSafina.tj" tvg-logo="https://i.imgur.com/Ho2vKZJ.png" group-title="",TV Safina
+#EXTINF:-1 tvg-id="TVSafina.tj" tvg-logo="https://i.imgur.com/Ho2vKZJ.png" group-title="TJ+TM",TV Safina
 #EXTVLCOPT:http-user-agent=Go-http-client/1.1
 https://live.teleradiocom.tj/2/3m.m3u8
-#EXTINF:-1 tvg-id="TVSinamo.tj" tvg-logo="https://i.imgur.com/W2qz5a4.png" group-title="",TV Sinamo
+#EXTINF:-1 tvg-id="TVSinamo.tj" tvg-logo="https://i.imgur.com/W2qz5a4.png" group-title="TJ+TM",TV Sinamo
 #EXTVLCOPT:http-user-agent=Go-http-client/1.1
 https://live.teleradiocom.tj/6/3m.m3u8
 
@@ -21405,3 +21405,4 @@ http://lova.me/hls/hithd.m3u8
 #EXTGRP:Музыкальные 🎶
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 http://rt-vlg-kzn-htlive.cdn.ngenix.net/hls/CH_R03_OTT_VLG_KZN_TMTV/variant.m3u8?version2
+
