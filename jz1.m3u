@@ -6,8 +6,6 @@
 https://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R05_KAMINTV/variant.m3u8
 
 
-
-
 #EXTINF:-1 tvg-id="pervy" group-title="Эфирные 🖥️",Первый канал HD
 http://217.25.80.16/Pervii_Kanal_HD/mono.m3u8
 
@@ -341,6 +339,91 @@ http://158.101.222.193:88/georgia_play.php?id=viasatexp
 http://195.64.140.147:10147/147
 #EXTINF:-1 group-title="Познавательные 🎓" , Zooпарк
 http://46.8.46.14/zoo/index.m3u8
+
+
+
+
+
+
+
+
+#EXTINF:-1 group-title="Хобби 🎳" , Авто 24
+http://158.101.222.193:88/georgia_play.php?id=auto24
+#EXTINF:-1 group-title="Хобби 🎳" , Авто 24 HD
+http://178.217.72.72/Avto_24/index.m3u8
+#EXTINF:-1 group-title="Хобби 🎳" , Авто Плюс
+http://158.101.222.193:88/georgia_play.php?id=autoplus
+#EXTINF:-1 group-title="Хобби 🎳" tvg-id="bobior" , Бобер
+http://95.66.188.74/Bober/mono.m3u8
+#EXTINF:-1 group-title="Хобби 🎳" , Диалоги о рыбалке
+http://195.64.140.147:10117/117
+#EXTINF:-1 group-title="Хобби 🎳" , Дикий
+http://195.64.140.147:10139/139
+#EXTINF:-1 group-title="Хобби 🎳" , Дикая охота
+http://217.21.34.160:38007/dikayaohotahd/index.m3u8
+#EXTINF:-1 group-title="Хобби 🎳" , Дикая рыбалка
+http://217.21.34.160:38007/dikayarybalkahd/index.m3u8
+#EXTINF:-1 group-title="Хобби 🎳" , Дикая рыбалка HD
+http://194.32.242.245/DikayarybalkaHD/index.m3u8
+#EXTINF:-1 group-title="Хобби 🎳" , Драйв
+http://46.8.46.14/Drive/index.m3u8
+#EXTINF:-1 group-title="Хобби 🎳" , Живи!
+http://158.101.222.193:88/georgia_play.php?id=jivi
+#EXTINF:-1 group-title="Хобби 🎳" , Живи! HD
+http://46.8.46.14/zhivi/index.m3u8
+#EXTINF:-1 group-title="Хобби 🎳" tvg-id="zagorodnaya-zhizn" , Загородная жизнь
+http://185.57.68.33/40/mpegts
+#EXTINF:-1 group-title="Хобби 🎳" , Загородный
+http://95.66.188.74/Zagorodniy/mono.m3u8
+#EXTINF:-1 group-title="Хобби 🎳" tvg-id="kuxnia-tv" , Кухня
+http://95.66.188.74/Kuhnya/mono.m3u8
+#EXTINF:-1 group-title="Хобби 🎳" tvg-id="kuxnia-tv" , Кухня HD
+http://46.8.46.14/kuhnya/index.m3u8
+#EXTINF:-1 group-title="Хобби 🎳" , Лапки Live
+http://tvip.btk.teleos.ru:8081/chid514/index.m3u8
+#EXTINF:-1 group-title="Хобби 🎳" , Мужской
+http://158.101.222.193:88/georgia_play.php?id=muzhskoy
+#EXTINF:-1 group-title="Хобби 🎳" , Наша тема
+http://178.212.71.253:8000/play/73/index.m3u8
+#EXTINF:-1 group-title="Хобби 🎳" , Оружие
+http://158.101.222.193:88/georgia_play.php?id=oruzhie
+#EXTINF:-1 group-title="Хобби 🎳" , Охота и рыбалка
+http://195.64.140.147:10039/39
+#EXTINF:-1 group-title="Хобби 🎳" , Охотник и рыболов
+http://195.64.140.147:10162/162
+#EXTINF:-1 group-title="Хобби 🎳" , Охотник и рыболов HD
+http://46.8.46.14/ohota/index.m3u8
+#EXTINF:-1 group-title="Хобби 🎳" , Рыбалка и охота ~
+http://87.76.32.36:8001/ohotairibalka
+#EXTINF:-1 group-title="Хобби 🎳" , Сити Эдем — АвтоГид
+https://autopilot.catcast.tv/content/47515/index.m3u8?password=loganet
+#EXTINF:-1 group-title="Хобби 🎳" , Сити Эдем — МедЗдрав
+https://autopilot.catcast.tv/content/47519/index.m3u8?password=loganet
+#EXTINF:-1 group-title="Хобби 🎳" , Сити Эдем — Рецепты Гурмана
+https://autopilot.catcast.tv/content/47516/index.m3u8?password=loganet
+#EXTINF:-1 group-title="Хобби 🎳" , Телекафе
+http://46.8.46.14/telecafe/index.m3u8
+#EXTINF:-1 group-title="Хобби 🎳" , Усадьба
+http://95.66.188.74/Usadba/mono.m3u8
+#EXTINF:-1 group-title="Хобби 🎳" tvg-id="e-tv" , E TV
+http://178.217.72.72/e_tv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Хобби 🎳" tvg-id="e-tv" , E TV HD
+http://cdn-01.bonus-tv.ru:80/gsl/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Хобби 🎳" , Fashion TV
+http://84.245.224.71/FashionTVHD/mono.m3u8
+#EXTINF:-1 group-title="Хобби 🎳" , Fashion TV HD
+http://fashion.mediacdn.ru/cdn/fashiontv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Хобби 🎳" tvg-id="eda-hd" , Food Time HD
+http://iptv46.mcx-ix.ru:8077/eda_hd/index.m3u8
+#EXTINF:-1 group-title="Хобби 🎳" tvg-id="world-fashion-channel" , World Fashion Channel
+http://live-3.otcnet.ru/wfcrus/index.m3u8
+#EXTINF:-1 group-title="Хобби 🎳" tvg-id="world-fashion-channel" , World Fashion Channel HD
+http://cdn.wfc.tv/cdn/stream-rus-1080p.m3u8
+
+
+
+
+
 
 
 
@@ -4684,6 +4767,100 @@ https://cityeden.catcast.tv/content/47519/index.m3u8
 
 
 
+http://tvip.btk.teleos.ru:8081/chid40/mono.m3u8
+#EXTINF:-1 group-title="Детские 👶" , В гостях у сказки
+http://195.64.140.147:10136/136
+#EXTINF:-1 group-title="Детские 👶" , Детский мир
+http://195.26.83.96:7007/play/14/index.m3u8
+#EXTINF:-1 group-title="Детские 👶" , Детский мир HD
+http://178.217.72.72/Detskiy_Mir/index.m3u8
+#EXTINF:-1 group-title="Детские 👶" , Детское кино Int.
+https://v2.catcast.tv/content/38720/index.m3u8
+#EXTINF:-1 group-title="Детские 👶" tvg-id="karusel" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" , Карусель (Архив)
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/variant.m3u8
+#EXTINF:-1 group-title="Детские 👶" tvg-id="karusel-pl7" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" , Карусель +7 (Архив)
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+http://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL_7/variant.m3u8
+#EXTINF:-1 group-title="Детские 👶" , Карусель
+http://46.8.46.14/Karusel/index.m3u8
+#EXTINF:-1 group-title="Детские 👶" , КиноМульт
+http://tvip.btk.teleos.ru:8081/chid173/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Детские 👶" , Мама
+http://stv.mediacdn.ru/live/cdn/mama/playlist.m3u8
+#EXTINF:-1 group-title="Детские 👶" , Мамонтенок
+http://sirius.greenhosting.ru/MamontRu/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Детские 👶" , Мульт
+http://radioserver.abinet.com:8815/udp/127.0.0.1:6006
+#EXTINF:-1 group-title="Детские 👶" , Мульт HD
+http://stv.mediacdn.ru/live/cdn/mult/playlist.m3u8
+#EXTINF:-1 group-title="Детские 👶" , Мультиландия
+http://iptv46.mcx-ix.ru:8077/multimania/index.m3u8
+#EXTINF:-1 group-title="Детские 👶" tvg-id="multimania-lv" , Мультимания
+http://sirius.greenhosting.ru/MultimaniaRu/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Детские 👶" , Мультимузыка
+http://stv.mediacdn.ru/live/cdn/multimuzika/playlist.m3u8
+#EXTINF:-1 group-title="Детские 👶" , О!
+http://195.64.140.147:10124/124
+#EXTINF:-1 group-title="Детские 👶" , Радость моя
+https://radm.mediacdn.ru/cdn/radost/playlist_sdhigh.m3u8
+#EXTINF:-1 group-title="Детские 👶" , Рыжий
+http://46.8.46.14/Ryzhiy/index.m3u8
+#EXTINF:-1 group-title="Детские 👶" , Смайл ТВ
+https://5f05e059699ae.streamlock.net/WEB_Smilik/ngrp:Smilik.stream-adaptive/playlist.m3u8
+#EXTINF:-1 group-title="Детские 👶" tvg-id="solnce" catchup="append" catchup-days="7" catchup-source="?utcstart=${start}&utcend=${end}" , Солнце (Архив)
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+http://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY/variant.m3u8
+#EXTINF:-1 group-title="Детские 👶" tvg-id="solnce-pl7" catchup="append" catchup-days="7" catchup-source="?utcstart=${start}&utcend=${end}" , Солнце +7 (Архив)
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+http://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY_7/variant.m3u8
+#EXTINF:-1 group-title="Детские 👶" , Солнце
+http://tv.mediacdn.ru/live/solntse/playlist.m3u8
+#EXTINF:-1 group-title="Детские 👶" , СТС Kids
+http://195.158.223.132:8010/STS_Kids
+#EXTINF:-1 group-title="Детские 👶" , СТС Kids HD
+http://217.25.80.16/CTC_Kids_HD/mono.m3u8
+#EXTINF:-1 group-title="Детские 👶" tvg-id="malysh" , СуперГерои
+http://185.46.16.239:8000/National_Geographic_HD
+#EXTINF:-1 group-title="Детские 👶" tvg-id="tooku" , Тооку HD
+http://live-saha.cdnvideo.ru/saha/tooky/playlist.m3u8
+#EXTINF:-1 group-title="Детские 👶" , Уникум
+http://158.101.222.193:88/georgia_play.php?id=unikum
+#EXTINF:-1 group-title="Детские 👶" tvg-id="shayantv" , Шаян HD
+http://shayan.bonus-tv.ru:80/cdn/shayan/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Детские 👶" , Ani
+http://stv.mediacdn.ru/live/cdn/ani/playlist.m3u8
+#EXTINF:-1 group-title="Детские 👶" , Baby Time
+http://178.217.72.72/babytime/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Детские 👶" , Cartoon Classics
+http://95.66.188.74/Cartoon_Classics/index.m3u8
+#EXTINF:-1 group-title="Детские 👶" , Cartoon Network
+http://46.8.46.14/Cartoon_Network/index.m3u8
+#EXTINF:-1 group-title="Детские 👶" , Cartoonito
+http://88.216.112.114/Cartoonito/index.m3u8
+#EXTINF:-1 group-title="Детские 👶" , Da Vinci
+http://158.101.222.193:88/georgia_play.php?id=davinci
+#EXTINF:-1 group-title="Детские 👶" , Fox Kids
+http://foxkids-online.ru/hls/test_240p264kbs/index.m3u8
+#EXTINF:-1 group-title="Детские 👶" , Gulli Girl
+http://46.8.46.14/Gulli/index.m3u8
+#EXTINF:-1 group-title="Детские 👶" , JimJam
+http://178.217.72.72/JimJam/index.m3u8
+#EXTINF:-1 group-title="Детские 👶" , Kids TV
+http://origin5.mediacdn.ru/live/kidstv/index.m3u8
+#EXTINF:-1 group-title="Детские 👶" , Nickelodeon
+http://46.8.46.14/Nickelodeon/index.m3u8
+#EXTINF:-1 group-title="Детские 👶" , Nickelodeon HD
+http://iptv46.mcx-ix.ru:8077/nickelodeon/index.m3u8
+#EXTINF:-1 group-title="Детские 👶" , Nick Jr.
+http://46.8.46.14/nickjr/index.m3u8
+#EXTINF:-1 group-title="Детские 👶" , NickToons
+http://94.232.127.28:8080/nicktoons/index.m3u8
+#EXTINF:-1 group-title="Детские 👶" , TiJi
+http://188.190.222.53/TiJi/index.m3u8
+
+
+
 #EXTINF:-1 tvg-id="no_epg_cinema" group-title="💥 USHBA TV 💥" tvg-logo="https://i.ibb.co/n8LmW2bX/image-28.png",Кинозалы  1
 https://fl1001.bozztv.com/ushba13/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="no_epg_cinema" group-title="💥 USHBA TV 💥" tvg-logo="https://i.ibb.co/n8LmW2bX/image-28.png",Кинозалы  2
@@ -4894,67 +5071,6 @@ https://fl1001.bozztv.com/ushba59/tracks-v1a1/mono.m3u8
 https://fl1001.bozztv.com/ushba47/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/n8LmW2bX/image-28.png" tvg-id="no_epg_sport" group-title="💥 USHBA TV 💥", Украина
 https://fl1001.bozztv.com/ushba5/tracks-v1a1/mono.m3u8
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -5328,132 +5444,132 @@ http://x3m.li/live/$1PqA57Q/epfaFwWC/4725.ts
 http://x3m.li/live/$1PqA57Q/epfaFwWC/4726.ts
 
 
-#EXTINF:-1 group-title="Общие" tvg-id="pervy" , Первый канал
+#EXTINF:-1 group-title="Эфирные 🖥️" tvg-id="pervy" , Первый канал
 http://194.8.128.38:8080/ort/playlist.m3u8
-#EXTINF:-1 group-title="Общие" tvg-id="pervy" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" , Первый канал (Архив)
+#EXTINF:-1 group-title="Эфирные 🖥️" tvg-id="pervy" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" , Первый канал (Архив)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD/variant.m3u8
-#EXTINF:-1 group-title="Общие" tvg-id="pervy-pl9" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" , Первый канал +9 (Архив)
+#EXTINF:-1 group-title="Эфирные 🖥️" tvg-id="pervy-pl9" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" , Первый канал +9 (Архив)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 https://s14131.cdn.ngenix.net/hls/CH_R41_OTT_DV_KAM_1TV/variant.m3u8
-#EXTINF:-1 group-title="Общие" tvg-id="pervy" , Первый канал HD
+#EXTINF:-1 group-title="Эфирные 🖥️" tvg-id="pervy" , Первый канал HD
 http://95.66.188.74/PerviyHD/mono.m3u8
-#EXTINF:-1 group-title="Общие" tvg-id="pervy-kanal-eu" , Первый канал Европа
+#EXTINF:-1 group-title="Эфирные 🖥️" tvg-id="pervy-kanal-eu" , Первый канал Европа
 https://streaming.thestream.cyou/live/210.m3u8
-#EXTINF:-1 group-title="Общие" tvg-id="rossia1" , Россия 1
+#EXTINF:-1 group-title="Эфирные 🖥️" tvg-id="rossia1" , Россия 1
 http://194.32.242.245/rossiya1/index.m3u8
-#EXTINF:-1 group-title="Общие" tvg-id="rossia1" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" , Россия 1 (Архив)
+#EXTINF:-1 group-title="Эфирные 🖥️" tvg-id="rossia1" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" , Россия 1 (Архив)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1/variant.m3u8
-#EXTINF:-1 group-title="Общие" tvg-id="rossia1-pl9" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" , Россия 1 +9 (Архив)
+#EXTINF:-1 group-title="Эфирные 🖥️" tvg-id="rossia1-pl9" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" , Россия 1 +9 (Архив)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 https://s14131.cdn.ngenix.net/hls/CH_R41_OTT_DV_KAM_ROSSIA1/variant.m3u8
-#EXTINF:-1 group-title="Общие" tvg-id="rossia1" , Россия 1 HD
+#EXTINF:-1 group-title="Эфирные 🖥️" tvg-id="rossia1" , Россия 1 HD
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/1080p.m3u8
-#EXTINF:-1 group-title="Общие" tvg-id="rtr-planeta-azia" , Россия РТР
+#EXTINF:-1 group-title="Эфирные 🖥️" tvg-id="rtr-planeta-azia" , Россия РТР
 https://player.smotrim.ru/iframe/stream/live_id/3b73bf76-7245-4981-a865-38478e21df1f
-#EXTINF:-1 group-title="Общие" tvg-id="rtr-belarus" , Беларусь РТР
+#EXTINF:-1 group-title="Эфирные 🖥️" tvg-id="rtr-belarus" , Беларусь РТР
 http://194.158.222.36:6105
-#EXTINF:-1 group-title="Общие" tvg-id="rtr-planeta-eu" , Planeta RTR
+#EXTINF:-1 group-title="Эфирные 🖥️" tvg-id="rtr-planeta-eu" , Planeta RTR
 https://player.smotrim.ru/iframe/stream/live_id/1525504b-449d-432d-ab5d-1f11081f8603
-#EXTINF:-1 group-title="Общие" tvg-id="ntv" , НТВ
+#EXTINF:-1 group-title="Эфирные 🖥️" tvg-id="ntv" , НТВ
 http://cdn.ntv.ru/ntv0/tracks-v3a1/mono.m3u8
-#EXTINF:-1 group-title="Общие" tvg-id="ntv" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" , НТВ (Архив)
+#EXTINF:-1 group-title="Эфирные 🖥️" tvg-id="ntv" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" , НТВ (Архив)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_NTV/variant.m3u8
-#EXTINF:-1 group-title="Общие" tvg-id="ntv-pl7" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" , НТВ +7 (Архив)
+#EXTINF:-1 group-title="Эфирные 🖥️" tvg-id="ntv-pl7" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" , НТВ +7 (Архив)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV_7/variant.m3u8
-#EXTINF:-1 group-title="Общие" tvg-id="ntv" , НТВ HD
+#EXTINF:-1 group-title="Эфирные 🖥️" tvg-id="ntv" , НТВ HD
 http://cdn.ntv.ru/ntv0_hd/tracks-v1a1/rewind-7150.m3u8
-#EXTINF:-1 group-title="Общие" tvg-id="ntv-belarus" , НТВ-Беларусь
+#EXTINF:-1 group-title="Эфирные 🖥️" tvg-id="ntv-belarus" , НТВ-Беларусь
 http://194.158.222.36:6107
-#EXTINF:-1 group-title="Общие" tvg-id="5kanal-ru" , Пятый канал
+#EXTINF:-1 group-title="Эфирные 🖥️" tvg-id="5kanal-ru" , Пятый канал
 http://95.66.188.74/5kanal/index.m3u8
-#EXTINF:-1 group-title="Общие" tvg-id="5kanal-ru" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" , Пятый канал (Архив)
+#EXTINF:-1 group-title="Эфирные 🖥️" tvg-id="5kanal-ru" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" , Пятый канал (Архив)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_5TV/variant.m3u8
-#EXTINF:-1 group-title="Общие" tvg-id="5kanal-ru-pl7" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" , Пятый канал +7 (Архив)
+#EXTINF:-1 group-title="Эфирные 🖥️" tvg-id="5kanal-ru-pl7" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" , Пятый канал +7 (Архив)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_5TV_7/variant.m3u8
-#EXTINF:-1 group-title="Общие" tvg-id="otr" , ОТР
+#EXTINF:-1 group-title="Эфирные 🖥️" tvg-id="otr" , ОТР
 http://194.32.242.245/otr/index.m3u8
-#EXTINF:-1 group-title="Общие" tvg-id="otr" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" , ОТР (Архив)
+#EXTINF:-1 group-title="Эфирные 🖥️" tvg-id="otr" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" , ОТР (Архив)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_OTR/variant.m3u8
-#EXTINF:-1 group-title="Общие" tvg-id="tvcentr" , ТВ Центр
+#EXTINF:-1 group-title="Эфирные 🖥️" tvg-id="tvcentr" , ТВ Центр
 http://5.188.221.43:8080/play/tv-centr
-#EXTINF:-1 group-title="Общие" tvg-id="tvcentr" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" , ТВ Центр (Архив)
+#EXTINF:-1 group-title="Эфирные 🖥️" tvg-id="tvcentr" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" , ТВ Центр (Архив)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TVC/variant.m3u8
-#EXTINF:-1 group-title="Общие" tvg-id="tvcentr-pl7" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" , ТВ Центр +7 (Архив)
+#EXTINF:-1 group-title="Эфирные 🖥️" tvg-id="tvcentr-pl7" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" , ТВ Центр +7 (Архив)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TVC_7/variant.m3u8
-#EXTINF:-1 group-title="Общие" tvg-id="rentv" , Рен ТВ
+#EXTINF:-1 group-title="Эфирные 🖥️" tvg-id="rentv" , Рен ТВ
 http://185.46.16.239:8000/REN_TV
-#EXTINF:-1 group-title="Общие" tvg-id="rentv" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" , Рен ТВ (Архив)
+#EXTINF:-1 group-title="Эфирные 🖥️" tvg-id="rentv" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" , Рен ТВ (Архив)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8
-#EXTINF:-1 group-title="Общие" tvg-id="rentv-pl7" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" , Рен ТВ +7 (Архив)
+#EXTINF:-1 group-title="Эфирные 🖥️" tvg-id="rentv-pl7" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" , Рен ТВ +7 (Архив)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_7/variant.m3u8
-#EXTINF:-1 group-title="Общие" tvg-id="rentv-int" , Рен ТВ Int.
+#EXTINF:-1 group-title="Эфирные 🖥️" tvg-id="rentv-int" , Рен ТВ Int.
 http://cdn4.skygo.mn/live/disk1/RenTV/HLSv3-FTA/RenTV.m3u8
-#EXTINF:-1 group-title="Общие" tvg-id="zvezda" , Звезда
+#EXTINF:-1 group-title="Эфирные 🖥️" tvg-id="zvezda" , Звезда
 http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_sdhigh.m3u8
-#EXTINF:-1 group-title="Общие" tvg-id="zvezda" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" , Звезда (Архив)
+#EXTINF:-1 group-title="Эфирные 🖥️" tvg-id="zvezda" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" , Звезда (Архив)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA/variant.m3u8
-#EXTINF:-1 group-title="Общие" tvg-id="zvezda-pl7" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" , Звезда +7 (Архив)
+#EXTINF:-1 group-title="Эфирные 🖥️" tvg-id="zvezda-pl7" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" , Звезда +7 (Архив)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA_7/variant.m3u8
-#EXTINF:-1 group-title="Общие" tvg-id="zvezda" , Звезда HD
+#EXTINF:-1 group-title="Эфирные 🖥️" tvg-id="zvezda" , Звезда HD
 https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
-#EXTINF:-1 group-title="Общие" tvg-id="mir" , Мир
+#EXTINF:-1 group-title="Эфирные 🖥️" tvg-id="mir" , Мир
 http://185.46.16.239:8000/Mir
-#EXTINF:-1 group-title="Общие" tvg-id="mir" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" , Мир (Архив)
+#EXTINF:-1 group-title="Эфирные 🖥️" tvg-id="mir" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" , Мир (Архив)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_MIR/variant.m3u8
-#EXTINF:-1 group-title="Общие" tvg-id="mir-pl7" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" , Мир +7 (Архив)
+#EXTINF:-1 group-title="Эфирные 🖥️" tvg-id="mir-pl7" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" , Мир +7 (Архив)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_MIR_7/variant.m3u8
-#EXTINF:-1 group-title="Общие" tvg-id="mir" , Мир HD
+#EXTINF:-1 group-title="Эфирные 🖥️" tvg-id="mir" , Мир HD
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
-#EXTINF:-1 group-title="Общие" tvg-id="tro" , БелРос
+#EXTINF:-1 group-title="Эфирные 🖥️" tvg-id="tro" , БелРос
 http://live2.mediacdn.ru/sr1/tro/playlist_1.5M.m3u8
-#EXTINF:-1 group-title="Общие" tvg-id="bst" , БСТ
+#EXTINF:-1 group-title="Эфирные 🖥️" tvg-id="bst" , БСТ
 http://bsttv.bonus-tv.ru/cdn/bst/playlist_sdhigh.m3u8
-#EXTINF:-1 group-title="Общие" tvg-id="vmeste-rf" , Вместе-РФ HD
+#EXTINF:-1 group-title="Эфирные 🖥️" tvg-id="vmeste-rf" , Вместе-РФ HD
 https://qcpdqumitwf.a.trbcdn.net/livemastersrt/pr4mw_lvie-vmesterf-srt.smil/playlist.m3u8
-#EXTINF:-1 group-title="Общие" tvg-id="krym24" , Крым 24
+#EXTINF:-1 group-title="Эфирные 🖥️" tvg-id="krym24" , Крым 24
 http://live24.1tvcrimea.ru/switcher.m3u8
-#EXTINF:-1 group-title="Общие" tvg-id="millet" , Миллет
+#EXTINF:-1 group-title="Эфирные 🖥️" tvg-id="millet" , Миллет
 http://live.trkmillet.ru/millet/index.m3u8
-#EXTINF:-1 group-title="Общие" tvg-id="novgorodskoe-obl-tv" , Новгородское областное телевидение
+#EXTINF:-1 group-title="Эфирные 🖥️" tvg-id="novgorodskoe-obl-tv" , Новгородское областное телевидение
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 https://rt-nw-novg-htlive.cdn.ngenix.net/hls/CH_R02_NOVGORODTV/variant.m3u8
-#EXTINF:-1 group-title="Общие" tvg-id="ntk-kz" , НТК
+#EXTINF:-1 group-title="Эфирные 🖥️" tvg-id="ntk-kz" , НТК
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 https://s97982.cdn.ngenix.net/hls/CH_R79_OTT_DV_HVSK_NTK/variant.m3u8
-#EXTINF:-1 group-title="Общие" tvg-id="nts-sevastopol" , НТС Севастополь
+#EXTINF:-1 group-title="Эфирные 🖥️" tvg-id="nts-sevastopol" , НТС Севастополь
 http://peqk71plnjy.a.trbcdn.net/livemaster/w4kz7pki62_nts_tv/playlist.m3u8
-#EXTINF:-1 group-title="Общие" tvg-id="ont-by" , ОНТ
+#EXTINF:-1 group-title="Эфирные 🖥️" tvg-id="ont-by" , ОНТ
 https://stream.dc.beltelecom.by/ont/ont/playlist.m3u8
-#EXTINF:-1 group-title="Общие" tvg-id="ont-by" , ОНТ HD
+#EXTINF:-1 group-title="Эфирные 🖥️" tvg-id="ont-by" , ОНТ HD
 https://edge50.dc.beltelecom.by/ont/ont/chunklist_b5160000_sleng.m3u8
-#EXTINF:-1 group-title="Общие" tvg-id="pervy-krymsky" , Первый крымский
+#EXTINF:-1 group-title="Эфирные 🖥️" tvg-id="pervy-krymsky" , Первый крымский
 http://live1.1tvcrimea.ru/1tvcrimea.m3u8
-#EXTINF:-1 group-title="Общие" tvg-id="simfer24" , Симферополь 24
+#EXTINF:-1 group-title="Эфирные 🖥️" tvg-id="simfer24" , Симферополь 24
 https://simf.1tvcrimea.ru/simferopol24.m3u8
-#EXTINF:-1 group-title="Общие" tvg-id="stv-by" , СТВ Беларусь
+#EXTINF:-1 group-title="Эфирные 🖥️" tvg-id="stv-by" , СТВ Беларусь
 http://edge50.dc.beltelecom.by/ctv/ctv.stream/chunklist_b5160000_sleng.m3u8
-#EXTINF:-1 group-title="Общие" tvg-id="tcb" , ТСВ Приднестровье HD
+#EXTINF:-1 group-title="Эфирные 🖥️" tvg-id="tcb" , ТСВ Приднестровье HD
 https://tsv.md/stream/hls/tsv-online/index.m3u8
-#EXTINF:-1 group-title="Общие" tvg-id="tnv-planeta" , ТНВ Планета
+#EXTINF:-1 group-title="Эфирные 🖥️" tvg-id="tnv-planeta" , ТНВ Планета
 http://user91229.clients-cdnnow.ru/hls/user91229_1.m3u8
-#EXTINF:-1 group-title="Общие" tvg-id="tnv" , ТНВ Татарстан
+#EXTINF:-1 group-title="Эфирные 🖥️" tvg-id="tnv" , ТНВ Татарстан
 http://user91229.clients-cdnnow.ru/hls/user91229_1_720/index.m3u8
-#EXTINF:-1 group-title="Общие" tvg-id="cctv-ru" , CGTN Русский HD
+#EXTINF:-1 group-title="Эфирные 🖥️" tvg-id="cctv-ru" , CGTN Русский HD
 http://russian-livews.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMHsb1VosgoT220802cd/playlist.m3u8
 
 
@@ -5463,364 +5579,58 @@ http://russian-livews.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMH
 
 
 
-http://tvip.btk.teleos.ru:8081/chid40/mono.m3u8
-#EXTINF:-1 group-title="Детям" , В гостях у сказки
-http://195.64.140.147:10136/136
-#EXTINF:-1 group-title="Детям" , Детский мир
-http://195.26.83.96:7007/play/14/index.m3u8
-#EXTINF:-1 group-title="Детям" , Детский мир HD
-http://178.217.72.72/Detskiy_Mir/index.m3u8
-#EXTINF:-1 group-title="Детям" , Детское кино Int.
-https://v2.catcast.tv/content/38720/index.m3u8
-#EXTINF:-1 group-title="Детям" tvg-id="karusel" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" , Карусель (Архив)
-#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
-https://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/variant.m3u8
-#EXTINF:-1 group-title="Детям" tvg-id="karusel-pl7" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" , Карусель +7 (Архив)
-#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
-http://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL_7/variant.m3u8
-#EXTINF:-1 group-title="Детям" , Карусель
-http://46.8.46.14/Karusel/index.m3u8
-#EXTINF:-1 group-title="Детям" , КиноМульт
-http://tvip.btk.teleos.ru:8081/chid173/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Детям" , Мама
-http://stv.mediacdn.ru/live/cdn/mama/playlist.m3u8
-#EXTINF:-1 group-title="Детям" , Мамонтенок
-http://sirius.greenhosting.ru/MamontRu/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Детям" , Мульт
-http://radioserver.abinet.com:8815/udp/127.0.0.1:6006
-#EXTINF:-1 group-title="Детям" , Мульт HD
-http://stv.mediacdn.ru/live/cdn/mult/playlist.m3u8
-#EXTINF:-1 group-title="Детям" , Мультиландия
-http://iptv46.mcx-ix.ru:8077/multimania/index.m3u8
-#EXTINF:-1 group-title="Детям" tvg-id="multimania-lv" , Мультимания
-http://sirius.greenhosting.ru/MultimaniaRu/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Детям" , Мультимузыка
-http://stv.mediacdn.ru/live/cdn/multimuzika/playlist.m3u8
-#EXTINF:-1 group-title="Детям" , О!
-http://195.64.140.147:10124/124
-#EXTINF:-1 group-title="Детям" , Радость моя
-https://radm.mediacdn.ru/cdn/radost/playlist_sdhigh.m3u8
-#EXTINF:-1 group-title="Детям" , Рыжий
-http://46.8.46.14/Ryzhiy/index.m3u8
-#EXTINF:-1 group-title="Детям" , Смайл ТВ
-https://5f05e059699ae.streamlock.net/WEB_Smilik/ngrp:Smilik.stream-adaptive/playlist.m3u8
-#EXTINF:-1 group-title="Детям" tvg-id="solnce" catchup="append" catchup-days="7" catchup-source="?utcstart=${start}&utcend=${end}" , Солнце (Архив)
-#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
-http://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY/variant.m3u8
-#EXTINF:-1 group-title="Детям" tvg-id="solnce-pl7" catchup="append" catchup-days="7" catchup-source="?utcstart=${start}&utcend=${end}" , Солнце +7 (Архив)
-#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
-http://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY_7/variant.m3u8
-#EXTINF:-1 group-title="Детям" , Солнце
-http://tv.mediacdn.ru/live/solntse/playlist.m3u8
-#EXTINF:-1 group-title="Детям" , СТС Kids
-http://195.158.223.132:8010/STS_Kids
-#EXTINF:-1 group-title="Детям" , СТС Kids HD
-http://217.25.80.16/CTC_Kids_HD/mono.m3u8
-#EXTINF:-1 group-title="Детям" tvg-id="malysh" , СуперГерои
-http://185.46.16.239:8000/National_Geographic_HD
-#EXTINF:-1 group-title="Детям" tvg-id="tooku" , Тооку HD
-http://live-saha.cdnvideo.ru/saha/tooky/playlist.m3u8
-#EXTINF:-1 group-title="Детям" , Уникум
-http://158.101.222.193:88/georgia_play.php?id=unikum
-#EXTINF:-1 group-title="Детям" tvg-id="shayantv" , Шаян HD
-http://shayan.bonus-tv.ru:80/cdn/shayan/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Детям" , Ani
-http://stv.mediacdn.ru/live/cdn/ani/playlist.m3u8
-#EXTINF:-1 group-title="Детям" , Baby Time
-http://178.217.72.72/babytime/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Детям" , Cartoon Classics
-http://95.66.188.74/Cartoon_Classics/index.m3u8
-#EXTINF:-1 group-title="Детям" , Cartoon Network
-http://46.8.46.14/Cartoon_Network/index.m3u8
-#EXTINF:-1 group-title="Детям" , Cartoonito
-http://88.216.112.114/Cartoonito/index.m3u8
-#EXTINF:-1 group-title="Детям" , Da Vinci
-http://158.101.222.193:88/georgia_play.php?id=davinci
-#EXTINF:-1 group-title="Детям" , Fox Kids
-http://foxkids-online.ru/hls/test_240p264kbs/index.m3u8
-#EXTINF:-1 group-title="Детям" , Gulli Girl
-http://46.8.46.14/Gulli/index.m3u8
-#EXTINF:-1 group-title="Детям" , JimJam
-http://178.217.72.72/JimJam/index.m3u8
-#EXTINF:-1 group-title="Детям" , Kids TV
-http://origin5.mediacdn.ru/live/kidstv/index.m3u8
-#EXTINF:-1 group-title="Детям" , Nickelodeon
-http://46.8.46.14/Nickelodeon/index.m3u8
-#EXTINF:-1 group-title="Детям" , Nickelodeon HD
-http://iptv46.mcx-ix.ru:8077/nickelodeon/index.m3u8
-#EXTINF:-1 group-title="Детям" , Nick Jr.
-http://46.8.46.14/nickjr/index.m3u8
-#EXTINF:-1 group-title="Детям" , NickToons
-http://94.232.127.28:8080/nicktoons/index.m3u8
-#EXTINF:-1 group-title="Детям" , TiJi
-http://188.190.222.53/TiJi/index.m3u8
 
 
 
-
-
-
-
-
-#EXTINF:-1 group-title="Новости" , 360° Новости HD
+#EXTINF:-1 group-title="Эфирные 🖥️" , 360° Новости HD
 http://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-03-srt.smil/tracks-v5a1/mono.m3u8
-#EXTINF:-1 group-title="Новости" , Беларусь 24
+#EXTINF:-1 group-title="Эфирные 🖥️" , Беларусь 24
 https://edge50.dc.beltelecom.by/ngtrk/_definst_/smil:belarus24.smil/chunklist_w1008231497_b5160000_sleng.m3u8
-#EXTINF:-1 group-title="Новости" , Восток 24
+#EXTINF:-1 group-title="Эфирные 🖥️" , Восток 24
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 http://s91030.cdn.ngenix.net/hls/CH_R01_OTT_DV_VLD_VOSTOK24_OTT/variant.m3u8
-#EXTINF:-1 group-title="Новости" , Известия
+#EXTINF:-1 group-title="Эфирные 🖥️" , Известия
 http://igi-hls.cdnvideo.ru/igi/igi_tcode/playlist.m3u8
-#EXTINF:-1 group-title="Новости" , Крик ТВ
+#EXTINF:-1 group-title="Эфирные 🖥️" , Крик ТВ
 http://hls-rictv.cdnvideo.ru/rictv/rictv-srt-stream/playlist.m3u8
-#EXTINF:-1 group-title="Новости" , Кубань 24
+#EXTINF:-1 group-title="Эфирные 🖥️" , Кубань 24
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 https://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R04_KUBAN24/variant.m3u8
-#EXTINF:-1 group-title="Новости" , Мир 24 HD
+#EXTINF:-1 group-title="Эфирные 🖥️" , Мир 24 HD
 http://hls-mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Новости" , Москва 24
+#EXTINF:-1 group-title="Эфирные 🖥️" , Москва 24
 http://194.32.242.245/moskva24/index.m3u8
-#EXTINF:-1 group-title="Новости" , Москва. Доверие
+#EXTINF:-1 group-title="Эфирные 🖥️" , Москва. Доверие
 http://178.212.71.253:8000/play/53/index.m3u8
-#EXTINF:-1 group-title="Новости" , ОТВ Екатеринбург HD
+#EXTINF:-1 group-title="Эфирные 🖥️" , ОТВ Екатеринбург HD
 https://vd.obltv.ru/watch/air_hd.m3u8
-#EXTINF:-1 group-title="Новости" , Первый информационный
+#EXTINF:-1 group-title="Эфирные 🖥️" , Первый информационный
 https://ngtrk.dc.beltelecom.by/ngtrk/smil:informacionnyy.smil/playlist.m3u8
-#EXTINF:-1 group-title="Новости" , РБК
+#EXTINF:-1 group-title="Эфирные 🖥️" , РБК
 http://online.video.rbc.ru/online/rbctvhd_1080p/index.m3u8
-#EXTINF:-1 group-title="Новости" , Россия 24
+#EXTINF:-1 group-title="Эфирные 🖥️" , Россия 24
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-sd/index.m3u8
-#EXTINF:-1 group-title="Новости" tvg-id="rossia-24" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" , Россия 24 (Архив)
+#EXTINF:-1 group-title="Эфирные 🖥️" tvg-id="rossia-24" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" , Россия 24 (Архив)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA24/variant.m3u8
-#EXTINF:-1 group-title="Новости" tvg-id="rossia-24-pl7" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" , Россия 24 +7 (Архив)
+#EXTINF:-1 group-title="Эфирные 🖥️" tvg-id="rossia-24-pl7" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" , Россия 24 +7 (Архив)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA24_7/variant.m3u8
-#EXTINF:-1 group-title="Новости" , Соловьев Live HD
+#EXTINF:-1 group-title="Эфирные 🖥️" , Соловьев Live HD
 https://player.smotrim.ru/iframe/stream/live_id/985d5c7b-9727-4942-a4ba-a6e852caf0c1
-#EXTINF:-1 group-title="Новости" , ТАСС
+#EXTINF:-1 group-title="Эфирные 🖥️" , ТАСС
 https://tass-hls.servicecdn.ru/httpstreamer/tass-loop-main.stream/playlist.m3u8
-#EXTINF:-1 group-title="Новости" , BBC World News
+#EXTINF:-1 group-title="Эфирные 🖥️" , BBC World News
 https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
-#EXTINF:-1 group-title="Новости" , CNN
+#EXTINF:-1 group-title="Эфирные 🖥️" , CNN
 http://190.11.225.124:5000/live/cnn_hd/playlist.m3u8
-#EXTINF:-1 group-title="Новости" , Deutsche Welle
+#EXTINF:-1 group-title="Эфирные 🖥️" , Deutsche Welle
 https://dwamdstream110.akamaized.net/hls/live/2017971/dwstream110/index.m3u8
-#EXTINF:-1 group-title="Новости" , Euronews HD
+#EXTINF:-1 group-title="Эфирные 🖥️" , Euronews HD
 http://fs1.starnet.lv:8080/Euronews/index.m3u8
-#EXTINF:-1 group-title="Новости" tvg-id="russia-today" , RT English HD
+#EXTINF:-1 group-title="Эфирные 🖥️" tvg-id="russia-today" , RT English HD
 https://rt-glb.rttv.com/dvr/rtnews/playlist_1600Kb.m3u8
-#EXTINF:-1 group-title="Хобби" , Авто 24
-http://158.101.222.193:88/georgia_play.php?id=auto24
-#EXTINF:-1 group-title="Хобби" , Авто 24 HD
-http://178.217.72.72/Avto_24/index.m3u8
-#EXTINF:-1 group-title="Хобби" , Авто Плюс
-http://158.101.222.193:88/georgia_play.php?id=autoplus
-#EXTINF:-1 group-title="Хобби" tvg-id="bobior" , Бобер
-http://95.66.188.74/Bober/mono.m3u8
-#EXTINF:-1 group-title="Хобби" , Диалоги о рыбалке
-http://195.64.140.147:10117/117
-#EXTINF:-1 group-title="Хобби" , Дикий
-http://195.64.140.147:10139/139
-#EXTINF:-1 group-title="Хобби" , Дикая охота
-http://217.21.34.160:38007/dikayaohotahd/index.m3u8
-#EXTINF:-1 group-title="Хобби" , Дикая рыбалка
-http://217.21.34.160:38007/dikayarybalkahd/index.m3u8
-#EXTINF:-1 group-title="Хобби" , Дикая рыбалка HD
-http://194.32.242.245/DikayarybalkaHD/index.m3u8
-#EXTINF:-1 group-title="Хобби" , Драйв
-http://46.8.46.14/Drive/index.m3u8
-#EXTINF:-1 group-title="Хобби" , Живи!
-http://158.101.222.193:88/georgia_play.php?id=jivi
-#EXTINF:-1 group-title="Хобби" , Живи! HD
-http://46.8.46.14/zhivi/index.m3u8
-#EXTINF:-1 group-title="Хобби" tvg-id="zagorodnaya-zhizn" , Загородная жизнь
-http://185.57.68.33/40/mpegts
-#EXTINF:-1 group-title="Хобби" , Загородный
-http://95.66.188.74/Zagorodniy/mono.m3u8
-#EXTINF:-1 group-title="Хобби" tvg-id="kuxnia-tv" , Кухня
-http://95.66.188.74/Kuhnya/mono.m3u8
-#EXTINF:-1 group-title="Хобби" tvg-id="kuxnia-tv" , Кухня HD
-http://46.8.46.14/kuhnya/index.m3u8
-#EXTINF:-1 group-title="Хобби" , Лапки Live
-http://tvip.btk.teleos.ru:8081/chid514/index.m3u8
-#EXTINF:-1 group-title="Хобби" , Мужской
-http://158.101.222.193:88/georgia_play.php?id=muzhskoy
-#EXTINF:-1 group-title="Хобби" , Наша тема
-http://178.212.71.253:8000/play/73/index.m3u8
-#EXTINF:-1 group-title="Хобби" , Оружие
-http://158.101.222.193:88/georgia_play.php?id=oruzhie
-#EXTINF:-1 group-title="Хобби" , Охота и рыбалка
-http://195.64.140.147:10039/39
-#EXTINF:-1 group-title="Хобби" , Охотник и рыболов
-http://195.64.140.147:10162/162
-#EXTINF:-1 group-title="Хобби" , Охотник и рыболов HD
-http://46.8.46.14/ohota/index.m3u8
-#EXTINF:-1 group-title="Хобби" , Рыбалка и охота ~
-http://87.76.32.36:8001/ohotairibalka
-#EXTINF:-1 group-title="Хобби" , Сити Эдем — АвтоГид
-https://autopilot.catcast.tv/content/47515/index.m3u8?password=loganet
-#EXTINF:-1 group-title="Хобби" , Сити Эдем — МедЗдрав
-https://autopilot.catcast.tv/content/47519/index.m3u8?password=loganet
-#EXTINF:-1 group-title="Хобби" , Сити Эдем — Рецепты Гурмана
-https://autopilot.catcast.tv/content/47516/index.m3u8?password=loganet
-#EXTINF:-1 group-title="Хобби" , Телекафе
-http://46.8.46.14/telecafe/index.m3u8
-#EXTINF:-1 group-title="Хобби" , Усадьба
-http://95.66.188.74/Usadba/mono.m3u8
-#EXTINF:-1 group-title="Хобби" tvg-id="e-tv" , E TV
-http://178.217.72.72/e_tv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Хобби" tvg-id="e-tv" , E TV HD
-http://cdn-01.bonus-tv.ru:80/gsl/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Хобби" , Fashion TV
-http://84.245.224.71/FashionTVHD/mono.m3u8
-#EXTINF:-1 group-title="Хобби" , Fashion TV HD
-http://fashion.mediacdn.ru/cdn/fashiontv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Хобби" tvg-id="eda-hd" , Food Time HD
-http://iptv46.mcx-ix.ru:8077/eda_hd/index.m3u8
-#EXTINF:-1 group-title="Хобби" tvg-id="world-fashion-channel" , World Fashion Channel
-http://live-3.otcnet.ru/wfcrus/index.m3u8
-#EXTINF:-1 group-title="Хобби" tvg-id="world-fashion-channel" , World Fashion Channel HD
-http://cdn.wfc.tv/cdn/stream-rus-1080p.m3u8
 
-#EXTINF:-1 group-title="4K VIDEO (🌟🌟🌟)" tvg-logo="https://pic.rutube.ru/video/ec/3d/ec3d950ca1dbeac9c8017df68179aa35.jpg", Камин
-https://river-1.rutube.ru/hls-vod/RdDXSqflSbv_XG4foSfosA/1762619192/1899/0x5000c500e511570c/8311ad94048f47808d4e72cc32aa7238.mp4.m3u8?i=3840x2160_6480
-#EXTINF:-1 group-title="4K VIDEO (🌟🌟🌟)" tvg-logo="https://pic.rutube.ru/video/2024-11-11/93/1c/931c2e26c7cf0c9cd46994dd45f5fdd0.jpg", 4K Video ULTRA HD 60 FPS
-https://river-1.rutube.ru/hls-vod/qTC4CPP5agtmuZgTDGYJWw/1762619193/2446/0x5000c500e883c25e/02951eadad024ba5bacf776269f05cf6.mp4.m3u8?i=3840x2160_22670
-#EXTINF:-1 group-title="4K VIDEO (🌟🌟🌟)" tvg-logo="https://pic.rutube.ru/video/78/e6/78e6107c83f9930a03e48fd0240859a1.jpg", DOLBY VISION OLED Test Video (2024)
-https://river-1.rutube.ru/hls-vod/xrKDibs2bZyleQXzd0NJtQ/1762621724/2189/0x5000c500e65256bd/f23befa18842434085727d153a5e1ce9.mp4.m3u8?i=3840x2160_21172
-#EXTINF:-1 group-title="4K VIDEO (🌟🌟🌟)" tvg-logo="https://pic.rutube.ru/video/34/f6/34f6507b30ae4a747b11821304e6f1f0.jpg", 4K ULTRA HD
-https://river-1.rutube.ru/hls-vod/dimh0XyW-aWDfDwQhbVN1Q/1762619195/1796/0x5000c5007443177b/8baceb688d3548c0a29a40f3980bceea.mp4.m3u8?i=3840x2160_24688
-#EXTINF:-1 group-title="4K VIDEO (🌟🌟🌟)" tvg-logo="https://pic.rutube.ru/video/0d/56/0d56e874bcbea5a47faaf78fbd97c6e1.jpg", COLORFUL WORLD ANIMALS - ANIMALS SOUNDS
-https://river-1.rutube.ru/hls-vod/Qsf-ZRQh3DyRpWJvXhdA7w/1762619196/2211/0x5000c500e72ad81b/44fa52380d5648fe8b8c49571feba70e.mp4.m3u8?i=3840x2160_22872
-#EXTINF:-1 group-title="4K VIDEO (🌟🌟🌟)" tvg-logo="https://pic.rutube.ru/video/ec/62/ec62a116bb2e1320fbd89fb433eea909.jpg", 4K 60fps COLORFUL WORLD - TRUE CINEMATIC
-https://river-1.rutube.ru/hls-vod/hoVtRrK2o3NmFEyYKstjtQ/1762619199/2199/0x5000c500e7189664/5b568af64882481c850fa2e1fe591cdd.mp4.m3u8?i=3840x2160_19199
-#EXTINF:-1 group-title="4K VIDEO (🌟🌟🌟)" tvg-logo="https://pic.rutube.ru/video/d8/14/d8145d9a9bbcd2c426c6ca2b3a5a7b87.jpg", 4K Удивительные животные
-https://river-1.rutube.ru/hls-vod/DMxjq2c8vtwuUPQ0IMXA0w/1762619199/1772/0x5000c500db80bc6a/80e76c2d86c74a98a6d49b3d3f5abf97.mp4.m3u8?i=3840x2160_11616
-#EXTINF:-1 group-title="4K VIDEO (🌟🌟🌟)" tvg-logo="https://pic.rutube.ru/video/39/b8/39b8682bf458aa9a88963f0de920b505.jpg", THE MOST BEAUTIFUL 4K 60fps
-https://river-1.rutube.ru/hls-vod/zUxLzwKalCOd7rjPzxBa-A/1762619201/2229/0x5000c500e658a29c/e7c39d45322d4f3c9e8ad0fdc9a9b1ff.mp4.m3u8?i=3840x2160_19712
-#EXTINF:-1 group-title="4K VIDEO (🌟🌟🌟)" tvg-logo="https://pic.rutube.ru/video/d0/e6/d0e61eaaf75c5de99cce846c6fc6d9ba.jpg", Razer Sharp 60 fps 4K
-https://river-1.rutube.ru/hls-vod/rfOJqQsBSofOhghLYNLslw/1762619202/1764/0x5000c500e34d9d75/0e29af94ffe3489d83504c1f5a3d12fc.mp4.m3u8?i=3840x2160_14068
-#EXTINF:-1 group-title="4K VIDEO (🌟🌟🌟)" tvg-logo="https://pic.rutube.ru/video/71/55/7155f0d06e9a06e5fa2201512ef5a21b.jpg", World of Animals 4K
-https://river-1.rutube.ru/hls-vod/CE0gt3aWsQQO3IWkIwC4Cg/1762619204/1788/0x5000c500c86146d5/cad2b76eaaa84797b8543b7cae4ac2f1.mp4.m3u8?i=3840x2160_26198
-#EXTINF:-1 group-title="4K VIDEO (🌟🌟🌟)" tvg-logo="https://pic.rutube.ru/video/61/19/6119d30ed9bd99327dfabed39633b97e.jpg", РАЙСКИЕ МЕСТА НА ЗЕМЛЕ 4K 60fps
-https://river-1.rutube.ru/hls-vod/d31cSPn-a5nb3sghatwGGQ/1762619205/3270/0x5000c500744761a5/ce1ba50a90b24925a689493496d705d4.mp4.m3u8?i=3840x2160_12559
-#EXTINF:-1 group-title="4K VIDEO (🌟🌟🌟)" tvg-logo="https://pic.rutube.ru/video/d9/e3/d9e35dc3b656decefb87bed06d3cc00f.jpg", 4K HDR 60FPS Dolby Vision
-https://river-1.rutube.ru/hls-vod/OhecgYfQR6deCfN6zIlaXA/1762619206/2165/0x5000c500e74e879e/9db95b7858c347348a200119379788af.mp4.m3u8?i=3840x2160_21989
-#EXTINF:-1 group-title="4K VIDEO (🌟🌟🌟)" tvg-logo="https://pic.rutube.ru/video/0b/90/0b904394c6e39bb08155fe4e5dfbc868.jpg", Высококачественное видео
-https://river-1.rutube.ru/hls-vod/q96hEb_Y4LpyKVRIsPrSTw/1762619207/3382/0x5000c500fa78d71b/6f56967b122f447096b17b390a342bb9.mp4.m3u8?i=3840x2160_22125
-#EXTINF:-1 group-title="4K VIDEO (🌟🌟🌟)" tvg-logo="https://pic.rutube.ru/video/73/f5/73f5b3cfdc98158045f76038a018b75b.jpg", PARADISE ON EARTH Best Travel
-https://river-1.rutube.ru/hls-vod/YlWWgPamKZcQguW052fZAg/1762619208/2201/0x5000c5007446b38a/476aba05d6d94a1f8d799a4879737540.mp4.m3u8?i=3840x2160_32942
-#EXTINF:-1 group-title="4K VIDEO (🌟🌟🌟)" tvg-logo="https://pic.rutube.ru/video/fe/10/fe10124b6dd01bbd556c4c9e0d096e8b.jpg", FLYING OVER SEYCHELLES
-https://river-1.rutube.ru/hls-vod/fUqFSEygM-4qFK0S9oRn_A/1762621749/2596/0x5000039ce8400c99/ec9d1eade8c746cca27743ab4f24e714.mp4.m3u8?i=3840x2160_13145
-#EXTINF:-1 group-title="4K VIDEO (🌟🌟🌟)" tvg-logo="https://pic.rutube.ru/video/08/d0/08d0485c5371f760f1f46986054dde80.jpg", Breathtaking landscape 4K
-https://river-1.rutube.ru/hls-vod/2cPa20_ZWhaCQ7HLUXa0QQ/1762619213/1885/0x5000c500e53be6fc/abada6c634ff488db2e1b0dd9a2b9b3e.mp4.m3u8?i=3840x2160_24551
-#EXTINF:-1 group-title="4K VIDEO (🌟🌟🌟)" tvg-logo="https://pic.rutube.ru/video/10/17/1017237de47e769c39708710bb89d188.jpg", Mind Blowing 4K
-https://river-1.rutube.ru/hls-vod/cHqK4Du0Ta-KzRQyjycVGQ/1762619214/1766/0x5000c500e34c00f5/f677cdd74de344c7ad26a748f42e912f.mp4.m3u8?i=3840x2160_22813
-#EXTINF:-1 group-title="4K VIDEO (🌟🌟🌟)" tvg-logo="https://pic.rutube.ru/video/2024-09-29/1e/99/1e99ee863752854d4a29ee44a1dc2a16.jpg", Швейцария Железная дорога Кур–Ароза
-https://river-1.rutube.ru/hls-vod/v6fm23wrbrHVUPoSlr2KWQ/1762619215/2405/0x5000c500f2b8ea17/e95a64a11f52468fa5ea91ac552b1f5f.mp4.m3u8?i=3840x2160_74994
-#EXTINF:-1 group-title="4K VIDEO (🌟🌟🌟)" tvg-logo="https://pic.rutube.ru/video/66/ab/66ab4b28270aef4dcc7fec431ab8bb38.jpg", Каттегат в 4К С Музыкой Викингов
-https://river-1.rutube.ru/hls-vod/0cB-7Qiz4_o-FM76zLVz2A/1762619216/1842/0x5000cca2841edef0/2b992c6cdb9d4df1ab6935813e352b05.mp4.m3u8?i=3840x2160_16049
-#EXTINF:-1 group-title="4K VIDEO (🌟🌟🌟)" tvg-logo="https://pic.rutube.ru/video/d0/db/d0db857627ef06a159f2f42d90476a73.jpg", Коста Рика 4K 60fps
-https://river-1.rutube.ru/hls-vod/4Ow8--pzbwnu6UtH8p_w1w/1762619218/1865/0x5000c500e537c2c8/ba01d890ec944bdcb082cffe9bbdf1b2.mp4.m3u8?i=3840x2160_27042
-#EXTINF:-1 group-title="4K VIDEO (🌟🌟🌟)" tvg-logo="https://pic.rutube.ru/video/31/21/312151af4084655231da8e85a78d379a.jpg", Пакистан в 4К
-https://river-1.rutube.ru/hls-vod/vWXk8fpmOT5at8rUNOzqwQ/1762718212/1796/0x5000c500c884be1b/d2deee2b1e68476daa2645ef36da01db.mp4.m3u8?i=3840x2160_16056
-#EXTINF:-1 group-title="4K VIDEO (🌟🌟🌟)" tvg-logo="https://pic.rutube.ru/video/7d/e0/7de0c641a0e47a2fc645444ba8c1b114.jpg", Аляска 4K 60fps
-https://river-1.rutube.ru/hls-vod/UVUP2J8vb9qzTzCHI7PbgQ/1762619220/1879/0x5000c500e5356ed6/4b2f01657cbb48109f10291e30b69f10.mp4.m3u8?i=3840x2160_26582
-#EXTINF:-1 group-title="4K VIDEO (🌟🌟🌟)" tvg-logo="https://pic.rutube.ru/video/32/0b/320b1080d4ee71d56a021c5d39dc4fd0.jpg", Греция 4K
-https://river-1.rutube.ru/hls-vod/dZ0T4jwMbbckkmU29LK3mw/1762621765/1792/0x5000c500dba52688/47ee63aaebd54d10aa7f9b7c0dadfe83.mp4.m3u8?i=3840x2160_10503
-#EXTINF:-1 group-title="4K VIDEO (🌟🌟🌟)" tvg-logo="https://pic.rutube.ru/video/19/d5/19d547d9f665a02f80f31cacb2238e7c.jpg", Италия 4K
-https://river-1.rutube.ru/hls-vod/YKQnQlxZa49yig0Gxl_DAQ/1762619224/2163/0x5000c500e679cd9f/de35e42315ee4c6ea18fb3eebf5a6443.mp4.m3u8?i=3840x2160_18643
-#EXTINF:-1 group-title="4K VIDEO (🌟🌟🌟)" tvg-logo="https://pic.rutube.ru/video/a3/3a/a33a36b9be68bc6b4ad150808171b434.jpg", Украина 4K
-https://river-1.rutube.ru/hls-vod/t-YQYEtCZmz7CXd7Drd1IA/1762619225/3386/0x5000c500e8754115/10eb8a693e514290b6118b54126b871c.mp4.m3u8?i=3840x2160_21591
-#EXTINF:-1 group-title="4K VIDEO (🌟🌟🌟)" tvg-logo="https://pic.rutube.ru/video/2024-11-06/9d/4d/9d4db32c1fccd887099050905e6ca7a2.jpg", Ирландия 4K
-https://river-1.rutube.ru/hls-vod/gAWsShPPmgtQ1hLeC2GnNQ/1762619226/2177/0x5000c500e751a53f/fe17f50a2d944aa4a083d3f8354e39ce.mp4.m3u8?i=3840x2160_20567
-#EXTINF:-1 group-title="4K VIDEO (🌟🌟🌟)" tvg-logo="https://pic.rutube.ru/video/89/8c/898c76f0adc25c6f485396fbc5fa22fa.jpg", Казахстан 4K
-https://river-1.rutube.ru/hls-vod/tf-qBpovIy2p_jaEqmgEVg/1762619227/1871/0x5000c500e8d21c37/fa6af8430d704326bdbcec67fd5c4730.mp4.m3u8?i=3840x2160_24931
-#EXTINF:-1 group-title="4K VIDEO (🌟🌟🌟)" tvg-logo="https://pic.rutube.ru/video/2025-01-15/6e/b5/6eb5c51090f81936e9b71f491e77cf2a.jpg", Камчатка 4K
-https://river-1.rutube.ru/hls-vod/dqxPlMJbQDckg_5I-wiXJA/1762619229/2464/0x5000c500e883f3df/afaaf25369594e2984734f9089fccfb3.mp4.m3u8?i=3840x2160_16810
-#EXTINF:-1 group-title="4K VIDEO (🌟🌟🌟)" tvg-logo="https://pic.rutube.ru/video/2d/8a/2d8a8c907dbb73073599001bc8c9b4d8.jpg", Венгрия 4K
-https://river-1.rutube.ru/hls-vod/BQi9Ja-fqe6LtvS-nXXH0g/1762619230/2171/0x5000c500e6697c05/3f9e42dad9d04963aed33112f9487717.mp4.m3u8?i=3840x2160_27572
-#EXTINF:-1 group-title="4K VIDEO (🌟🌟🌟)" tvg-logo="https://pic.rutube.ru/video/2024-11-29/ae/c0/aec0da30c96e0bd6eb5ec073e7a2f036.jpg", Чехия 4K
-https://river-1.rutube.ru/hls-vod/-d18ejBZekqZ_TQ9Fzw6Mg/1762619231/2660/0x5000039ce86356e9/60cacd1f9a70459d98d0a2e82534eb1c.mp4.m3u8?i=3840x2160_21897
-#EXTINF:-1 group-title="4K VIDEO (🌟🌟🌟)" tvg-logo="https://pic.rutube.ru/video/2024-11-29/1e/8c/1e8cc4315000c9ae63907a6d01350f77.jpg", Румыния 4K
-https://river-1.rutube.ru/hls-vod/bbgI6-gC8RNPXMwM6DekQg/1762619233/2472/0x5000c500e883d76d/bb4d97b834ef41d9a21f838ddaa2042f.mp4.m3u8?i=3840x2160_19748
-#EXTINF:-1 group-title="4K VIDEO (🌟🌟🌟)" tvg-logo="https://pic.rutube.ru/video/2025-01-12/fe/a6/fea6b41f1c8ad248d14982a661552d77.jpg", Грузия 4K
-https://river-1.rutube.ru/hls-vod/YTIcL1FWoQsR7KQEUHMkIQ/1762619233/2502/0x5000039ce83802d9/b68e92805732445e86ba8dc0c4225bae.mp4.m3u8?i=1920x1080_7013
-#EXTINF:-1 group-title="4K VIDEO (🌟🌟🌟)" tvg-logo="https://pic.rutube.ru/video/2024-11-29/90/e1/90e191cb901b8961de586066649cd350.jpg", Фарерские острова 4K
-https://river-1.rutube.ru/hls-vod/GO2CtFhNtq3Ka1wzlPr7Wg/1762619234/2448/0x5000c500e877503a/22aa3c3907ec47a9b24974ee281ffa57.mp4.m3u8?i=3840x2160_20258
-#EXTINF:-1 group-title="4K VIDEO (🌟🌟🌟)" tvg-logo="https://pic.rutube.ru/video/2024-11-28/fb/74/fb744c28b33c79356992f1786aaf2ea7.jpg", Сардиния 4K
-https://river-1.rutube.ru/hls-vod/9jFi-wjTlfZXryZonkEyLA/1762619235/2458/0x5000c500e882bed1/b0dfe6bc61184140944648230879b872.mp4.m3u8?i=3840x2160_20073
-#EXTINF:-1 group-title="4K VIDEO (🌟🌟🌟)" tvg-logo="https://pic.rutube.ru/video/2024-11-28/a4/57/a457ea5ab440ca9e7ce055a775fee5f5.jpg", Арабские Эмираты 4K
-https://river-1.rutube.ru/hls-vod/N_T0a_4R9PlTgY5RBZBpZw/1762619236/2448/0x5000c500e88411ea/abc58c2f89e64751bbf0f9859fd418c1.mp4.m3u8?i=3840x2160_14179
-#EXTINF:-1 group-title="4K VIDEO (🌟🌟🌟)" tvg-logo="https://pic.rutube.ru/video/2024-11-26/59/2b/592b894cccb625aabb60742d9a9b3113.jpg", Фиджи 4K
-https://river-1.rutube.ru/hls-vod/K8rLMdOo2M3erBniyOQPWw/1762619237/2171/0x5000c500e66298bc/c882a44ad50844a798a90efd18e444e7.mp4.m3u8?i=3840x2160_20635
-#EXTINF:-1 group-title="4K VIDEO (🌟🌟🌟)" tvg-logo="https://pic.rutube.ru/video/2024-11-24/1a/fa/1afaefabdaa0b6180082adac8e6e2efb.jpg", Австралия 4K
-https://river-1.rutube.ru/hls-vod/gE8KeSGLk5qrIzOHl0Q7Yw/1762619238/1901/0x5000c500e5397842/111fcb7d90cf410eabd47a8b498d1470.mp4.m3u8?i=3840x2160_18384
-#EXTINF:-1 group-title="4K VIDEO (🌟🌟🌟)" tvg-logo="https://pic.rutube.ru/video/2024-11-26/a7/a6/a7a6d6f4175f21e601515ee4a6cfcabf.jpg", Чили: Остров Пасхи 4K
-https://river-1.rutube.ru/hls-vod/zi1FPqgMxWJVsXbwD-pU0Q/1762619239/3386/0x5000c500e8739de0/a622c298c3154d8fadd819e487b39950.mp4.m3u8?i=3840x2160_22880
-#EXTINF:-1 group-title="4K VIDEO (🌟🌟🌟)" tvg-logo="https://pic.rutube.ru/video/f2/0b/f20b8f54d768f10587229cd15d6bebc4.jpg", Мексика 4K
-https://river-1.rutube.ru/hls-vod/cwsuBnxkXVQkPqWSzk3Gfg/1762619240/2173/0x5000c500e7526f25/f45c7734f1ba41468e7a193691612393.mp4.m3u8?i=3840x2160_12898
-#EXTINF:-1 group-title="4K VIDEO (🌟🌟🌟)" tvg-logo="https://pic.rutube.ru/video/2024-11-24/ea/71/ea714d2edce2ec512ec1f9625241b333.jpg", Египет 4K
-https://river-1.rutube.ru/hls-vod/9slMHQ8VacIR-42XU6e5rQ/1762619241/2456/0x5000c500e883bebb/4b68d566a84a46dbaf6211134b7b6564.mp4.m3u8?i=3840x2160_17172
-#EXTINF:-1 group-title="4K VIDEO (🌟🌟🌟)" tvg-logo="https://pic.rutube.ru/video/2024-11-24/af/3d/af3d36495c374850f3c4ec5794985847.jpg", Греция 4K
-https://river-1.rutube.ru/hls-vod/dXc0L5CSKHqhGaujoq0fTQ/1762619241/2464/0x5000c500e883d9e7/9580ad35a8cb4a57989d88cbe8cde4a5.mp4.m3u8?i=3840x2160_17590
-#EXTINF:-1 group-title="4K VIDEO (🌟🌟🌟)" tvg-logo="https://pic.rutube.ru/video/2025-02-04/08/3f/083fbbc3700afb477d888c2c542f67b1.jpg", Гватемала 4K
-https://river-1.rutube.ru/hls-vod/U4lQ9xBAtRfAgKSm09Oozw/1762619242/2508/0x5000039ce8635b1d/3a373a9132d64a749df8c5fecfde1c18.mp4.m3u8?i=3840x2160_16954
-#EXTINF:-1 group-title="4K VIDEO (🌟🌟🌟)" tvg-logo="https://pic.rutube.ru/video/2024-11-25/58/f5/58f5e23c31bd842373baf0acef107819.jpg", Молдова 4K
-https://river-1.rutube.ru/hls-vod/0gs3pa-hgWl9mzQg-ccYEg/1762619244/2207/0x5000c5007446425f/313be372eee6431fa282c70f46b9fe1e.mp4.m3u8?i=3840x2160_17436
-#EXTINF:-1 group-title="4K VIDEO (🌟🌟🌟)" tvg-logo="https://pic.rutube.ru/video/2024-11-26/4e/15/4e15955f338e9fcfd1167c9feed9c052.jpg", Гималаи 4K
-https://river-1.rutube.ru/hls-vod/hC7mnD1o3YG-PtONEuXCvA/1762619245/2476/0x5000c500e8838463/1e65750016234b70bb6ee6055b790430.mp4.m3u8?i=3840x2160_17673
-#EXTINF:-1 group-title="4K VIDEO (🌟🌟🌟)" tvg-logo="https://pic.rutube.ru/video/2025-03-09/86/9f/869f4ee057924413cf40143f4aefd766.jpg", Ливия 4K
-https://river-1.rutube.ru/hls-vod/mGsFwRKcIHW2_Nsgp4VYVQ/1762619248/2552/0x5000039ce83385c1/5c3746f865e047fb86c316dd0ac053e1.mp4.m3u8?i=3840x2160_11659
-#EXTINF:-1 group-title="4K VIDEO (🌟🌟🌟)" tvg-logo="https://pic.rutube.ru/video/2025-02-09/c3/4e/c34e7e095b3c96b405148a6686b86edb.jpg", Киргизстан 4K
-https://river-1.rutube.ru/hls-vod/ph_bkGce1Yzq_LyuB2PVBQ/1762619248/2508/0x5000039ce8686cb5/184bf36f277c4a70b7d2729b544353b4.mp4.m3u8?i=3840x2160_19422
-#EXTINF:-1 group-title="4K VIDEO (🌟🌟🌟)" tvg-logo="https://pic.rutube.ru/video/2025-01-02/a0/35/a0357779a326f76f03311d5064a752bf.jpg", Узбекистан 4K
-https://river-1.rutube.ru/hls-vod/EMeodiuGddUz26E42oxk0A/1762619249/2596/0x5000039ce84046b5/22c69726f20b43069bf4793004fa3c27.mp4.m3u8?i=3840x2160_21010
-#EXTINF:-1 group-title="4K VIDEO (🌟🌟🌟)" tvg-logo="https://pic.rutube.ru/video/2025-02-26/eb/db/ebdb900076c03be283ae82873d52c589.jpg", Эквадор 4K
-https://river-1.rutube.ru/hls-vod/3YeyTu7A0bOHc5jV1yiVzg/1762619250/2223/0x5000c500e65b3f39/247fa9a63c5041f0976a98ee16e29fa9.mp4.m3u8?i=3840x2160_16246
-#EXTINF:-1 group-title="4K VIDEO (🌟🌟🌟)" tvg-logo="https://pic.rutube.ru/video/87/0e/870e1a12792d3f8cf8aa189898c0e482.jpg", Турция в 4K
-https://river-1.rutube.ru/hls-vod/cZPrk3EQufQxnVulAgtjYg/1762619251/1848/0x5000cca2842313e4/1295d7750d224feba3eede8e73f16f7a.mp4.m3u8?i=3840x2160_25103
-#EXTINF:-1 group-title="4K VIDEO (🌟🌟🌟)" tvg-logo="https://pic.rutube.ru/video/74/6d/746d5d1ba9c1c3a1259d166b73dec7a9.jpg", Вьетнам в 4K
-https://river-1.rutube.ru/hls-vod/2QpJ5QogFKuTUd8o0nlHBw/1762718242/2161/0x5000c500e72baa8b/18ad4a3a69134dacb378d14d66138be8.mp4.m3u8?i=3840x2160_38998
-#EXTINF:-1 group-title="4K VIDEO (🌟🌟🌟)" tvg-logo="https://pic.rutube.ru/video/2024-11-26/15/53/15532340cc15ab3f3bf363f040896708.jpg", Индия в 4K
-https://river-1.rutube.ru/hls-vod/KyyYLh5obPTH9NhLUDBTYQ/1762619253/2189/0x5000c500e7523d76/808e39c40aea4025b53859152d3c3022.mp4.m3u8?i=3840x2160_18644
-#EXTINF:-1 group-title="4K VIDEO (🌟🌟🌟)" tvg-logo="https://pic.rutube.ru/video/b3/3d/b33db6df61ad9fc77e54f98f03d8fc9d.jpg", Манила в 4K
-https://river-1.rutube.ru/hls-vod/JgS6YL_wAyvkGbVK8CT4Xg/1762619254/1776/0x5000c500d6d906ed/c541fdacbbda415fb50a782ad5d1fcf9.mp4.m3u8?i=3840x2160_20784
-#EXTINF:-1 group-title="4K VIDEO (🌟🌟🌟)" tvg-logo="https://pic.rutube.ru/video/a7/13/a7139249b7fe0bf2b2ddffbbaba6a913.jpg", Болгария 4K
-https://river-1.rutube.ru/hls-vod/T4oQ-98mlYZSf9TAYdhIpw/1762619255/1895/0x5000c500e53979ec/b527c6a1a6084c1ba9202bb8b607f90d.mp4.m3u8?i=3840x2160_25379
-#EXTINF:-1 group-title="4K VIDEO (🌟🌟🌟)" tvg-logo="https://pic.rutube.ru/video/5a/89/5a894e03615d859ca15497ca636e79e2.jpg", Перу 4K 60fps
-https://river-1.rutube.ru/hls-vod/2NrepMzxouo7RoAapFb_bw/1762619256/1875/0x5000c500e53957cd/30b0c3590b9e4880a6a00ac6fea26165.mp4.m3u8?i=3840x2160_26231
-#EXTINF:-1 group-title="4K VIDEO (🌟🌟🌟)" tvg-logo="https://pic.rutube.ru/video/ec/6e/ec6eb7f0891bcf8f4ad9699fcfbdb205.jpg", Кения В 4К
-https://river-1.rutube.ru/hls-vod/Z3Q04TK3r94TZN3L6qq_tg/1762619257/1792/0x5000c500c2b7894b/378db7d4f4ad4aafbb4535e9125ce221.mp4.m3u8?i=3840x2160_15323
-#EXTINF:-1 group-title="4K VIDEO (🌟🌟🌟)" tvg-logo="https://pic.rutube.ru/video/bf/63/bf63ccc22cd2bacdefb8b27571dff50b.jpg", Бора-Бора в 4К
-https://river-1.rutube.ru/hls-vod/7oHG-VkEx5Vv6mtzD0cezQ/1762619258/1873/0x5000c500e539127b/2421863b9a0e4c9ea67de9fe0855f530.mp4.m3u8?i=3840x2160_17254
-#EXTINF:-1 group-title="4K VIDEO (🌟🌟🌟)" tvg-logo="https://pic.rutube.ru/video/29/31/29318086e00da1c865da25131f866d4f.jpg", Карибы в 4К
-https://river-1.rutube.ru/hls-vod/nGRR8M7_aUhH_Uh8ENKvYw/1762619259/1772/0x5000c500d6d78c87/c002696df2d3474e95bf422d74a10427.mp4.m3u8?i=3840x2160_11480
-#EXTINF:-1 group-title="4K VIDEO (🌟🌟🌟)" tvg-logo="https://pic.rutube.ru/video/51/f3/51f330a0fe798c746cda323431220662.jpg", Намибия в 4К
-https://river-1.rutube.ru/hls-vod/UcSRtLE0GeT-iNVfP5QgWQ/1762718249/1764/0x5000c500e34cbd12/881a26935b1f4adb927b518c0b77d489.mp4.m3u8?i=3840x2160_11828
-#EXTINF:-1 group-title="4K VIDEO (🌟🌟🌟)" tvg-logo="https://pic.rutube.ru/video/b7/fc/b7fc29123ab95b0ad408e42280ad1b71.jpg", Китай В 4К
-https://river-1.rutube.ru/hls-vod/CUR1xH-3KhEhCXctU8rF_Q/1762619261/1863/0x5000c500e538cbf2/c978b1e2beaa4b8f92c50918c7ecc933.mp4.m3u8?i=3840x2160_12530
-#EXTINF:-1 group-title="4K VIDEO (🌟🌟🌟)" tvg-logo="https://pic.rutube.ru/video/72/6a/726a9243184bbfe47c42763b374a1f25.jpg", Мальдивы в 4К
-https://river-1.rutube.ru/hls-vod/Ra9gOjottSduDifupVGggg/1762619263/1848/0x5000cca28420b4e4/344cdc5a75cd406a9c81daa62c025492.mp4.m3u8?i=3840x2160_23873
-#EXTINF:-1 group-title="4K VIDEO (🌟🌟🌟)" tvg-logo="https://pic.rutube.ru/video/5e/5a/5e5a9cb6a10424f8ede9adc9848680c8.jpg", Дубай в 4K
-https://river-1.rutube.ru/hls-vod/45quDmEf15ZrS66FV4wTwQ/1762619264/2462/0x5000c500e8828a7e/63d24580fb304a30a0daa941446ffe7d.mp4.m3u8?i=3840x2160_23768
-#EXTINF:-1 group-title="4K VIDEO (🌟🌟🌟)" tvg-logo="https://pic.rutube.ru/video/14/98/14988617a7aed21381889ab5ceb7b1d9.jpg", Германия в 4K
-https://river-1.rutube.ru/hls-vod/Ufj1E4Cmz0jx_GEu1iTDXQ/1762619265/1776/0x5000c500c92079c7/b46cf235dbb14ddcbabe81d4f63a9fd4.mp4.m3u8?i=3840x2160_9532
-#EXTINF:-1 group-title="4K VIDEO (🌟🌟🌟)" tvg-logo="https://pic.rutube.ru/video/1d/b4/1db4116552339ca6a936c366f7582b38.jpg", Россия В 4К
-https://river-1.rutube.ru/hls-vod/JuLuOMjXzVgOHIzQvXfpsA/1762619266/1776/0x5000c500c3920f7f/9195d28dad90489aac2cb7c6dd6725aa.mp4.m3u8?i=3840x2160_15878
-#EXTINF:-1 group-title="4K VIDEO (🌟🌟🌟)" tvg-logo="https://pic.rutube.ru/video/7b/88/7b881e1b446bd5519251f5a89b197144.jpg", Подводный Мир В 4К
-https://river-1.rutube.ru/hls-vod/lsB2h56D3FRCajfL9hDK0g/1762619267/1877/0x5000c500e53bc570/8a19e5ed6a9840349280d2cba180870a.mp4.m3u8?i=3840x2160_16302
-#EXTINF:-1 group-title="4K VIDEO (🌟🌟🌟)" tvg-logo="https://pic.rutube.ru/video/c7/4c/c74ce2aa0d060a142070e9724fde3bef.jpg", Детеныши Животных В 4К
-https://river-1.rutube.ru/hls-vod/gRB4ilYO-Y0m7ixWgowtjA/1762619269/1865/0x5000c500e53951e2/5481e2c1a8e5473c804cfbc908dd7899.mp4.m3u8?i=3840x2160_15516
-#EXTINF:-1 group-title="4K VIDEO (🌟🌟🌟)" tvg-logo="https://pic.rutube.ru/video/10/9e/109e637b8250d8471f1c1b6fd7d8e290.jpg", Животные Австралии В 4К
-https://river-1.rutube.ru/hls-vod/F97-xCJbYFX0lgHmrNzsNw/1762619270/1877/0x5000c500e539cbb9/bec395a0100c42a1b52bec53605116a4.mp4.m3u8?i=3840x2160_16020
-#EXTINF:-1 group-title="4K VIDEO (🌟🌟🌟)" tvg-logo="https://pic.rutube.ru/video/91/3e/913e20d0e2711442e9b835ade3a86737.jpg", Повседневные Вещи В Макро Съемке
-https://river-1.rutube.ru/hls-vod/9HCf0ziD5O9DxC_A1n4CCQ/1762619272/1790/0x5000c500d6c05d87/7ea3d827b7234257abffc94e1cce193e.mp4.m3u8?i=3840x2160_11802
-#EXTINF:-1 group-title="4K VIDEO (🌟🌟🌟)" tvg-logo="https://pic.rutube.ru/video/ce/01/ce01d4f2b1984d8dc9468e192f5816e9.jpg", Океан В 4К Релакс
-https://river-1.rutube.ru/hls-vod/iYXL0fUiLx_t9xdrhj5REQ/1762619273/1788/0x5000c500c939412d/954d4f0b6c9640eea3b9d0daff375899.mp4.m3u8?i=3840x2160_12765
-#EXTINF:-1 group-title="4K VIDEO (🌟🌟🌟)" tvg-logo="https://pic.rutube.ru/video/8a/8f/8a8fb71bed7423746a80654fc5ba541e.jpg", Лес В 4К
-https://river-1.rutube.ru/hls-vod/bza4EFr6PpvRqOGw5MzaNQ/1762619273/1846/0x5000c500c921884f/3a14e22cc0b24da0b4c9994cfbbfff0a.mp4.m3u8?i=3840x2160_15561
 
 
 
@@ -16372,4 +16182,5 @@ https://cdn.nexttvnet.ru/hlsl/provide/61394/ChinaTV2/china-tv_1920x1080/index.m3
 http://v4.proofix.ru:80/7tv-live/index.m3u8
 #EXTINF:-1 tvg-id="teledom" tvg-logo="https://iptvx.one/picons/teledom.png" group-title="Развлекательные 🕹️",Теледом HD
 http://iam-profi.ru/hls-live/livepkgr/_definst_/liveevent/td720.m3u8
+
 
