@@ -8703,342 +8703,342 @@ http://a1566398868-rt-ural-nbk-htlive.cdn.ngenix.net/hls/CH_R04_OTT_YAMREG_URAL_
 
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/6cVDTnpv/image-49.png" group-title=""Кинозалы 1 🎞️"" ,DTR Zona 1
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6cVDTnpv/image-49.png" group-title="Кинозалы 1 🎞️" ,DTR Zona 1
 https://kino-stream.online/hls/DTRZONA1.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/6cVDTnpv/image-49.png" group-title=""Кинозалы 1 🎞️"" , TV4 HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6cVDTnpv/image-49.png" group-title="Кинозалы 1 🎞️" , TV4 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 https://dvr3.vokkavideo.xyz/TV4HD/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/6cVDTnpv/image-49.png" group-title=""Кинозалы 1 🎞️"" , TV4 SD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6cVDTnpv/image-49.png" group-title="Кинозалы 1 🎞️" , TV4 SD
 https://dvr3.vokkavideo.xyz/TV4SD/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/gG2bNbq/image-30.png" group-title=""Кинозалы 1 🎞️"" , Скрипач ТВ
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gG2bNbq/image-30.png" group-title="Кинозалы 1 🎞️" , Скрипач ТВ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 https://live21.bozztv.com/akamaissh101/ssh101/scripachmovie/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ZjbMwzw/image-51.png" group-title=""Кинозалы 1 🎞️"" , HD Comedy
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ZjbMwzw/image-51.png" group-title="Кинозалы 1 🎞️" , HD Comedy
 http://2.57.217.85:8000/play/a074/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ZjbMwzw/image-51.png" group-title=""Кинозалы 1 🎞️"" , HD Kino
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ZjbMwzw/image-51.png" group-title="Кинозалы 1 🎞️" , HD Kino
 http://2.57.217.85:8000/play/a05j/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ZjbMwzw/image-51.png" group-title=""Кинозалы 1 🎞️"" , HD Kids 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ZjbMwzw/image-51.png" group-title="Кинозалы 1 🎞️" , HD Kids 
 http://2.57.217.85:8000/play/a05q/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/6cVDTnpv/image-49.png" group-title=""Кинозалы 1 🎞️"" , Новый Русский
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6cVDTnpv/image-49.png" group-title="Кинозалы 1 🎞️" , Новый Русский
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 https://dvr3.vokkavideo.xyz/NEWRUSSIAHD/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/6cVDTnpv/image-49.png" group-title=""Кинозалы 1 🎞️"" , HTV HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6cVDTnpv/image-49.png" group-title="Кинозалы 1 🎞️" , HTV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 https://dvr3.vokkavideo.xyz/HTVHD/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/6cVDTnpv/image-49.png" group-title=""Кинозалы 1 🎞️"" , Кинозал
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6cVDTnpv/image-49.png" group-title="Кинозалы 1 🎞️" , Кинозал
 http://185.57.68.33/237/mpegts
-#EXTINF:-1 tvg-logo="https://i.ibb.co/4R8vrk8W/image-27.png" group-title=""Кинозалы 1 🎞️"" , IPTVPLAY МультСказки HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4R8vrk8W/image-27.png" group-title="Кинозалы 1 🎞️" , IPTVPLAY МультСказки HD
 http://5.188.158.65:4040/IPTVPLAYMultSkazki.tv/video.m3u8?token=lqRGka5-YwwqF0
-#EXTINF:-1 tvg-logo="https://i.ibb.co/4R8vrk8W/image-27.png" group-title=""Кинозалы 1 🎞️"" , IPTVPLAY ВЕДЬМАК
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4R8vrk8W/image-27.png" group-title="Кинозалы 1 🎞️" , IPTVPLAY ВЕДЬМАК
 http://5.188.158.65:4040/IPTVPLAYVEDMAK.tv/video.m3u8?token=lqRGka5-YwwqF0
-#EXTINF:-1 tvg-logo="https://i.ibb.co/4R8vrk8W/image-27.png" group-title=""Кинозалы 1 🎞️"" , IPTVPLAY ДЕСЯТОЕ КОРОЛЕВСТВО
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4R8vrk8W/image-27.png" group-title="Кинозалы 1 🎞️" , IPTVPLAY ДЕСЯТОЕ КОРОЛЕВСТВО
 http://5.188.158.65:4040/IPTVPLAY10KOROLEVSTVO.tv/video.m3u8?token=lqRGka5-YwwqF0
-#EXTINF:-1 tvg-logo="https://i.ibb.co/4R8vrk8W/image-27.png" group-title=""Кинозалы 1 🎞️"" , IPTVPLAY ИНТЕРНЫ
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4R8vrk8W/image-27.png" group-title="Кинозалы 1 🎞️" , IPTVPLAY ИНТЕРНЫ
 http://5.188.158.65:4040/IPTVPLAYINTERNY.tv/video.m3u8?token=lqRGka5-YwwqF0
-#EXTINF:-1 tvg-logo="https://i.ibb.co/4R8vrk8W/image-27.png" group-title=""Кинозалы 1 🎞️"" ,IPTVPLAY ФАНТАСТИКА
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4R8vrk8W/image-27.png" group-title="Кинозалы 1 🎞️" ,IPTVPLAY ФАНТАСТИКА
 http://5.188.158.65:4040/IPTVPLAYFANTASTIKA.tv/video.m3u8?token=lqRGka5-YwwqF0
-#EXTINF:-1 tvg-logo="https://i.ibb.co/4R8vrk8W/image-27.png" group-title=""Кинозалы 1 🎞️"" ,IPTVPLAY ПАМЯТЬ
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4R8vrk8W/image-27.png" group-title="Кинозалы 1 🎞️" ,IPTVPLAY ПАМЯТЬ
 http://5.188.158.65:4040/IPTVPLAYPAMYAT.tv/video.m3u8?token=lqRGka5-YwwqF0
-#EXTINF:-1 tvg-logo="https://i.ibb.co/4R8vrk8W/image-27.png" group-title=""Кинозалы 1 🎞️"" ,IPTVPLAY УЖАСТИК
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4R8vrk8W/image-27.png" group-title="Кинозалы 1 🎞️" ,IPTVPLAY УЖАСТИК
 http://5.188.158.65:4040/IPTVPLAYUZHASTIK.tv/video.m3u8?token=lqRGka5-YwwqF0
-#EXTINF:-1 tvg-logo="https://i.ibb.co/4R8vrk8W/image-27.png" group-title=""Кинозалы 1 🎞️"", IPTVPLAY Великая Отечественная HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4R8vrk8W/image-27.png" group-title="Кинозалы 1 🎞️", IPTVPLAY Великая Отечественная HD
 http://5.188.158.65:4040/IPTVPLAYVOV.tv/video.m3u8?token=lqRGka5-YwwqF0
-#EXTINF:-1 tvg-logo="https://i.ibb.co/994jvr6f/image-4.png" tvg-id="" group-title=""Кинозалы 1 🎞️"",Film Best
+#EXTINF:-1 tvg-logo="https://i.ibb.co/994jvr6f/image-4.png" tvg-id="" group-title="Кинозалы 1 🎞️",Film Best
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://hls.goodgame.ru:8080/hls/212682.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/4ZwcfR6P/image-28.png" tvg-id="" group-title=""Кинозалы 1 🎞️"",Кибер Задов
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4ZwcfR6P/image-28.png" tvg-id="" group-title="Кинозалы 1 🎞️",Кибер Задов
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://hls.goodgame.ru:8080/hls/210558.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/DHfCmsV5/image-29.png" tvg-id="" group-title=""Кинозалы 1 🎞️"",Katastroff
+#EXTINF:-1 tvg-logo="https://i.ibb.co/DHfCmsV5/image-29.png" tvg-id="" group-title="Кинозалы 1 🎞️",Katastroff
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://hls.goodgame.ru:8080/hls/208789.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/q3DYpX5n/image-9.png" tvg-id="" group-title=""Кинозалы 1 🎞️"",Zubrilom Franchise
+#EXTINF:-1 tvg-logo="https://i.ibb.co/q3DYpX5n/image-9.png" tvg-id="" group-title="Кинозалы 1 🎞️",Zubrilom Franchise
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://hls.goodgame.ru:8080/hls/218193.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/q3DYpX5n/image-9.png" tvg-id="" group-title=""Кинозалы 1 🎞️"",Zubrilom Film 2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/q3DYpX5n/image-9.png" tvg-id="" group-title="Кинозалы 1 🎞️",Zubrilom Film 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://hls.goodgame.ru:8080/hls/218251.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/N6sYPbwM/image-11.png" tvg-id="" group-title=""Кинозалы 1 🎞️"",Восход ТВ
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N6sYPbwM/image-11.png" tvg-id="" group-title="Кинозалы 1 🎞️",Восход ТВ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://hls.goodgame.ru:8080/hls/202997.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/BVhTP11W/image-14.png" tvg-id="" group-title=""Кинозалы 1 🎞️"",VHS кино
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BVhTP11W/image-14.png" tvg-id="" group-title="Кинозалы 1 🎞️",VHS кино
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://195.9.195.3:8080/hls/218531.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/jZkZJZ5z/image-48.png" tvg-id="" group-title=""Кинозалы 1 🎞️"",ВИДЕОСАЛОН VHS
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jZkZJZ5z/image-48.png" tvg-id="" group-title="Кинозалы 1 🎞️",ВИДЕОСАЛОН VHS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://hls.goodgame.ru:8080/hls/175764.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/CK7Y5sxg/image-16.png" tvg-id="" group-title=""Кинозалы 1 🎞️"",1FILMAX
+#EXTINF:-1 tvg-logo="https://i.ibb.co/CK7Y5sxg/image-16.png" tvg-id="" group-title="Кинозалы 1 🎞️",1FILMAX
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://195.9.195.3:8080/hls/204708.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/rKjPzpKD/image-17.png" tvg-id="" group-title=""Кинозалы 1 🎞️"",2FILMAX
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rKjPzpKD/image-17.png" tvg-id="" group-title="Кинозалы 1 🎞️",2FILMAX
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://195.9.195.3:8080/hls/204717.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ynK7QpVV/image-18.png" tvg-id="" group-title=""Кинозалы 1 🎞️"",Фантом
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ynK7QpVV/image-18.png" tvg-id="" group-title="Кинозалы 1 🎞️",Фантом
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://195.9.195.3:8080/hls/204722.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/WW7QqrJD/image-19.png" tvg-id="" group-title=""Кинозалы 1 🎞️"",Кошмар HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WW7QqrJD/image-19.png" tvg-id="" group-title="Кинозалы 1 🎞️",Кошмар HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://195.9.195.3:8080/hls/204709.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/m5xtPMJq/image-16.png" group-title=""Кинозалы 1 🎞️"", Kino Mix
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/m5xtPMJq/image-16.png" group-title="Кинозалы 1 🎞️", Kino Mix
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://hls.goodgame.ru:8080/hls/216612.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/wrC4Bs07/image-20.png" tvg-id="" group-title=""Кинозалы 1 🎞️"",Akudji
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wrC4Bs07/image-20.png" tvg-id="" group-title="Кинозалы 1 🎞️",Akudji
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://195.9.195.3:8080/hls/5346.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/HD0m1Kxn/image-21.png" tvg-id="" group-title=""Кинозалы 1 🎞️"",FAN HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HD0m1Kxn/image-21.png" tvg-id="" group-title="Кинозалы 1 🎞️",FAN HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://195.9.195.3:8080/hls/157239.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/p61PV0CV/image-22.png" tvg-id="" group-title=""Кинозалы 1 🎞️"",Futurama
+#EXTINF:-1 tvg-logo="https://i.ibb.co/p61PV0CV/image-22.png" tvg-id="" group-title="Кинозалы 1 🎞️",Futurama
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://195.9.195.3:8080/hls/199417.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/0Rjh9fgt/image-23.png" tvg-id="" group-title=""Кинозалы 1 🎞️"",Moviee Toper
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0Rjh9fgt/image-23.png" tvg-id="" group-title="Кинозалы 1 🎞️",Moviee Toper
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://195.9.195.3:8080/hls/214749.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ycZVy30v/image-24.png" tvg-id="" group-title=""Кинозалы 1 🎞️"", Malder Мегахит
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ycZVy30v/image-24.png" tvg-id="" group-title="Кинозалы 1 🎞️", Malder Мегахит
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 https://autopilot.catcast.tv/content/47689/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/9kYk7PtV/image-26.png" tvg-id="" group-title=""Кинозалы 1 🎞️"", Malder Всё тв
+#EXTINF:-1 tvg-logo="https://i.ibb.co/9kYk7PtV/image-26.png" tvg-id="" group-title="Кинозалы 1 🎞️", Malder Всё тв
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://195.9.195.3:8080/hls/153640.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/bgXG58Gp/image-35.png" tvg-id="" group-title=""Кинозалы 1 🎞️"", VKTV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bgXG58Gp/image-35.png" tvg-id="" group-title="Кинозалы 1 🎞️", VKTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://hls.goodgame.ru:8080/hls/173945.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/FPDyRdj/image-37.png" tvg-id="" group-title=""Кинозалы 1 🎞️"", Ретро Мульт
+#EXTINF:-1 tvg-logo="https://i.ibb.co/FPDyRdj/image-37.png" tvg-id="" group-title="Кинозалы 1 🎞️", Ретро Мульт
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://hls.goodgame.ru:8080/hls/213086.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/BH5Kfx36/image-4.png" tvg-id="" group-title=""Кинозалы 1 🎞️"", Logovo Films
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BH5Kfx36/image-4.png" tvg-id="" group-title="Кинозалы 1 🎞️", Logovo Films
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 https://stream.ushba.tv/akamaiushba/ushba-films-a/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Kx885Mby/image-9.png" tvg-id="" group-title=""Кинозалы 1 🎞️"", Phoenix TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Kx885Mby/image-9.png" tvg-id="" group-title="Кинозалы 1 🎞️", Phoenix TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 https://karapuztv.catcast.tv/content/33418/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/QjkXHscj/image-36.png" tvg-id="" group-title=""Кинозалы 1 🎞️"",CRINGE TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/QjkXHscj/image-36.png" tvg-id="" group-title="Кинозалы 1 🎞️",CRINGE TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://hls.goodgame.ru:8080/hls/208391.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/pvCJpRnm/image-4.png" tvg-id="" group-title=""Кинозалы 1 🎞️"", TvBoom-ViP
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pvCJpRnm/image-4.png" tvg-id="" group-title="Кинозалы 1 🎞️", TvBoom-ViP
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 https://kb.catcast.tv/content/49702/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/84cp8bYH/image-9.png" tvg-id="" group-title=""Кинозалы 1 🎞️"", Видеокассета VHS
+#EXTINF:-1 tvg-logo="https://i.ibb.co/84cp8bYH/image-9.png" tvg-id="" group-title="Кинозалы 1 🎞️", Видеокассета VHS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 https://live20.bozztv.com/akamaissh101/ssh101/livevhs90e/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/rf5ChNbx/image-9.png" tvg-id="" group-title=""Кинозалы 1 🎞️"", KinoJam
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rf5ChNbx/image-9.png" tvg-id="" group-title="Кинозалы 1 🎞️", KinoJam
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://195.9.195.3:8080/hls/210182.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/r25pMz2T/image-22.png" group-title=""Кинозалы 1 🎞️"", LAV-KINO
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/r25pMz2T/image-22.png" group-title="Кинозалы 1 🎞️", LAV-KINO
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 https://fl1004.bozztv.com/ushba32/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hrJnvY6/image-15.png" tvg-id="" group-title=""Кинозалы 1 🎞️"", SeleCaoTV 1
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hrJnvY6/image-15.png" tvg-id="" group-title="Кинозалы 1 🎞️", SeleCaoTV 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://hls.goodgame.ru:8080/hls/163253.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hrJnvY6/image-15.png" tvg-id="" group-title=""Кинозалы 1 🎞️"", SeleCaoTV 2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hrJnvY6/image-15.png" tvg-id="" group-title="Кинозалы 1 🎞️", SeleCaoTV 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://hls.goodgame.ru:8080/hls/157269.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ynMtCF2H/image-29.png" tvg-id="" group-title=""Кинозалы 1 🎞️"", Video Arsenal
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ynMtCF2H/image-29.png" tvg-id="" group-title="Кинозалы 1 🎞️", Video Arsenal
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://195.9.195.3:8080/hls/206461.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/MDMY0JNB/image-43.png" tvg-id="" group-title=""Кинозалы 1 🎞️"", CyberTV_1
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MDMY0JNB/image-43.png" tvg-id="" group-title="Кинозалы 1 🎞️", CyberTV_1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://hls.goodgame.ru:8080/hls/214454.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/MDMY0JNB/image-43.png" tvg-id="" group-title=""Кинозалы 1 🎞️"", CyberTV_2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MDMY0JNB/image-43.png" tvg-id="" group-title="Кинозалы 1 🎞️", CyberTV_2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://hls.goodgame.ru:8080/hls/214433.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/MDMY0JNB/image-43.png" tvg-id="" group-title=""Кинозалы 1 🎞️"", CyberTV_3
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MDMY0JNB/image-43.png" tvg-id="" group-title="Кинозалы 1 🎞️", CyberTV_3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://hls.goodgame.ru:8080/hls/214421.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/W4P473rb/image-18.png" tvg-id="" group-title=""Кинозалы 1 🎞️"", Alpha Cinema
+#EXTINF:-1 tvg-logo="https://i.ibb.co/W4P473rb/image-18.png" tvg-id="" group-title="Кинозалы 1 🎞️", Alpha Cinema
 http://live.15plusmg.ru/memfs/b389173a-df4e-4171-8904-e249893e71eb.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/RkDr4pzm/image-19.png" tvg-id="" group-title=""Кинозалы 1 🎞️"", Alpha Funny
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RkDr4pzm/image-19.png" tvg-id="" group-title="Кинозалы 1 🎞️", Alpha Funny
 http://live.15plusmg.ru/memfs/90b76c71-a86e-488a-aac4-cb66d6f88781.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/BRsytNR/image-20.png" tvg-id="" group-title=""Кинозалы 1 🎞️"", Alpha Moretime
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BRsytNR/image-20.png" tvg-id="" group-title="Кинозалы 1 🎞️", Alpha Moretime
 http://live.15plusmg.ru/memfs/3546fc09-2eba-459d-9a1f-9a2fc39e50bd.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/6cVDTnpv/image-49.png" tvg-id="" group-title=""Кинозалы 1 🎞️"",🔴 Британский юмор 😐
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6cVDTnpv/image-49.png" tvg-id="" group-title="Кинозалы 1 🎞️",🔴 Британский юмор 😐
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://hls.goodgame.ru:8080/hls/218490.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/6cVDTnpv/image-49.png" tvg-id="" group-title=""Кинозалы 1 🎞️"",УЖАСЫ ФАНТАСТИКА 80-90-00
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6cVDTnpv/image-49.png" tvg-id="" group-title="Кинозалы 1 🎞️",УЖАСЫ ФАНТАСТИКА 80-90-00
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://hls.goodgame.ru:8080/hls/211351.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/6cVDTnpv/image-49.png" tvg-id="" group-title=""Кинозалы 1 🎞️"",LollyDragon
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6cVDTnpv/image-49.png" tvg-id="" group-title="Кинозалы 1 🎞️",LollyDragon
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://hls.goodgame.ru:8080/hls/183946_prem.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/6cVDTnpv/image-49.png" tvg-id="" group-title=""Кинозалы 1 🎞️"",Roper89
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6cVDTnpv/image-49.png" tvg-id="" group-title="Кинозалы 1 🎞️",Roper89
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://hls.goodgame.ru:8080/hls/76954_240.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/6cVDTnpv/image-49.png" tvg-id="" group-title=""Кинозалы 1 🎞️"", P Boy Podpischik
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6cVDTnpv/image-49.png" tvg-id="" group-title="Кинозалы 1 🎞️", P Boy Podpischik
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://hls.goodgame.ru:8080/manifest/40391_master.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/6cVDTnpv/image-49.png" tvg-id="" group-title=""Кинозалы 1 🎞️"", DiZagree
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6cVDTnpv/image-49.png" tvg-id="" group-title="Кинозалы 1 🎞️", DiZagree
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://hls.goodgame.ru:8080/hls/48017_720.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/6cVDTnpv/image-49.png" tvg-id="" group-title=""Кинозалы 1 🎞️"", CMehanikus
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6cVDTnpv/image-49.png" tvg-id="" group-title="Кинозалы 1 🎞️", CMehanikus
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://hls.goodgame.ru:8080/hls/122616_prem.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/6cVDTnpv/image-49.png" tvg-id="" group-title=""Кинозалы 1 🎞️"", Fizcultprivet
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6cVDTnpv/image-49.png" tvg-id="" group-title="Кинозалы 1 🎞️", Fizcultprivet
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://hls.goodgame.ru:8080/hls/29969.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/6cVDTnpv/image-49.png" tvg-id="" group-title=""Кинозалы 1 🎞️"", Djaga68
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6cVDTnpv/image-49.png" tvg-id="" group-title="Кинозалы 1 🎞️", Djaga68
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://hls.goodgame.ru:8080/hls/211665.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/6cVDTnpv/image-49.png" tvg-id="" group-title=""Кинозалы 1 🎞️"", Сириус ТВ
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6cVDTnpv/image-49.png" tvg-id="" group-title="Кинозалы 1 🎞️", Сириус ТВ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://hls.goodgame.ru:8080/hls/211270.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/6cVDTnpv/image-49.png" tvg-id="" group-title=""Кинозалы 1 🎞️"", Yesnomb
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6cVDTnpv/image-49.png" tvg-id="" group-title="Кинозалы 1 🎞️", Yesnomb
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://hls.goodgame.ru:8080/hls/189993_prem.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/6cVDTnpv/image-49.png" tvg-id="" group-title=""Кинозалы 1 🎞️"", KPOT666NETOT
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6cVDTnpv/image-49.png" tvg-id="" group-title="Кинозалы 1 🎞️", KPOT666NETOT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://hls.goodgame.ru:8080/hls/207482.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/6cVDTnpv/image-49.png" tvg-id="" group-title=""Кинозалы 1 🎞️"",AlexVira
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6cVDTnpv/image-49.png" tvg-id="" group-title="Кинозалы 1 🎞️",AlexVira
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://hls.goodgame.ru:8080/hls/106103.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/6cVDTnpv/image-49.png" tvg-id="" group-title=""Кинозалы 1 🎞️"",Абсолют синема
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6cVDTnpv/image-49.png" tvg-id="" group-title="Кинозалы 1 🎞️",Абсолют синема
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://hls.goodgame.ru:8080/hls/122102_prem.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/MDG9Q7YH/image-36.png" tvg-id="" group-title=""Кинозалы 1 🎞️"", MGM
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MDG9Q7YH/image-36.png" tvg-id="" group-title="Кинозалы 1 🎞️", MGM
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 https://autopilot.catcast.tv/content/44051/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/pBZQdVdM/image-30.png" tvg-id="" group-title=""Кинозалы 1 🎞️"", Шеф
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pBZQdVdM/image-30.png" tvg-id="" group-title="Кинозалы 1 🎞️", Шеф
 https://cdn-dvr.ntv.ru/Shef/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/7tSd2XYf/image-31.png" tvg-id="" group-title=""Кинозалы 1 🎞️"", Первый Отдел
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7tSd2XYf/image-31.png" tvg-id="" group-title="Кинозалы 1 🎞️", Первый Отдел
 https://cdn-dvr.ntv.ru/Perviy_otdel/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Mxv7fjsN/image-32.png" tvg-id="" group-title=""Кинозалы 1 🎞️"", Невский
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Mxv7fjsN/image-32.png" tvg-id="" group-title="Кинозалы 1 🎞️", Невский
 https://cdn-dvr.ntv.ru/Nevskiy/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/nsjTTHm2/image-44.png" tvg-id="" group-title=""Кинозалы 1 🎞️"", Пёс
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nsjTTHm2/image-44.png" tvg-id="" group-title="Кинозалы 1 🎞️", Пёс
 https://cdn-dvr.ntv.ru/Pes/tracks-v1a1/rewind-240.ts.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ynB5bFXQ/image-45.png" tvg-id="" group-title=""Кинозалы 1 🎞️"", Скорая помощь
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ynB5bFXQ/image-45.png" tvg-id="" group-title="Кинозалы 1 🎞️", Скорая помощь
 https://cdn-dvr.ntv.ru/Skoraja_pomosh/tracks-v1a1/rewind-240.ts.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/kggBNFF4/image-46.png" tvg-id="" group-title=""Кинозалы 1 🎞️"", Балабол
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kggBNFF4/image-46.png" tvg-id="" group-title="Кинозалы 1 🎞️", Балабол
 https://cdn-dvr.ntv.ru/Balabol/tracks-v1a1/rewind-240.ts.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/HpNJPkGR/image-47.png" tvg-id="" group-title=""Кинозалы 1 🎞️"", Пять минут тишины
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HpNJPkGR/image-47.png" tvg-id="" group-title="Кинозалы 1 🎞️", Пять минут тишины
 https://cdn-dvr.ntv.ru/5_minut_tishiny/tracks-v1a1/rewind-240.ts.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/nMsMD0Q4/image-34.png" tvg-id="" group-title=""Кинозалы 1 🎞️"", Следствие вели... 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nMsMD0Q4/image-34.png" tvg-id="" group-title="Кинозалы 1 🎞️", Следствие вели... 
 https://cdn-dvr.ntv.ru/sledstvie/tracks-v1a1/rewind-240.ts.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/CpYZFf54/image-38.png" tvg-id="" group-title=""Кинозалы 1 🎞️"", Ты супер !
+#EXTINF:-1 tvg-logo="https://i.ibb.co/CpYZFf54/image-38.png" tvg-id="" group-title="Кинозалы 1 🎞️", Ты супер !
 https://cdn-dvr.ntv.ru/Super/tracks-v1a1/rewind-240.ts.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/bjBsFPkh/image-33.png" tvg-id="" group-title=""Кинозалы 1 🎞️"", TV1 (KG)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bjBsFPkh/image-33.png" tvg-id="" group-title="Кинозалы 1 🎞️", TV1 (KG)
 http://212.2.225.30:1935/live/site.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="" tvg-id="" group-title=""Кинозалы 1 🎞️"", KTV
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="Кинозалы 1 🎞️", KTV
 http://cdn-konultvazerbaijan.yayin.com.tr/konultvazerbaijan/konultvazerbaijan/playlist.m3u
-#EXTINF:-1 tvg-logo="https://i.ibb.co/0pDTSvhW/image-4.png" tvg-id="" group-title=""Кинозалы 1 🎞️"",Revolyo Pulse
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0pDTSvhW/image-4.png" tvg-id="" group-title="Кинозалы 1 🎞️",Revolyo Pulse
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/607Ztg0N/image-17.png" tvg-id="" group-title=""Кинозалы 1 🎞️"",Триколор Взвешенные люди HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/607Ztg0N/image-17.png" tvg-id="" group-title="Кинозалы 1 🎞️",Триколор Взвешенные люди HD
 http://4je2oiwp.klaipedalt.org/iptv/FTXT5WEPVSHHWZ/18126/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/607Ztg0N/image-17.png" tvg-id="" group-title=""Кинозалы 1 🎞️"",Триколор След
+#EXTINF:-1 tvg-logo="https://i.ibb.co/607Ztg0N/image-17.png" tvg-id="" group-title="Кинозалы 1 🎞️",Триколор След
 http://4je2oiwp.klaipedalt.org/iptv/Q4QGZM4UEPGBUW/18127/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/607Ztg0N/image-17.png" tvg-id="" group-title=""Кинозалы 1 🎞️"",Триколор Ментовские войны
+#EXTINF:-1 tvg-logo="https://i.ibb.co/607Ztg0N/image-17.png" tvg-id="" group-title="Кинозалы 1 🎞️",Триколор Ментовские войны
 http://4je2oiwp.klaipedalt.org/iptv/VGWB9P9PSCG8HS/18128/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/607Ztg0N/image-17.png" tvg-id="" group-title=""Кинозалы 1 🎞️"",Триколор Мелодрамы
+#EXTINF:-1 tvg-logo="https://i.ibb.co/607Ztg0N/image-17.png" tvg-id="" group-title="Кинозалы 1 🎞️",Триколор Мелодрамы
 http://4je2oiwp.klaipedalt.org/iptv/LN9B7FVR2ZH8S9/18129/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/607Ztg0N/image-17.png" tvg-id="" group-title=""Кинозалы 1 🎞️"",Триколор Солдаты
+#EXTINF:-1 tvg-logo="https://i.ibb.co/607Ztg0N/image-17.png" tvg-id="" group-title="Кинозалы 1 🎞️",Триколор Солдаты
 http://4je2oiwp.klaipedalt.org/iptv/2EA55L4SUE4RH4/18130/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/3y8rPhPS/image-17.png" tvg-id="" group-title=""Кинозалы 1 🎞️"",312 Сериал
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3y8rPhPS/image-17.png" tvg-id="" group-title="Кинозалы 1 🎞️",312 Сериал
 http://176.126.166.43:1935/live/312musik/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/3y8rPhPS/image-17.png" tvg-id="" group-title=""Кинозалы 1 🎞️"",312 Кино
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3y8rPhPS/image-17.png" tvg-id="" group-title="Кинозалы 1 🎞️",312 Кино
 http://176.126.166.43:1935/live/312kino/playlist.m3u8
-#EXTINF:-0 tvg-id="no_epg_cinema" group-title=""Кинозалы 1 🎞️"" tvg-logo="https://i.ibb.co/hFs2QPrZ/image-35.png", FMC 
+#EXTINF:-0 tvg-id="no_epg_cinema" group-title="Кинозалы 1 🎞️" tvg-logo="https://i.ibb.co/hFs2QPrZ/image-35.png", FMC 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ks1NNrWY/image-11.png" tvg-id="" group-title=""Кинозалы 1 🎞️"", Кино 1 International
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ks1NNrWY/image-11.png" tvg-id="" group-title="Кинозалы 1 🎞️", Кино 1 International
 https://kino-1.catcast.tv/content/38617/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ks1NNrWY/image-11.png" tvg-id="" group-title=""Кинозалы 1 🎞️"", Кино 1
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ks1NNrWY/image-11.png" tvg-id="" group-title="Кинозалы 1 🎞️", Кино 1
 http://zxfjaukj.akciatv.ru/iptv/FHH84H2DHD9F4MDXE49XPW4U/18069/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ks1NNrWY/image-11.png" tvg-id="" group-title=""Кинозалы 1 🎞️"", Кино 18+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ks1NNrWY/image-11.png" tvg-id="" group-title="Кинозалы 1 🎞️", Кино 18+
 https://v2.catcast.tv/content/40381/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ks1NNrWY/image-11.png" tvg-id="" group-title=""Кинозалы 1 🎞️"", Кино 2 HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ks1NNrWY/image-11.png" tvg-id="" group-title="Кинозалы 1 🎞️", Кино 2 HD
 http://zxfjaukj.akciatv.ru/iptv/FHH84H2DHD9F4MDXE49XPW4U/18070/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ks1NNrWY/image-11.png" tvg-id="" group-title=""Кинозалы 1 🎞️"", Детское Кино International
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ks1NNrWY/image-11.png" tvg-id="" group-title="Кинозалы 1 🎞️", Детское Кино International
 https://v2.catcast.tv/content/38720/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/XfGVQMmB/image-4.png" tvg-id="" group-title=""Кинозалы 1 🎞️"", ԼԱՅՄ GOLD TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/XfGVQMmB/image-4.png" tvg-id="" group-title="Кинозалы 1 🎞️", ԼԱՅՄ GOLD TV
 https://v2.catcast.tv/content/40546/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/vxvChLq8/image-34.png" tvg-id="" group-title=""Кинозалы 1 🎞️"", Kino 24
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vxvChLq8/image-34.png" tvg-id="" group-title="Кинозалы 1 🎞️", Kino 24
 http://sirius.greenhosting.ru/Kino24Ru/video.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/3ycBZqx3/image-14.png" tvg-id="" group-title=""Кинозалы 1 🎞️"", PRO100 TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3ycBZqx3/image-14.png" tvg-id="" group-title="Кинозалы 1 🎞️", PRO100 TV
 http://sirius.greenhosting.ru/Pro100tvRu/tracks-v1a1/mono.m3u8
-#EXTINF:-0 tvg-id="no_epg_cinema" group-title=""Кинозалы 1 🎞️"" tvg-logo="https://i.ibb.co/WvCddqkN/image-31.png",SeriesTV
+#EXTINF:-0 tvg-id="no_epg_cinema" group-title="Кинозалы 1 🎞️" tvg-logo="https://i.ibb.co/WvCddqkN/image-31.png",SeriesTV
 
-#EXTINF:-0 tvg-id="no_epg_cinema" group-title=""Кинозалы 1 🎞️"" tvg-logo="https://i.ibb.co/6cVDTnpv/image-49.png",VIVA Russia
+#EXTINF:-0 tvg-id="no_epg_cinema" group-title="Кинозалы 1 🎞️" tvg-logo="https://i.ibb.co/6cVDTnpv/image-49.png",VIVA Russia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://hls.goodgame.ru:8080/hls/180805.m3u8
-#EXTINF:-0 tvg-id="no_epg_cinema" group-title=""Кинозалы 1 🎞️"" tvg-logo="https://i.ibb.co/6cVDTnpv/image-49.png",HotBeatsTV
+#EXTINF:-0 tvg-id="no_epg_cinema" group-title="Кинозалы 1 🎞️" tvg-logo="https://i.ibb.co/6cVDTnpv/image-49.png",HotBeatsTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://hls.goodgame.ru:8080/hls/191858.m3u8
-#EXTINF:-0 tvg-id="no_epg_cinema" group-title=""Кинозалы 1 🎞️"" tvg-logo="https://i.ibb.co/6cVDTnpv/image-49.png",MegaRadio
+#EXTINF:-0 tvg-id="no_epg_cinema" group-title="Кинозалы 1 🎞️" tvg-logo="https://i.ibb.co/6cVDTnpv/image-49.png",MegaRadio
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://hls.goodgame.ru:8080/hls/175789.m3u8
-#EXTINF:-0 tvg-id="no_epg_cinema" group-title=""Кинозалы 1 🎞️"" tvg-logo="https://i.ibb.co/6cVDTnpv/image-49.png",Азиатские танцульки
+#EXTINF:-0 tvg-id="no_epg_cinema" group-title="Кинозалы 1 🎞️" tvg-logo="https://i.ibb.co/6cVDTnpv/image-49.png",Азиатские танцульки
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://hls.goodgame.ru:8080/hls/196745.m3u8
-#EXTINF:-0 tvg-id="no_epg_cinema" group-title=""Кинозалы 1 🎞️"" tvg-logo="https://i.ibb.co/6cVDTnpv/image-49.png",Первый Автомобильный Телеканал 
+#EXTINF:-0 tvg-id="no_epg_cinema" group-title="Кинозалы 1 🎞️" tvg-logo="https://i.ibb.co/6cVDTnpv/image-49.png",Первый Автомобильный Телеканал 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://hls.goodgame.ru:8080/hls/206355.m3u8
-#EXTINF:-0 tvg-id="no_epg_cinema" group-title=""Кинозалы 1 🎞️"" tvg-logo="https://i.ibb.co/6cVDTnpv/image-49.png",Mikulski
+#EXTINF:-0 tvg-id="no_epg_cinema" group-title="Кинозалы 1 🎞️" tvg-logo="https://i.ibb.co/6cVDTnpv/image-49.png",Mikulski
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://hls.goodgame.ru:8080/hls/167782.m3u8
-#EXTINF:-0 tvg-id="no_epg_cinema" group-title=""Кинозалы 1 🎞️"" tvg-logo="https://i.ibb.co/6cVDTnpv/image-49.png",Wierd_by_Eyforis_Lurt
+#EXTINF:-0 tvg-id="no_epg_cinema" group-title="Кинозалы 1 🎞️" tvg-logo="https://i.ibb.co/6cVDTnpv/image-49.png",Wierd_by_Eyforis_Lurt
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://hls.goodgame.ru:8080/hls/172446.m3u8
-#EXTINF:-0 tvg-id="no_epg_cinema" group-title=""Кинозалы 1 🎞️"" tvg-logo="https://i.ibb.co/6cVDTnpv/image-49.png",24/7 Music
+#EXTINF:-0 tvg-id="no_epg_cinema" group-title="Кинозалы 1 🎞️" tvg-logo="https://i.ibb.co/6cVDTnpv/image-49.png",24/7 Music
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://hls.goodgame.ru:8080/hls/194731.m3u8
-#EXTINF:-0 tvg-id="no_epg_cinema" group-title=""Кинозалы 1 🎞️"" tvg-logo="https://i.ibb.co/6cVDTnpv/image-49.png",Звуки дождя
+#EXTINF:-0 tvg-id="no_epg_cinema" group-title="Кинозалы 1 🎞️" tvg-logo="https://i.ibb.co/6cVDTnpv/image-49.png",Звуки дождя
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://hls.goodgame.ru:8080/hls/198378.m3u8
-#EXTINF:-0 tvg-id="no_epg_cinema" group-title=""Кинозалы 1 🎞️"" tvg-logo="https://i.ibb.co/6cVDTnpv/image-49.png",Disco Dance Party!!!
+#EXTINF:-0 tvg-id="no_epg_cinema" group-title="Кинозалы 1 🎞️" tvg-logo="https://i.ibb.co/6cVDTnpv/image-49.png",Disco Dance Party!!!
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://hls.goodgame.ru:8080/hls/215020.m3u8
-#EXTINF:-0 tvg-id="no_epg_cinema" group-title=""Кинозалы 1 🎞️"" tvg-logo="https://i.ibb.co/6cVDTnpv/image-49.png",Palmera Blanca Radio
+#EXTINF:-0 tvg-id="no_epg_cinema" group-title="Кинозалы 1 🎞️" tvg-logo="https://i.ibb.co/6cVDTnpv/image-49.png",Palmera Blanca Radio
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://hls.goodgame.ru:8080/hls/214802.m3u8
-#EXTINF:-0 tvg-id="no_epg_cinema" group-title=""Кинозалы 1 🎞️"" tvg-logo="https://i.ibb.co/6cVDTnpv/image-49.png",Music Info News
+#EXTINF:-0 tvg-id="no_epg_cinema" group-title="Кинозалы 1 🎞️" tvg-logo="https://i.ibb.co/6cVDTnpv/image-49.png",Music Info News
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://hls.goodgame.ru:8080/hls/211955.m3u8
-#EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://i.ibb.co/Xr6Ngptx/image-32.png" group-title=""Кинозалы 1 🎞️"", Твоё ТВ HD
+#EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://i.ibb.co/Xr6Ngptx/image-32.png" group-title="Кинозалы 1 🎞️", Твоё ТВ HD
 http://tvoetv.space:8080/tvoetv/index.m3u8
-#EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://i.ibb.co/gFHCVrTw/image-33.png" group-title=""Кинозалы 1 🎞️"",Твоё ТВ HD Юмор
+#EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://i.ibb.co/gFHCVrTw/image-33.png" group-title="Кинозалы 1 🎞️",Твоё ТВ HD Юмор
 http://tvoetv.space:8080/tvoetv_humor/video.m3u8
-#EXTINF:-0 tvg-id="vhs-ka" group-title=""Кинозалы 1 🎞️"" tvg-logo="https://epg.iptvx.one/picons/vhs-ka.png", VHS-ка HD 
+#EXTINF:-0 tvg-id="vhs-ka" group-title="Кинозалы 1 🎞️" tvg-logo="https://epg.iptvx.one/picons/vhs-ka.png", VHS-ка HD 
 http://95.66.188.74/VHS/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/4nV26ShC/image-4.png" tvg-id="no_epg_cinema" group-title=""Кинозалы 1 🎞️"", Смотрим Кино и сериалы
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4nV26ShC/image-4.png" tvg-id="no_epg_cinema" group-title="Кинозалы 1 🎞️", Смотрим Кино и сериалы
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v5a1/mono.m3u8
-#EXTINF:-1 tvg-id="strk" group-title=""Кинозалы 1 🎞️"", СТРК HD
+#EXTINF:-1 tvg-id="strk" group-title="Кинозалы 1 🎞️", СТРК HD
 http://sochinskayatrk.ru/hdtv/hls/CTPK_400/playlist.m3u8
-#EXTINF:-1 tvg-id="43-tuapse" group-title=""Кинозалы 1 🎞️"", 43 канал
+#EXTINF:-1 tvg-id="43-tuapse" group-title="Кинозалы 1 🎞️", 43 канал
 http://sochinskayatrk.ru/hdtv/hls/43K_HD/playlist.m3u8
-#EXTINF:-0 tvg-id="" group-title=""Кинозалы 1 🎞️"" tvg-logo="https://i.ibb.co/My9w94tZ/image-12.png", ЛИК
+#EXTINF:-0 tvg-id="" group-title="Кинозалы 1 🎞️" tvg-logo="https://i.ibb.co/My9w94tZ/image-12.png", ЛИК
 http://autopilot.catcast.tv/content/41596/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/My9w94tZ/image-12.png" tvg-id="" group-title=""Кинозалы 1 🎞️"", ЛИК Классика
+#EXTINF:-1 tvg-logo="https://i.ibb.co/My9w94tZ/image-12.png" tvg-id="" group-title="Кинозалы 1 🎞️", ЛИК Классика
 https://v2.catcast.tv/content/41458/index.m3u8
-#EXTINF:-0 tvg-id="no_epg_cinema" group-title=""Кинозалы 1 🎞️"" tvg-logo="https://fsd.kopilkaurokov.ru/up/html/2020/01/27/k_5e2f1ef814d50/img_user_file_5e2f1ef9dd433_0_0.jpg",WWW 
+#EXTINF:-0 tvg-id="no_epg_cinema" group-title="Кинозалы 1 🎞️" tvg-logo="https://fsd.kopilkaurokov.ru/up/html/2020/01/27/k_5e2f1ef814d50/img_user_file_5e2f1ef9dd433_0_0.jpg",WWW 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/60nhtkx6/image-4.png" tvg-id="cityedem-kinoazia" group-title=""Кинозалы 1 🎞️"", Сити Эдем - КиноАзия
+#EXTINF:-1 tvg-logo="https://i.ibb.co/60nhtkx6/image-4.png" tvg-id="cityedem-kinoazia" group-title="Кинозалы 1 🎞️", Сити Эдем - КиноАзия
 https://cityeden.catcast.tv/content/34393/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/S7nxTYbg/image-9.png" tvg-id="no_epg_cinema" group-title=""Кинозалы 1 🎞️"", Сити Эдем - КиноАрт
+#EXTINF:-1 tvg-logo="https://i.ibb.co/S7nxTYbg/image-9.png" tvg-id="no_epg_cinema" group-title="Кинозалы 1 🎞️", Сити Эдем - КиноАрт
 https://cityeden.catcast.tv/content/38398/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/nq5vyFrh/image-11.png" tvg-id="no_epg_cinema" group-title=""Кинозалы 1 🎞️"", Сити Эдем - КиноДетектив
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nq5vyFrh/image-11.png" tvg-id="no_epg_cinema" group-title="Кинозалы 1 🎞️", Сити Эдем - КиноДетектив
 https://cityeden.catcast.tv/content/41327/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/CKnJRBd0/image-12.png" tvg-id="no_epg_cinema" group-title=""Кинозалы 1 🎞️"", Сити Эдем - КиноДок
+#EXTINF:-1 tvg-logo="https://i.ibb.co/CKnJRBd0/image-12.png" tvg-id="no_epg_cinema" group-title="Кинозалы 1 🎞️", Сити Эдем - КиноДок
 https://cityeden.catcast.tv/content/38354/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/GQKpsxmC/image-14.png" tvg-id="no_epg_cinema" group-title=""Кинозалы 1 🎞️"", Сити Эдем - КиноДрама
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GQKpsxmC/image-14.png" tvg-id="no_epg_cinema" group-title="Кинозалы 1 🎞️", Сити Эдем - КиноДрама
 https://cityeden.catcast.tv/content/45269/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/qMrRd04Y/image-15.png" tvg-id="cityedem-kinoklas" group-title=""Кинозалы 1 🎞️"", Сити Эдем - КиноКлассика
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qMrRd04Y/image-15.png" tvg-id="cityedem-kinoklas" group-title="Кинозалы 1 🎞️", Сити Эдем - КиноКлассика
 https://cityeden.catcast.tv/content/34185/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/WNMR4pxD/image-16.png" tvg-id="no_epg_cinema" group-title=""Кинозалы 1 🎞️"", Сити Эдем - КиноКомедия
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WNMR4pxD/image-16.png" tvg-id="no_epg_cinema" group-title="Кинозалы 1 🎞️", Сити Эдем - КиноКомедия
 https://cityeden.catcast.tv/content/41331/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/KxqVmt9B/image-17.png" tvg-id="cityedem-kinomist" group-title=""Кинозалы 1 🎞️"", Сити Эдем - КиноМистика
+#EXTINF:-1 tvg-logo="https://i.ibb.co/KxqVmt9B/image-17.png" tvg-id="cityedem-kinomist" group-title="Кинозалы 1 🎞️", Сити Эдем - КиноМистика
 https://cityeden.catcast.tv/content/40783/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/XxFPCHT6/image-18.png" tvg-id="no_epg_cinema" group-title=""Кинозалы 1 🎞️"", Сити Эдем - КиноФантастика
+#EXTINF:-1 tvg-logo="https://i.ibb.co/XxFPCHT6/image-18.png" tvg-id="no_epg_cinema" group-title="Кинозалы 1 🎞️", Сити Эдем - КиноФантастика
 https://cityeden.catcast.tv/content/45268/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Zp0rStg2/image-19.png" tvg-id="cityedem-kinoact" group-title=""Кинозалы 1 🎞️"", Сити Эдем - КиноЭкшен
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Zp0rStg2/image-19.png" tvg-id="cityedem-kinoact" group-title="Кинозалы 1 🎞️", Сити Эдем - КиноЭкшен
 https://cityeden.catcast.tv/content/41333/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/R4YPstZF/image-20.png" tvg-id="cityedem-telenov" group-title=""Кинозалы 1 🎞️"", Сити Эдем - Теленовелла
+#EXTINF:-1 tvg-logo="https://i.ibb.co/R4YPstZF/image-20.png" tvg-id="cityedem-telenov" group-title="Кинозалы 1 🎞️", Сити Эдем - Теленовелла
 https://cityeden.catcast.tv/content/46209/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hnbLNtF/image-21.png" tvg-id="no_epg_cinema" group-title=""Кинозалы 1 🎞️"", Сити Эдем - Бирма Play
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hnbLNtF/image-21.png" tvg-id="no_epg_cinema" group-title="Кинозалы 1 🎞️", Сити Эдем - Бирма Play
 https://cityeden.catcast.tv/content/34100/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/SDGvD0bh/image-22.png" tvg-id="no_epg_cinema" group-title=""Кинозалы 1 🎞️"", Сити Эдем - Классическая Музыка
+#EXTINF:-1 tvg-logo="https://i.ibb.co/SDGvD0bh/image-22.png" tvg-id="no_epg_cinema" group-title="Кинозалы 1 🎞️", Сити Эдем - Классическая Музыка
 https://cityeden.catcast.tv/content/47400/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/8D2Pnhd1/image-23.png" tvg-id="no_epg_cinema" group-title=""Кинозалы 1 🎞️"", Сити Эдем - Сиртаки ТВ
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8D2Pnhd1/image-23.png" tvg-id="no_epg_cinema" group-title="Кинозалы 1 🎞️", Сити Эдем - Сиртаки ТВ
 https://cityeden.catcast.tv/content/46421/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/GQy7zrL6/image-24.png" tvg-id="no_epg_cinema" group-title=""Кинозалы 1 🎞️"", Сити Эдем - АвтоГид
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GQy7zrL6/image-24.png" tvg-id="no_epg_cinema" group-title="Кинозалы 1 🎞️", Сити Эдем - АвтоГид
 https://cityeden.catcast.tv/content/47515/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/SXsV7qpb/image-26.png" tvg-id="no_epg_cinema" group-title=""Кинозалы 1 🎞️"", Сити Эдем - МедЗдрав
+#EXTINF:-1 tvg-logo="https://i.ibb.co/SXsV7qpb/image-26.png" tvg-id="no_epg_cinema" group-title="Кинозалы 1 🎞️", Сити Эдем - МедЗдрав
 https://cityeden.catcast.tv/content/47519/index.m3u8
 
 
@@ -17131,5 +17131,6 @@ https://cdn.nexttvnet.ru/hlsl/provide/61394/ChinaTV2/china-tv_1920x1080/index.m3
 http://v4.proofix.ru:80/7tv-live/index.m3u8
 #EXTINF:-1 tvg-id="teledom" tvg-logo="https://iptvx.one/picons/teledom.png" group-title="Развлекательные 🕹️",Теледом HD
 http://iam-profi.ru/hls-live/livepkgr/_definst_/liveevent/td720.m3u8
+
 
 
