@@ -3871,7 +3871,7 @@ https://stream.ecable.tv/afrobeats/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/WNhw85sC/image-2025-09-09-T113607-047.png" group-title="Музыкальные 🎶", Afrobit (Pulse)
 #EXTGRP:Музыкальные 🎶
 http://connectiktv.ddns.net:5000/afrobithd/afrobithd/.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/sdRLtDYy/image-49.png" group-title="Ⓜ️ Музыкальные 🎶 Ⓜ️",  AFRO MUSIC
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/sdRLtDYy/image-49.png" group-title="Музыкальные 🎶",  AFRO MUSIC
 #EXTGRP:Музыкальные 🎶
 http://www.mitvpro.online:88/BcNOztZBZkc7vCE/vvsvmBOLrcEzKYX/95374
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/Qjd2TX5G/image-51.png" group-title="Музыкальные 🎶", Aghani Aghani
@@ -18137,6 +18137,7 @@ https://cdn.nexttvnet.ru/hlsl/provide/61394/ChinaTV2/china-tv_1920x1080/index.m3
 http://v4.proofix.ru:80/7tv-live/index.m3u8
 #EXTINF:-1 tvg-id="teledom" tvg-logo="https://iptvx.one/picons/teledom.png" group-title="Развлекательные 🕹️",Теледом HD
 http://iam-profi.ru/hls-live/livepkgr/_definst_/liveevent/td720.m3u8
+
 
 
 
