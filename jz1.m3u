@@ -56,6 +56,10 @@ https://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R05_KAMINTV/variant.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 https://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R05_KAMINTV/variant.m3u8
 
+#EXTINF:-1 group-title="Спорт (TECT) ⚽️" , Спорт (TECT) ⚽️
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R05_KAMINTV/variant.m3u8
+
 #EXTINF:-1 group-title="Региональное ТВ 🌐" , Региональное ТВ 🌐
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 https://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R05_KAMINTV/variant.m3u8
@@ -15034,331 +15038,6 @@ http://arbiter.bolshoe.tv/?path=abr2/sethd/71/copy/playlist.m3u8&wmsAuthSign=c2V
 http://arbiter.bolshoe.tv/?path=abr1/futbol/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMzAvMjAyNSA3OjU2OjAxIEFNJmhhc2hfdmFsdWU9NXZ5QmIzbjYwbWplWktDL1JUdHBwZz09JnZhbGlkbWludXRlcz03MjAmaWQ9Nzc3
 #EXTINF:-1 group-title="Спорткомплекс 🏆",Viasat Sport HD
 http://arbiter.bolshoe.tv/?path=abr2/viasat_sport_hd/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMzAvMjAyNSA3OjU2OjAxIEFNJmhhc2hfdmFsdWU9NXZ5QmIzbjYwbWplWktDL1JUdHBwZz09JnZhbGlkbWludXRlcz03MjAmaWQ9Nzc3
-#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2025/05/01//7c8b25dfefb8655b74b5927ca5858adf-q-500x500.jpeg", iTV Cinema
-https://iptv.itv.uz/hls/live/t/myxksa_3EuAVgnmPPG44TA/e/1764575762/4000/index.m3u8?ip=213.183.48.195
-#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2025/05/01//ac76145a39e0a0e5086a5fc7d1651999-q-500x500.jpeg", iTV Music
-https://iptv.itv.uz/hls/live/t/c1pyj3kPwHouWG_yIoD20A/e/1764575762/4001/index.m3u8?ip=213.183.48.195
-#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2024/08/16//40414599b94269697bfa8698362e75e7-q-500x500.jpeg", Тайны Галактики HD
-https://iptv.itv.uz/hls/live/t/AU2Ikw_nknNP1y4H7AlWjg/e/1764575762/1472/index.m3u8?ip=213.183.48.195
-#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2023/04/18//9ae8b2d0eae85af6fd49277616dc9b13-q-500x500.jpeg", Хабар 24 KZ
-https://iptv.itv.uz/hls/live/t/a7o22VypB62zQ4M5MA6pIQ/e/1764575762/1408/index.m3u8?ip=213.183.48.195
-#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2020/06/17//379d07323f571965a4dc44b456a14530-q-500x500.jpeg", Узбекистан
-https://iptv.itv.uz/hls/live/t/cN0u_BCXdJSiX7lWE-MZhQ/e/1764575763/1001/index.m3u8?ip=213.183.48.195
-#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2022/08/23//105c61567d1ca0420d2ff99256054af6-q-500x500.jpeg", Ёшлар
-https://iptv.itv.uz/hls/live/t/4QAUybu2gd_FxNGSfPg21Q/e/1764575763/1002/index.m3u8?ip=213.183.48.195
-#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2020/06/17//96e9b1e79d2d9442b778115079e09d21-q-500x500.jpeg", Ташкент
-https://iptv.itv.uz/hls/live/t/We6V7jyH2saMu5VhCECH9Q/e/1764575763/1003/index.m3u8?ip=213.183.48.195
-#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2020/06/17//f79dce2ae2bd9ef84b6888f226fbb293-q-500x500.jpeg", Sport UZ HD
-https://iptv.itv.uz/hls/live/t/AnUZMr-5L6RtNWvMU51I-A/e/1764575763/1004/index.m3u8?ip=213.183.48.195
-#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2025/01/07//20d9335019d646e341e84482f3b5679b-q-500x500.jpeg", Futbol TV
-https://iptv.itv.uz/hls/live/t/-94K2lG-DPDVyaZiy2ITIQ/e/1764575763/1010/index.m3u8?ip=213.183.48.195
-#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2020/06/17//4091c27ad1899f00d8f900e4a1243611-q-500x500.jpeg", O'zbekiston 24 HD
-https://iptv.itv.uz/hls/live/t/OD3474yVWN2M-GT3eU0Vfg/e/1764575763/1011/index.m3u8?ip=213.183.48.195
-#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2022/01/15//c78b4b29689e79a2d7e1cd3fefe6300d-q-500x500.jpeg", ZO'R TV HD
-https://iptv.itv.uz/hls/live/t/80jpacTThzzg3HfZ61yJ4Q/e/1764575764/1016/index.m3u8?ip=213.183.48.195
-#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2025/02/10//0468ff22219c4d1b9cb00666ba2b2e60-q-500x500.jpeg", ZO'R TV FHD
-https://iptv.itv.uz/hls/live/t/ZEwQ60aZTEIKwSLouDvv6A/e/1764575764/1286/index.m3u8?ip=213.183.48.195
-#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2023/06/02//fa77872772e7f7406369bd0fe4e48e47-q-500x500.jpeg", Milliy TV HD
-https://iptv.itv.uz/hls/live/t/V7B0BCf0gB87YNajvINM-w/e/1764575764/1014/index.m3u8?ip=213.183.48.195
-#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2023/06/02//15db9906a0f50fb5ccadc0c30f1e532d-q-500x500.jpeg", Milliy SD
-https://iptv.itv.uz/hls/live/t/GDO352oM47A5DZTHQ0qY5Q/e/1764575764/1216/index.m3u8?ip=213.183.48.195
-#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2021/11/03//5a52a0580d30e504a5dbf424962bed82-q-500x500.jpeg", MY5 HD
-https://iptv.itv.uz/hls/live/t/GIa89vNymwK00Oybg7g7WA/e/1764575764/1012/index.m3u8?ip=213.183.48.195
-#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2021/11/03//2675cdc82b452ba3267237a976d173fc-q-500x500.jpeg", MY5 SD
-https://iptv.itv.uz/hls/live/t/r1PUcr48MbHfhAh7LW5RXg/e/1764575765/1217/index.m3u8?ip=213.183.48.195
-#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2024/01/24//4a4b31ebb4248789549263ad774c2c61-q-500x500.jpeg", Renessans TV
-https://iptv.itv.uz/hls/live/t/BB-qZg8PwG9OPy1wv5eJig/e/1764575765/1221/index.m3u8?ip=213.183.48.195
-#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2021/04/26//d130432ae16fe60b68f22d3874a4493d-q-500x500.jpeg", DasturxonTV
-https://iptv.itv.uz/hls/live/t/xhqWm1m52TA67T9gxuLm0w/e/1764575765/1206/index.m3u8?ip=213.183.48.195
-#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2020/06/17//6184bdb718f893d4c4480ed8db4aeaa3-q-500x500.jpeg", Bolajon
-https://iptv.itv.uz/hls/live/t/sWb0_wVY70qkHFYzuaJ1Bg/e/1764575765/1007/index.m3u8?ip=213.183.48.195
-#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2021/03/23//bc4fba2dcb3166bd9aaa3d73229f6ef0-q-500x500.jpeg", Aqlvoy
-https://iptv.itv.uz/hls/live/t/5e96iI0PrJrg_tNqN3hvaw/e/1764575765/1205/index.m3u8?ip=213.183.48.195
-#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2022/08/23//2b3a36d6b5ad122598ce23f472f908ce-q-500x500.jpeg", Navo
-https://iptv.itv.uz/hls/live/t/tP8aXwOPaqxBCPj54aV0fg/e/1764575765/1008/index.m3u8?ip=213.183.48.195
-#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2023/05/31//95737b9a2b913a6fadf576f61933a635-q-500x500.jpeg", Madaniyat va Marifat
-https://iptv.itv.uz/hls/live/t/jqGTIqn-T9O2kzyQrJzZdQ/e/1764575766/1005/index.m3u8?ip=213.183.48.195
-#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2023/05/31//27e8188e91570f9ccf5c29121c183e6a-q-500x500.jpeg", Mahalla
-https://iptv.itv.uz/hls/live/t/6ACaCLb5wjCsuJGl7nvqDw/e/1764575766/1013/index.m3u8?ip=213.183.48.195
-#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2020/06/17//d2e38ec0058f9c217b4c77c88f81404e-q-500x500.jpeg", Kinoteatr HD
-https://iptv.itv.uz/hls/live/t/lSqr0IZSckB7qbx_Z3mYWw/e/1764575766/1009/index.m3u8?ip=213.183.48.195
-#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2020/06/17//58b2e970ecde5f03f461b8fe59550fac-q-500x500.jpeg", O'zbekiston tarixi FHD
-https://iptv.itv.uz/hls/live/t/wNRxgjFb6jOvYfXUPjp2oQ/e/1764575766/1209/index.m3u8?ip=213.183.48.195
-#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2020/06/17//622d1ccb45505a6a0c4a5b231a1664eb-q-500x500.jpeg", Dunyo bo`ylab
-https://iptv.itv.uz/hls/live/t/KkXSLgCX89UBeQIaE1CIRA/e/1764575766/1006/index.m3u8?ip=213.183.48.195
-#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2020/06/17//6f5be573ae591540e132f03c6dd242a5-q-500x500.jpeg", Uzreport HD
-https://iptv.itv.uz/hls/live/t/HknWt5fHX6re5FNUCMo_PQ/e/1764575767/1015/index.m3u8?ip=213.183.48.195
-#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2024/08/19//ae399dbe120262ce79931f6f22e84ba4-q-500x500.jpeg", Taraqqiyot TV
-https://iptv.itv.uz/hls/live/t/HiDjNKP--WjNvA0bEwjUjw/e/1764575767/1204/index.m3u8?ip=213.183.48.195
-#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2023/06/02//d1498a17fd6850c0e7404e9487353cfc-q-500x500.jpeg", Gold Television
-https://iptv.itv.uz/hls/live/t/vDLRz8dRM0wFekC9HIyLBQ/e/1764575767/4007/index.m3u8?ip=213.183.48.195
-#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2022/03/31//01111699cb98bd366b6fd444ed741801-q-500x500.jpeg", Ruxsor TV
-https://iptv.itv.uz/hls/live/t/bLw1zoGal8cKaSuBv6iKtQ/e/1764575767/4008/index.m3u8?ip=213.183.48.195
-#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2022/01/22//4a58120210414aef66c88ca130dd3650-q-500x500.jpeg", Nurafshon TV
-https://iptv.itv.uz/hls/live/t/qHSFP8lcVhzqtzeUPSuQkg/e/1764575767/1220/index.m3u8?ip=213.183.48.195
-#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2024/04/20//a413e4713cb517535bb72e3adddfe943-q-500x500.jpeg", Fergana MTRK
-https://iptv.itv.uz/hls/live/t/X5OIjeidUj6Ck-A2_w2EuA/e/1764575767/1458/index.m3u8?ip=213.183.48.195
-#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2024/04/20//7503745371fe9a9778c7111458c5d43e-q-500x500.jpeg", Xorazm MTRK
-https://iptv.itv.uz/hls/live/t/OvAv9KJQORD31Z4yFnZDbQ/e/1764575768/1464/index.m3u8?ip=213.183.48.195
-#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2024/07/10//36d91922645f095fde22cb2b836715be-q-500x500.jpeg", Vodiy TV
-https://iptv.itv.uz/hls/live/t/q7Se8dOiHadZaroZeft3kg/e/1764575768/4012/index.m3u8?ip=213.183.48.195
-#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2024/07/23//8707395e931d3bb2ce18579a995d16a7-q-500x500.jpeg", Shifo TV
-https://iptv.itv.uz/hls/live/t/d9UFeU0ez9ppz0KWCDmaqw/e/1764575768/1469/index.m3u8?ip=213.183.48.195
-#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2024/07/23//d20bd7900e47c133b4fe42afaff686de-q-500x500.jpeg", Mimi TV
-https://iptv.itv.uz/hls/live/t/9hll_KK_VsK5XUtEknotkQ/e/1764575768/1470/index.m3u8?ip=213.183.48.195
-#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2024/10/16//17af904b28e714551e8396fcc077e11a-q-500x500.jpeg", TTV
-https://iptv.itv.uz/hls/live/t/NHZdt4DphUunrCea-kTyug/e/1764575768/1494/index.m3u8?ip=213.183.48.195
-#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2024/10/18//9421425ce5dc3385aac7fd42c2273223-q-500x500.jpeg", TTV Kino
-https://iptv.itv.uz/hls/live/t/LGq9tnzbrKsqg_iD-0nMZA/e/1764575768/1486/index.m3u8?ip=213.183.48.195
-#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2024/10/18//4d3cca95cc849ef5cb15e9a397316622-q-500x500.jpeg", TTV Musiqa
-https://iptv.itv.uz/hls/live/t/onJiwWf33qPeudcxcpbjPA/e/1764575769/1485/index.m3u8?ip=213.183.48.195
-#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2024/10/15//75b4b090cb1f5663d7eb0373c1fb1a80-q-500x500.jpeg", Jizzax TV
-https://iptv.itv.uz/hls/live/t/iAe7Ooa2pj1SIjUCNGmupQ/e/1764575769/1488/index.m3u8?ip=213.183.48.195
-#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2024/10/15//e4a7c541ecae647033f9a2248b87fb6b-q-500x500.jpeg", ishonch TV
-https://iptv.itv.uz/hls/live/t/XZvCct8jEnREaP3KtEo_ig/e/1764575769/1489/index.m3u8?ip=213.183.48.195
-#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2024/10/16//5e1500c4d1b9595a50ad350cee8cd647-q-500x500.jpeg", Ellikqala TV
-https://iptv.itv.uz/hls/live/t/Hu5Rp_4TNsoHYlN4mvA3vA/e/1764575769/1495/index.m3u8?ip=213.183.48.195
-#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2024/10/16//486ab75fe90f29227f3d114adf7ff3e7-q-500x500.jpeg", 8TV
-https://iptv.itv.uz/hls/live/t/zNbA_xZgU51ZrPT5p2uGMw/e/1764575769/1496/index.m3u8?ip=213.183.48.195
-#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2024/10/16//bffc77f6b96e90ba72634340afe2d28f-q-500x500.jpeg", Amudaryo TV
-https://iptv.itv.uz/hls/live/t/eDuOYd2M19pRnKPnurbu6A/e/1764575770/1491/index.m3u8?ip=213.183.48.195
-#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2024/10/30//4a675cfc1ca9fc523519e8154c67f3a4-q-500x500.jpeg", Nasaf TV
-https://iptv.itv.uz/hls/live/t/RoIubxYzXiTh-0nM0zEWVQ/e/1764575770/1492/index.m3u8?ip=213.183.48.195
-#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2024/10/17//1f68774291aa8afc63a9696929ffbbee-q-500x500.jpeg", Jaslar TV
-https://iptv.itv.uz/hls/live/t/UHI0L-7ZEOhOL-H_oba_pQ/e/1764575770/1490/index.m3u8?ip=213.183.48.195
-#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2024/10/17//c32cb89a20def5498dac66a7a6923399-q-500x500.jpeg", Muloqot TV
-https://iptv.itv.uz/hls/live/t/7ZIzTYGfor3hcS-Ut5fJJQ/e/1764575770/1285/index.m3u8?ip=213.183.48.195
-#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2024/08/22//42581c5407b1ecfcc533a153c0d3dc19-q-500x500.jpeg", LiveTV
-https://iptv.itv.uz/hls/live/t/fqRvE1qBUPWqOP1-tqoYLw/e/1764575770/1475/index.m3u8?ip=213.183.48.195
-#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2024/12/18//e6505a1ed9a0e61a67aa3e7afeb52167-q-500x500.jpeg", MakonTV HD
-https://iptv.itv.uz/hls/live/t/CxiZ1kWmi3tnKdLLerjFXg/e/1764575771/1497/index.m3u8?ip=213.183.48.195
-#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2025/03/25//2930662a99d6931a690adbfe650f5e49-q-500x500.jpeg", Denov TV
-https://iptv.itv.uz/hls/live/t/QuChZYeGMq6jkQNUWBwcSw/e/1764575771/1499/index.m3u8?ip=213.183.48.195
-#EXTINF:-1 group-title="Rutube (🌟🌟🌟)",Rutube TV
-https://bl.rutube.ru/livestream/9ae8e8a6dc58bdad66190475f9872ecd/index.m3u8?s=kMaNaXQQvhQCP2MkxBaJ_Q&e=1764575771&scheme=https
-#EXTINF:-1 group-title="Rutube (🌟🌟🌟)",Первый канал HD
-https://bl.rutube.ru/livestream/c58f502c7bb34a8fcdd976b221fca292/index.m3u8?s=dzw-UTqYJy4MdjhvM8QHRQ&e=1764575772&scheme=https
-#EXTINF:-1 group-title="Rutube (🌟🌟🌟)",НТВ HD
-https://bl.rutube.ru/livestream/c37cd74192c6bc3d6cd6077c0c4fd686/index.m3u8?s=-SwrEbnurQZ7cgU6nkNE0g&e=1764575772&scheme=https
-#EXTINF:-1 group-title="Rutube (🌟🌟🌟)",ТНТ HD
-https://bl.rutube.ru/livestream/546602986e6a424d74d594876ddb3f04/index.m3u8?s=JtAUeGoXBu0f_dTHmBv79w&e=1764575772&scheme=https
-#EXTINF:-1 group-title="Rutube (🌟🌟🌟)",ТНТ4 HD
-https://bl.rutube.ru/livestream/c801a7087e29a097192d74c270fbc6c1/index.m3u8?s=kK8bXzky-gLCoz2lKTvfsw&e=1764575773&scheme=https
-#EXTINF:-1 group-title="Rutube (🌟🌟🌟)",Пятница HD
-https://bl.rutube.ru/livestream/9f87a9a0cecbe773be6fddcbd93585ac/index.m3u8?s=y_QhnOgDziH253mQOv8zbw&e=1764575774&scheme=https
-#EXTINF:-1 group-title="Rutube (🌟🌟🌟)",ТВ3 HD
-https://bl.rutube.ru/livestream/7bf12d9c050f9a7ef3728db5730432ae/index.m3u8?s=Z94rbrZlf68KvpE-YcBSGA&e=1764575775&scheme=https
-#EXTINF:-1 group-title="Rutube (🌟🌟🌟)",2x2
-https://bl.rutube.ru/livestream/392b4686b770bae2da6bf5ac4574add5/index.m3u8?s=zFSs3MszGqkdPiGrOys0ag&e=1764575776&scheme=https
-#EXTINF:-1 group-title="Rutube (🌟🌟🌟)",Суббота
-https://bl.rutube.ru/livestream/310744c10a5809da38aa445c952976da/index.m3u8?s=wuSAgObgZeg5EYybjn4kZQ&e=1764575777&scheme=https
-#EXTINF:-1 group-title="Rutube (🌟🌟🌟)",Ю
-https://bl.rutube.ru/livestream/5c9327074e25ca86f3111d4085cbbb65/index.m3u8?s=KIh75ZCXb1d5SwtSFgeTxg&e=1764575777&scheme=https
-#EXTINF:-1 group-title="Rutube (🌟🌟🌟)",Большая азия
-https://bl.rutube.ru/livestream/495ab964b755baa2c9fc7481a2e40f7d/index.m3u8?s=PbH2WeFXKWJJobPF55TWBg&e=1764575777&scheme=https
-#EXTINF:-1 group-title="Rutube (🌟🌟🌟)",Охотник и рыболов
-https://bl.rutube.ru/livestream/1da5d92af8c55b16241f1eb12a27f00c/index.m3u8?s=qpZUnuewWUBUymbhzxnXlw&e=1764575778&scheme=https
-#EXTINF:-1 group-title="Rutube (🌟🌟🌟)",Загородный International
-https://bl.rutube.ru/livestream/406973c72e9d0449feef05ef7811ad01/index.m3u8?s=E29sauK4JNzIVswSyaprqA&e=1764575778&scheme=https
-#EXTINF:-1 group-title="Rutube (🌟🌟🌟)",Тайна
-https://bl.rutube.ru/livestream/a11c890a0ec0730ad33bdaaf2d244e1a/index.m3u8?s=uemkbfHCAzUIBkxlAeQKkA&e=1764575779&scheme=https
-#EXTINF:-1 group-title="Rutube (🌟🌟🌟)",Киножелезо
-https://bl.rutube.ru/livestream/4965b7b928c4a143d708ab424be01d37/index.m3u8?s=evRcxph7RgEa1FNRnpQpYg&e=1764575779&scheme=https
-#EXTINF:-1 group-title="Rutube (🌟🌟🌟)",Кинолаффка
-https://bl.rutube.ru/livestream/3b7d1499da9396462bfd17282d758d30/index.m3u8?s=a8UVRX2VzF-LITIxqqIdtA&e=1764575780&scheme=https
-#EXTINF:-1 group-title="Rutube (🌟🌟🌟)",Mr.Bean Cartoon
-https://bl.rutube.ru/livestream/0e9e44725d5d5ab7ee92c10b40215419/index.m3u8?s=AIUH86he5JmfO-8Rc8nXMA&e=1764575780&scheme=https
-#EXTINF:-1 group-title="Rutube (🌟🌟🌟)",HHQ
-https://bl.rutube.ru/livestream/2d7fa51716500fba52586d594201777f/index.m3u8?s=oTEBFeYLBNimxrLLY7NE5w&e=1764575780&scheme=https
-#EXTINF:-1 group-title="Rutube (🌟🌟🌟)",Буряад ТВ
-https://bl.rutube.ru/livestream/55fec7f2c11f4decc66568fca39f26b2/index.m3u8?s=jZOzifax8ncl72xnXptjgw&e=1764575781&scheme=https
-#EXTINF:-1 group-title="Rutube (🌟🌟🌟)",GLN24-Геленджик
-https://bl.rutube.ru/livestream/64ab8f32ecf1e2f582110165bf55b60a/index.m3u8?s=QNCVFPiWB0wI_MaqZiWi5w&e=1764575781&scheme=https
-#EXTINF:-1 group-title="Rutube (🌟🌟🌟)",ОТС HD
-https://bl.rutube.ru/livestream/39c5bfe012402990e6402eded8bdc761/index.m3u8?s=JRcmXxiLqNgZonAoZaogQg&e=1764575782&scheme=https
-#EXTINF:-1 group-title="Rutube (🌟🌟🌟)",Сургут 86 FHD
-https://bl.rutube.ru/livestream/813dc0c5a944559e7e52b840d09a84f6/index.m3u8?s=q8tvLci5ZYYhnbWiFPXYKw&e=1764575782&scheme=https
-#EXTINF:-1 group-title="Rutube (🌟🌟🌟)",Сургут 1 FHD
-https://bl.rutube.ru/livestream/7a35d5186515db85144d86900ebe1daf/index.m3u8?s=iGW6aQ4fwjRbF3MtnsfSlA&e=1764575782&scheme=https
-#EXTINF:-1 group-title="Rutube (🌟🌟🌟)",Барс
-https://bl.rutube.ru/livestream/f79ff24ad16cf5f5eb52994647596d13/index.m3u8?s=X2c_MLOHauBY92_kLDyZEg&e=1764575783&scheme=https
-#EXTINF:-1 group-title="Rutube (🌟🌟🌟)",БелРос
-https://bl.rutube.ru/livestream/46c03b7f1a7255326900f4a60a9b44e0/index.m3u8?s=x_2IKYrz1QNM33s_SAEWxw&e=1764575783&scheme=https
-#EXTINF:-1 group-title="Rutube (🌟🌟🌟)",РБК
-https://bl.rutube.ru/livestream/75957f55ed1e9b4e0ec00f8dd9594fcc/index.m3u8?s=RD5Jlzl31LNQjtT89tvzfQ&e=1764575784&scheme=https
-#EXTINF:-1 group-title="Rutube (🌟🌟🌟)",Звезда
-https://bl.rutube.ru/livestream/5ab908fccfac5bb43ef2b1e4182256b0/index.m3u8?s=AtB5-sGUPg5vLHBKHa33wQ&e=1764575784&scheme=https
-#EXTINF:-1 group-title="Rutube (🌟🌟🌟)",Волга
-https://bl.rutube.ru/livestream/bed2dcda74004e4e9a61966d2848c027/index.m3u8?s=BqIEZ2_OcHjD6-54jgr7Cw&e=1764575784&scheme=https
-#EXTINF:-1 group-title="Rutube (🌟🌟🌟)",Волга 24
-https://bl.rutube.ru/livestream/e30732c0045af997cb7312822534522f/index.m3u8?s=22uPhW9iPK2BgsW44wy5Sw&e=1764575785&scheme=https
-#EXTINF:-1 group-title="Rutube (🌟🌟🌟)",Башкортостан 24
-https://bl.rutube.ru/livestream/cf7e6ad2c24ce743b5b60478c176037b/index.m3u8?s=C3rqWM2gShKUwYl88X4eqA&e=1764575785&scheme=https
-#EXTINF:-1 group-title="Rutube (🌟🌟🌟)",Абакан 24
-https://bl.rutube.ru/livestream/7c5ae60686a94e04691f6917e1dec066/index.m3u8?s=AxvAs82psI_r4t5aQ1iotg&e=1764575786&scheme=https
-#EXTINF:-1 group-title="Rutube (🌟🌟🌟)",Кавказ 24
-https://bl.rutube.ru/livestream/eff9b98140a0e43fec3d6829bca0f8cf/index.m3u8?s=hA4jTDYc-wj8jgW2S4IT0Q&e=1764575786&scheme=https
-#EXTINF:-1 group-title="Rutube (🌟🌟🌟)",Кубань 24
-https://bl.rutube.ru/livestream/cb2f1d99b88c9b4d38df05cd7fa0a6c2/index.m3u8?s=dITzaOrVjz_ouZsHq4heGA&e=1764575786&scheme=https
-#EXTINF:-1 group-title="Rutube (🌟🌟🌟)",Саратов 24
-https://bl.rutube.ru/livestream/e07fffc5eb21f98a5ade09e825d7095a/index.m3u8?s=nzw8ie-WX8uDMYd2-zoq6g&e=1764575787&scheme=https
-#EXTINF:-1 group-title="Rutube (🌟🌟🌟)",Липецк 24
-https://bl.rutube.ru/livestream/b04fc212802bbf7ec94768c029e54aa9/index.m3u8?s=FfAzOSWfmwsjE8TGRjCLiw&e=1764575787&scheme=https
-#EXTINF:-1 group-title="Rutube (🌟🌟🌟)",Ариг Ус 24
-https://bl.rutube.ru/livestream/5d9273a93631b87a3bbdc883bb3a58cb/index.m3u8?s=1iq8FnD9ec5IZsddlgUc2w&e=1764575788&scheme=https
-#EXTINF:-1 group-title="Rutube (🌟🌟🌟)",ДОН 24
-https://bl.rutube.ru/livestream/72ced5d533f940251e5e4bd5d61f6bc9/index.m3u8?s=4Zv73X41jlJM5A-CNGQUuQ&e=1764575788&scheme=https
-#EXTINF:-1 group-title="Rutube (🌟🌟🌟)",Мордовия 24
-https://bl.rutube.ru/livestream/04106d67b7888cda01b0ffa5e7ef757b/index.m3u8?s=ufUETkh-dfHplD7R-dy5tQ&e=1764575789&scheme=https
-#EXTINF:-1 group-title="Rutube (🌟🌟🌟)",АРИС 24
-https://bl.rutube.ru/livestream/9b482361d6c845f7d70eafc98356d8bf/index.m3u8?s=BkiZFqBJeR7PY3asG5IKhQ&e=1764575789&scheme=https
-#EXTINF:-1 group-title="Rutube (🌟🌟🌟)",БСТ
-https://bl.rutube.ru/livestream/2804b7fd1507420dda2e2c81b2b72c8e/index.m3u8?s=VTh8JiMVZrnyik6x7zByfA&e=1764575789&scheme=https
-#EXTINF:-1 group-title="Rutube (🌟🌟🌟)",Катунь 24
-https://bl.rutube.ru/livestream/5e56eba895d87d84749e756720a71e73/index.m3u8?s=gvlnYJD_WR9MOs3vfrSisw&e=1764575790&scheme=https
-#EXTINF:-1 group-title="Rutube (🌟🌟🌟)",ВЕТТА 24
-https://bl.rutube.ru/livestream/3053eeaecc60e0adef57b81d3498fdd0/index.m3u8?s=UQgrhd38gDB3er18uA93zg&e=1764575790&scheme=https
-#EXTINF:-1 group-title="Rutube (🌟🌟🌟)",Мир 24
-https://bl.rutube.ru/livestream/43269ba8fb179e298b1e497f557e8d2d/index.m3u8?s=mWkKatnBKyLMAEMHYveoCw&e=1764575792&scheme=https
-#EXTINF:-1 group-title="Rutube (🌟🌟🌟)",Липецкое время
-https://bl.rutube.ru/livestream/23afd7debed1cfc7a8efa0827c24d836/index.m3u8?s=a6vIoaHXbb9HHAA9gPD5mw&e=1764575792&scheme=https
-#EXTINF:-1 group-title="Rutube (🌟🌟🌟)",Мир
-https://bl.rutube.ru/livestream/afef67d151b5a607dee1ef0aa299a52c/index.m3u8?s=oH-jBB6D0wcUelp2_-jgrw&e=1764575793&scheme=https
-#EXTINF:-1 group-title="Rutube (🌟🌟🌟)",Рифей-ТВ
-https://bl.rutube.ru/livestream/57486bf8e1c01d16a5a939c463867fab/index.m3u8?s=RDFJmfydcbj0cJz5-yoRGg&e=1764575793&scheme=https
-#EXTINF:-1 group-title="Rutube (🌟🌟🌟)",КРИК-ТВ
-https://bl.rutube.ru/livestream/f372aa2aff09518d050ecdf70956012c/index.m3u8?s=FJ1PEz84s5o36zLKBBfjEg&e=1764575794&scheme=https
-#EXTINF:-1 group-title="Rutube (🌟🌟🌟)",Своё ТВ FHD
-https://bl.rutube.ru/livestream/1932f750f00f3a742a1d90c62d0076ad/index.m3u8?s=2a3qPDgNwU9sxMJBis2GyQ&e=1764575794&scheme=https
-#EXTINF:-1 group-title="Rutube (🌟🌟🌟)",НЖК
-https://bl.rutube.ru/livestream/5f378f373c88dcebd6549bb0c84d623f/index.m3u8?s=MVurOea_iVAc4h5dxZQkRg&e=1764575795&scheme=https
-#EXTINF:-1 group-title="Rutube (🌟🌟🌟)",Импульс Севера
-https://bl.rutube.ru/livestream/342a3e4f3c9bb0d7830a52af0d956c44/index.m3u8?s=51tZ6PWdAdZM1tpwwV_ahw&e=1764575795&scheme=https
-#EXTINF:-1 group-title="Rutube (🌟🌟🌟)",САМОТЛОР
-https://bl.rutube.ru/livestream/695f0fdefc96b6f7f2b4a311b71f596b/index.m3u8?s=Y5sfVMWXrTP2ZotZ3yJ1Sw&e=1764575795&scheme=https
-#EXTINF:-1 group-title="Rutube (🌟🌟🌟)",НТС Иркутск
-https://bl.rutube.ru/livestream/b4c501ea4129408a3c195f9ae4359c0e/index.m3u8?s=GDkolQs0-QVxDFwn3GBD3w&e=1764575796&scheme=https
-#EXTINF:-1 group-title="Rutube (🌟🌟🌟)",Евразия
-https://bl.rutube.ru/livestream/ce34005d3db841e15eecb7e31749adf6/index.m3u8?s=e1QBwEa2ggr-TOPFEc636A&e=1764575796&scheme=https
-#EXTINF:-1 group-title="Rutube (🌟🌟🌟)",ТОЛК
-https://bl.rutube.ru/livestream/0115cdc35fb5234242a89de98137dca9/index.m3u8?s=AVldir8wp-8W10Eze45m8Q&e=1764575797&scheme=https
-#EXTINF:-1 group-title="Rutube (🌟🌟🌟)",ННТВ
-https://bl.rutube.ru/livestream/333f94ef9af118c0ac51006243053e07/index.m3u8?s=vywg5iu_DPvdAG2WZPACJw&e=1764575797&scheme=https
-#EXTINF:-1 group-title="Rutube (🌟🌟🌟)",МТВ Волгоград
-https://bl.rutube.ru/livestream/1839496ed8242ed47f5c540e25d4ba3f/index.m3u8?s=6HzHuOsnFIvQcq57x7NuyQ&e=1764575798&scheme=https
-#EXTINF:-1 group-title="Rutube (🌟🌟🌟)",Енисей +4 (Орион)
-https://bl.rutube.ru/livestream/5835cd10c04311e400f2ed19b1b2fe8b/index.m3u8?s=bSWk5vJDyW-SklI5jaLsDw&e=1764575798&scheme=https
-#EXTINF:-1 group-title="Rutube (🌟🌟🌟)",Юрган
-https://bl.rutube.ru/livestream/601ca3d760de90391c18772e43d5190e/index.m3u8?s=6dSeXkUwGmbnBU54SLMATw&e=1764575798&scheme=https
-#EXTINF:-1 group-title="Rutube (🌟🌟🌟)",Царьград
-https://bl.rutube.ru/livestream/91815da4edb167b5bd617bae490e57da/index.m3u8?s=ZATnvslLSTlrENFEIWQi4g&e=1764575799&scheme=https
-#EXTINF:-1 group-title="Rutube (🌟🌟🌟)",ОмскТВ
-https://bl.rutube.ru/livestream/9927a61345cbec5aac6558f6c5454d61/index.m3u8?s=1qIuQm32GU9w997VUAlgig&e=1764575799&scheme=https
-#EXTINF:-1 group-title="Rutube (🌟🌟🌟)",ТБВ
-https://bl.rutube.ru/livestream/68b2533a29f7de163842baf1b9dfc17e/index.m3u8?s=Gxof2ENdj9JYjzgZ3FdNKA&e=1764575800&scheme=https
-#EXTINF:-1 group-title="Rutube (🌟🌟🌟)",Ямал-Медиа
-https://bl.rutube.ru/livestream/c0de1d61969a7fbdf6c68ca0b8a67769/index.m3u8?s=a9RQJB0BGfRnYRc8j25Ptw&e=1764575800&scheme=https
-#EXTINF:-1 group-title="Rutube (🌟🌟🌟)",БТВ
-https://bl.rutube.ru/livestream/671239d68ada3000a154a68efa0c7813/index.m3u8?s=fzWuuV-sw0BptBb4qs83aQ&e=1764575800&scheme=https
-#EXTINF:-1 group-title="Rutube (🌟🌟🌟)",UNIVER TV
-https://bl.rutube.ru/livestream/2372550cb9fd4b970a274ebec6c71839/index.m3u8?s=6-vAhr4uYNUKYpRooGtf0g&e=1764575801&scheme=https
-#EXTINF:-1 group-title="Rutube (🌟🌟🌟)",Магас
-https://bl.rutube.ru/livestream/15bb032337c7425983757d211713eb7d/index.m3u8?s=1Q-d0ASL8x5aDWCAVyqg4Q&e=1764575801&scheme=https
-#EXTINF:-1 group-title="Rutube (🌟🌟🌟)",Первый Ярославский
-https://bl.rutube.ru/livestream/b7d879feefadde4e04e516dde89012cd/index.m3u8?s=bVHEYDyOnjFBJ1eWfFEAVA&e=1764575802&scheme=https
-#EXTINF:-1 group-title="Rutube (🌟🌟🌟)",Первый крымский
-https://bl.rutube.ru/livestream/3bbbfe178e58ca0830a701e0624f20d8/index.m3u8?s=scnPajomev405159oMVbcw&e=1764575802&scheme=https
-#EXTINF:-1 group-title="Rutube (🌟🌟🌟)",Первый Тульский
-https://bl.rutube.ru/livestream/8bdbf725a882473a1e558d00a882cf03/index.m3u8?s=zpjpfJygulsi-CLi33ZUKA&e=1764575803&scheme=https
-#EXTINF:-1 group-title="Rutube (🌟🌟🌟)",ОТР
-https://bl.rutube.ru/livestream/faa934385b83f9e8a92f5484defae5fa/index.m3u8?s=vprCgJBPwpz51Enejf0eQQ&e=1764575803&scheme=https
-#EXTINF:-1 group-title="Rutube (🌟🌟🌟)",Истоки Орёл
-https://bl.rutube.ru/livestream/503a8ac5ca6d738f05a147764f70215b/index.m3u8?s=MR6tkIDTGimoq8QTfVJD8A&e=1764575803&scheme=https
-#EXTINF:-1 group-title="Rutube (🌟🌟🌟)",Канал 12
-https://bl.rutube.ru/livestream/7d6d8c8fc5c6e02d9c0b78eb451f3bd0/index.m3u8?s=Q8Wh0z2tYlD-TXM73iFH-Q&e=1764575804&scheme=https
-#EXTINF:-1 group-title="Rutube (🌟🌟🌟)",41 РЕГИОН
-https://bl.rutube.ru/livestream/aff0a2b356d2e1eef55bdb868be4dcc3/index.m3u8?s=EcO8f-ZBCFHHr6SmQa8RWw&e=1764575804&scheme=https
-#EXTINF:-1 group-title="Rutube (🌟🌟🌟)",360
-https://bl.rutube.ru/livestream/d14fcf59cb7d07a26c48ebc8c6565f44/index.m3u8?s=iICuZBN1XSm6EwXEbChgIw&e=1764575805&scheme=https
-#EXTINF:-1 group-title="Rutube (🌟🌟🌟)",Прима
-https://bl.rutube.ru/livestream/3fd26103b82508289ef7b7f60c77d9c8/index.m3u8?s=ktEzDim1nN7dibf94_BJNQ&e=1764575805&scheme=https
-#EXTINF:-1 group-title="Rutube (🌟🌟🌟)",10 канал
-https://bl.rutube.ru/livestream/c9e26bf5c003fd8d477200065ca1a05f/index.m3u8?s=-YRjWdIyI8_KoLaXuPIzPg&e=1764575806&scheme=https
-#EXTINF:-1 group-title="Rutube (🌟🌟🌟)",RT Doc
-https://bl.rutube.ru/livestream/d1eb5756f77825451cc9d129bf5607b0/index.m3u8?s=coPBxsnPvChypF8JMh3FOA&e=1764575813&scheme=https
-#EXTINF:-1 group-title="Rutube (🌟🌟🌟)",Спас
-https://bl.rutube.ru/livestream/2bbfa9ebf9d79ade480d7281fcef1008/index.m3u8?s=uqJLorTJSNPwXjBT6IRpPQ&e=1764575814&scheme=https
-#EXTINF:-1 group-title="Rutube (🌟🌟🌟)",Кино и Жизнь
-https://bl.rutube.ru/livestream/09e51eefa939595a4ac67182c6fb3e4e/index.m3u8?s=u5ofSxIKFGdeLcglU1yOUg&e=1764575814&scheme=https
-#EXTINF:-1 group-title="Rutube (🌟🌟🌟)",Резонанс ТВ
-https://bl.rutube.ru/livestream/e2d1a304d55b9a807ec5df1837859304/index.m3u8?s=Np2zO8lU8Dc9nzhLdpgEeg&e=1764575815&scheme=https
-#EXTINF:-1 group-title="Rutube (🌟🌟🌟)",TV Губерния
-https://bl.rutube.ru/livestream/00d3bba0b8dade53fff9a4d07fa9611f/index.m3u8?s=P3KPwfhfrezyYqslqAP6Hw&e=1764575815&scheme=https
-#EXTINF:-1 group-title="Rutube (🌟🌟🌟)",Радость моя
-https://bl.rutube.ru/livestream/9ad2099eed71b4a0e577292c3bfd0708/index.m3u8?s=my1F5t7NogcTNMJrmqQE1Q&e=1764575815&scheme=https
-#EXTINF:-1 group-title="Rutube (🌟🌟🌟)",Смайлик ТВ
-https://bl.rutube.ru/livestream/2f052691c75d72b3ed7f3c33ea956a41/index.m3u8?s=WLLLZRB57y2wCvpSJBkKKA&e=1764575816&scheme=https
-#EXTINF:-1 group-title="Rutube (🌟🌟🌟)",Солнце
-https://bl.rutube.ru/livestream/2dba20a8405e57935827cb5721c2b759/index.m3u8?s=FjeW_WzI8PFdOumsziSlWQ&e=1764575816&scheme=https
-#EXTINF:-1 group-title="Rutube (🌟🌟🌟)",Смотри Радио
-https://bl.rutube.ru/livestream/18eda61a347b781dd765b410133ef33a/index.m3u8?s=BT5mLjOHjja62ixeMrAsng&e=1764575817&scheme=https
-#EXTINF:-1 group-title="Rutube (🌟🌟🌟)",Жар Птица
-https://bl.rutube.ru/livestream/c93be53cba8a4ba6ac311b395a00f4d5/index.m3u8?s=As-jmCFU2BOGz7m2-vwdWw&e=1764575817&scheme=https
-#EXTINF:-1 group-title="Rutube (🌟🌟🌟)",Activa TV
-https://bl.rutube.ru/livestream/8e9da41366fcb497aaeade579f0d715f/index.m3u8?s=4eSqyWs4iwQDciMHkzNDyg&e=1764575817&scheme=https
-#EXTINF:-1 group-title="Rutube (🌟🌟🌟)",МузТВ
-https://bl.rutube.ru/livestream/df6fe73494a26f74da51573fd97b9baa/index.m3u8?s=V7cysHEuDsUqlIGTNX7sFQ&e=1764575818&scheme=https
-#EXTINF:-1 group-title="Rutube (🌟🌟🌟)",ММТВ
-https://bl.rutube.ru/livestream/965a025e4ebbaf0957415f80c6de8534/index.m3u8?s=qpOG3PK4tMziERL-IzDwCQ&e=1764575818&scheme=https
-#EXTINF:-1 group-title="Rutube (🌟🌟🌟)",ТНТ Music
-https://bl.rutube.ru/livestream/f5ba23a0149f409c18168231844e0a3b/index.m3u8?s=AscnaaJOpmRxnlqiIK7esw&e=1764575819&scheme=https
-#EXTINF:-1 group-title="Rutube (🌟🌟🌟)",NOW: Rock
-https://bl.rutube.ru/livestream/047ba54d846ee185b4209a797a2ae138/index.m3u8?s=p8TSFGd6vb90nrybRDbnng&e=1764575819&scheme=https
-#EXTINF:-1 group-title="Rutube (🌟🌟🌟)",Kpop TV
-https://bl.rutube.ru/livestream/2d0e8f000ed430b793d8683db0f1a77f/index.m3u8?s=PcQEcLVIrzH_Qt39xbbzBA&e=1764575820&scheme=https
-#EXTINF:-1 group-title="Rutube (🌟🌟🌟)",Илли ТВ
-https://bl.rutube.ru/livestream/eda2da42eea89951e4135141a30915f7/index.m3u8?s=YrcrcmB9CJ3FS2nh8k8y4w&e=1764575820&scheme=https
-#EXTINF:-1 group-title="Rutube (🌟🌟🌟)",Восток ТВ
-https://bl.rutube.ru/livestream/da7bcfc0c302a2f0a46f030c9ef8a02b/index.m3u8?s=hkRAvhcaLv9VkAyr228E3A&e=1764575821&scheme=https
-#EXTINF:-1 group-title="Rutube (🌟🌟🌟)",МузСоюз
-https://bl.rutube.ru/livestream/d1dff14680d4c84e27908983375f7e89/index.m3u8?s=jzvlTkZpHEtyiNMxwNG3tA&e=1764575821&scheme=https
-#EXTINF:-1 group-title="Rutube (🌟🌟🌟)",Deluxe Dance
-https://bl.rutube.ru/livestream/47fdffd6ab82bbab0a19039d7018839f/index.m3u8?s=9dPXwFIt2Afvp_jrAXXuaA&e=1764575826&scheme=https
-#EXTINF:-1 group-title="Rutube (🌟🌟🌟)",Record Супердискотека 90х
-https://bl.rutube.ru/livestream/351f0e84a7db69a73658bbf61debcf62/index.m3u8?s=3PonntiKbv8LgsAPSiFX-w&e=1764575826&scheme=https
-#EXTINF:-1 group-title="Rutube (🌟🌟🌟)",Record Russian Hits
-https://bl.rutube.ru/livestream/b5f4e1d43e11888455a0a66f0872e77b/index.m3u8?s=JwgUoVS1GV66Jv9d0ttmAw&e=1764575827&scheme=https
-#EXTINF:-1 group-title="Rutube (🌟🌟🌟)",Record Megamix
-https://bl.rutube.ru/livestream/60b73481dcc9880850f22690142c8d17/index.m3u8?s=Ms_xhG5Bsa9vZVLQOSAcNg&e=1764575827&scheme=https
-#EXTINF:-1 group-title="Rutube (🌟🌟🌟)",Record Trance
-https://bl.rutube.ru/livestream/26aeb9043f519687846255556ee891aa/index.m3u8?s=q_v619o0Wzf2lPb0X7bfwg&e=1764575827&scheme=https
-#EXTINF:-1 group-title="Rutube (🌟🌟🌟)",VIVA Russia HD
-https://bl.rutube.ru/livestream/f712ae5ff3db23ec09b3674133d44daa/index.m3u8?s=aBg8AVYwxRHndU_3UG-6bQ&e=1764575828&scheme=https
-#EXTINF:-1 group-title="Rutube (🌟🌟🌟)",Матч ТВ HD
-https://bl.rutube.ru/livestream/11bbbec75a2ceb8cf446ad16813c6eec/index.m3u8?s=D9tFfWVwxGaT96Vj_eiNHg&e=1764575828&scheme=https
-#EXTINF:-1 group-title="Rutube (🌟🌟🌟)",beIN SPORTS XTRA Español
-https://bl.rutube.ru/livestream/05550e441b09aeec53e60de66b6c47bf/index.m3u8?s=U5WPl2ilqHPx0kQkOGl2qA&e=1764575829&scheme=https
-#EXTINF:-1 group-title="Rutube (🌟🌟🌟)",Billiard TV
-https://bl.rutube.ru/livestream/efd143d2f5ea5d00eb3c19230bed3dc6/index.m3u8?s=2Kkf6_Xi2krYWJhRqKzNIA&e=1764575829&scheme=https
-#EXTINF:-1 group-title="Rutube (🌟🌟🌟)",Волейбол
-https://bl.rutube.ru/livestream/cc1b56aa4955a144f324ad58998513bb/index.m3u8?s=_mF6wsPOzvxRt-qmuda_pw&e=1764575830&scheme=https
-#EXTINF:-1 group-title="Rutube (🌟🌟🌟)",Red Bull TV
-https://bl.rutube.ru/livestream/45b30eef1b89857182b03db2c25631d9/index.m3u8?s=l26thTm7JZhdHwUjO_zvIw&e=1764575831&scheme=https
-#EXTINF:-1 group-title="Rutube (🌟🌟🌟)",Unbeaten
-https://bl.rutube.ru/livestream/efc2833169ec20a3ea61197714bea6ab/index.m3u8?s=t4fdcaPESLoqw6amnmIjuw&e=1764575832&scheme=https
-#EXTINF:-1 group-title="Rutube (🌟🌟🌟)",Sports Grid
-https://bl.rutube.ru/livestream/afc3073ec3efc6cb70c88ce6acaf4344/index.m3u8?s=AGHmyzv3eY12Dy-xXh7zOQ&e=1764575832&scheme=https
-#EXTINF:-1 group-title="Rutube (🌟🌟🌟)",TVS Classic Sports
-https://bl.rutube.ru/livestream/9f28acb802549828d3ce7fbd8ecc17d3/index.m3u8?s=A163FkE5iEOQsYfb90Imwg&e=1764575833&scheme=https
-#EXTINF:-1 group-title="Rutube (🌟🌟🌟)",Dubai Sports 2
-https://bl.rutube.ru/livestream/9d751116af89fd3a94b79927de49699b/index.m3u8?s=tsK50mamuVH5s-npnuPtmw&e=1764575833&scheme=https
-#EXTINF:-1 group-title="Rutube (🌟🌟🌟)",Lax Sports Network
-https://bl.rutube.ru/livestream/e1f44e12c1a91dc164828923dee24ae0/index.m3u8?s=XWqWbslDcAo4CqKTP-RjnA&e=1764575834&scheme=https
-#EXTINF:-1 group-title="Rutube (🌟🌟🌟)",ESPN
-https://bl.rutube.ru/livestream/eac1e371fbb6ab680d0176d472c04089/index.m3u8?s=0lnjKh_sBjt_bAZcEwJdRA&e=1764575834&scheme=https
-
-
-
 
 
 
@@ -16928,13 +16607,6 @@ http://4.59.210.197:8815/udp/127.0.0.1:6003
 #EXTINF:-1 tvg-id="ntv-mir" tvg-logo="https://iptvx.one/picons/ntv-mir.png" group-title="Эфирные 🖥️",НТВ-Мир
 https://streaming.thestream.cyou/live/213.m3u8
 
-#EXTINF:-1 tvg-id="moldova-1" tvg-logo="https://epg.iptvx.one/picons/moldova-1.png" group-title="Moldova",Moldova 1
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/gPMlDCP.png" group-title="Moldova",Moldova TV
-http://89.38.8.130:39435
-#EXTINF:-1 tvg-id="cinema1-md" tvg-logo="https://epg.iptvx.one/picons/cinema1-md.png" group-title="Moldova",Cinema 1 MD
-
-
 
 #EXTINF:-1 tvg-id="pervy-info-by" tvg-logo="https://iptvx.one/picons/pervy-info-by.png" group-title="Эфирные 🖥️",Первый информационный
 https://ngtrk.dc.beltelecom.by/ngtrk/smil:informacionnyy.smil/playlist.m3u8
@@ -17318,7 +16990,7 @@ EXTINF:-1 tvg-id="blokbaster-hd" tvg-logo="https://iptvx.one/picons/blokbaster.p
 
 #EXTINF:-1 tvg-id="avto24" tvg-logo="http://epg.it999.ru/img2/2008.png" group-title="Хобби 🎳",АВТО 24
 http://192.162.64.99:5000/play/a01o/index.m3u8
-#EXTINF:-1 tvg-id="avto-plus" tvg-logo="https://iptvx.one/picons/avto-plus.png" group-title="Досуг,Авто Плюс
+#EXTINF:-1 tvg-id="avto-plus" tvg-logo="https://iptvx.one/picons/avto-plus.png" group-title="Хобби 🎳",Авто Плюс
 http://46.8.46.14/avtoplus/index.m3u8
 #EXTINF:-1 tvg-id="bobior" tvg-logo="https://iptvx.one/picons/bober.png" group-title="Хобби 🎳",Бобер HD
 
@@ -17428,7 +17100,7 @@ http://fl2.moveonjoy.com/MTV_LIVE/index.m3u8
 http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
 #EXTINF:-1 tvg-id="muzyka-pervogo" tvg-logo="https://iptvx.one/picons/muzyka-pervogo.png" group-title="Музыкальные 🎶",Музыка Первого 
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Muz_Perv
-#EXTINF:-1 tvg-id="onemuz" tvg-logo="https://iptvx.one/picons/1muz.png" group-title="Музыкальные,Первый музыкальный HD
+#EXTINF:-1 tvg-id="onemuz" tvg-logo="https://iptvx.one/picons/1muz.png" group-title="Музыкальные 🎶",Первый музыкальный HD
 http://hz1.teleport.cc/HLS/HD.m3u8
 
 
@@ -18327,6 +17999,7 @@ https://cdn.nexttvnet.ru/hlsl/provide/61394/ChinaTV2/china-tv_1920x1080/index.m3
 http://v4.proofix.ru:80/7tv-live/index.m3u8
 #EXTINF:-1 tvg-id="teledom" tvg-logo="https://iptvx.one/picons/teledom.png" group-title="Развлекательные 🕹️",Теледом HD
 http://iam-profi.ru/hls-live/livepkgr/_definst_/liveevent/td720.m3u8
+
 
 
 
