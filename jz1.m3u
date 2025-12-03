@@ -16938,9 +16938,9 @@ http://tv.streams.baikal-telecom.net:8080/NanoTV/index.m3u8
 #EXTINF:-1 group-title="========================= СТАРОЕ ПО ЗАПРОСУ ========================="
 
 
-#EXTINF:-1 group-title="Детские 👶" , VF Скуби-Ду
+#EXTINF:-1 group-title="Детские 👶" , VF Скуби-Ду 1
 http://gzongxfv.siauliairsavlt.pw/iptv/BVLB3VAHA3ZKL3/17007/index.m3u8
-#EXTINF:-1 group-title="Детские 👶" , VF Скуби-Ду
+#EXTINF:-1 group-title="Детские 👶" , VF Скуби-Ду 2
 http://q6wrk7jd.rostelekom.xyz/iptv/PK9PBTFMM4TULL/17007/index.m3u8
 #EXTM3U url-tvg="https://viva-russia.ru/scheduler/epg/epg.xml.gz" x-tvg-url="https://viva-russia.ru/scheduler/epg/epg.xml.gz"
 #EXTINF:-1 tvg-id="VIVARussia.ru" tvg-name="VIVA TV RUSSIA" tvg-country="RU" tvg-language="Russian" tvg-logo="http://viva-russia.ru/scheduler/epg/channel-logo.jpg" group-title="Музыкальные 🎶",VIVA TV RUSSIA
@@ -20142,3 +20142,4 @@ http://lemon.catchmeifyo.com:8000/8313621450/4750413920/16276
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/TMXk7smj/image-16.png" group-title="Спорт ⚽️", ZIGGO SPORT 6
 #EXTGRP:Спорт ⚽️
 http://lemon.catchmeifyo.com:8000/8313621450/4750413920/16277
+
