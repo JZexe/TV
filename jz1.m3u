@@ -1,7 +1,7 @@
 #EXTM3U url-tvg="http://gabbarit.drm-play.com/epg_1.xml.gz; https://iptvx.one/epg/epg_lite.xml.gz; https://iptvx.one/epg/epg.xml.gz; http://www.teleguide.info/download/new3/xmltv.xml.gz"
 #EXTM3U x-tvg-url="http://gabbarit.drm-play.com/epg_lite.xml.gz"
 
-#EXTINF:-1 group-title="🗓️ ИНФО 🗓️" tvg-logo="-",Обновление: 04.12.2025
+#EXTINF:-1 group-title="🗓️ ИНФО 🗓️" tvg-logo="-",Обновление: 07.12.2025
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 https://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R05_KAMINTV/variant.m3u8
 
@@ -21,10 +21,6 @@ https://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R05_KAMINTV/variant.m3u8
 https://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R05_KAMINTV/variant.m3u8
 
 #EXTINF:-1 group-title="Хобби 🎳" , Хобби 🎳
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-https://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R05_KAMINTV/variant.m3u8
-
-#EXTINF:-1 group-title="Федеральные плюс 🕓" , Федеральные плюс 🕓
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 https://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R05_KAMINTV/variant.m3u8
 
@@ -61,6 +57,10 @@ https://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R05_KAMINTV/variant.m3u8
 https://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R05_KAMINTV/variant.m3u8
 
 #EXTINF:-1 group-title="Региональное ТВ 🌐" , Региональное ТВ 🌐
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R05_KAMINTV/variant.m3u8
+
+#EXTINF:-1 group-title="Федеральные плюс 🕓" , Федеральные плюс 🕓
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 https://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R05_KAMINTV/variant.m3u8
 
@@ -11475,257 +11475,6 @@ http://95.66.188.74/MatchIgra/mono.m3u8
 
 
 
-
-#EXTINF:-1 group-title="ДВ-Ком_2 (🌟🌟🌟)",Первый канал HD
-http://91.207.115.228:5000/c99
-#EXTINF:-1 group-title="ДВ-Ком_2 (🌟🌟🌟)",Россия 1 HD
-http://91.207.115.228:5000/c100
-#EXTINF:-1 group-title="ДВ-Ком_2 (🌟🌟🌟)",ТНТ4
-http://91.207.115.228:5000/c142
-#EXTINF:-1 group-title="ДВ-Ком_2 (🌟🌟🌟)",ТНТ HD
-http://91.207.115.228:5000/c157
-#EXTINF:-1 group-title="ДВ-Ком_2 (🌟🌟🌟)",Моя планета 
-http://91.207.115.228:5000/c82
-#EXTINF:-1 group-title="ДВ-Ком_2 (🌟🌟🌟)",Телепутешествия
-http://91.207.115.228:5000/c93
-#EXTINF:-1 group-title="ДВ-Ком_2 (🌟🌟🌟)",Big Planet
-http://91.207.115.228:5000/c94
-#EXTINF:-1 group-title="ДВ-Ком_2 (🌟🌟🌟)",viju Explore
-http://91.207.115.228:5000/c95
-#EXTINF:-1 group-title="ДВ-Ком_2 (🌟🌟🌟)",viju History
-http://91.207.115.228:5000/c96
-#EXTINF:-1 group-title="ДВ-Ком_2 (🌟🌟🌟)",viju Nature
-http://91.207.115.228:5000/c97
-#EXTINF:-1 group-title="ДВ-Ком_2 (🌟🌟🌟)",Дикий
-http://91.207.115.228:5000/c98
-#EXTINF:-1 group-title="ДВ-Ком_2 (🌟🌟🌟)",Охота и Рыбалка
-http://91.207.115.228:5000/c109
-#EXTINF:-1 group-title="ДВ-Ком_2 (🌟🌟🌟)",Discovery Channel HD
-http://91.207.115.228:5000/c146
-#EXTINF:-1 group-title="ДВ-Ком_2 (🌟🌟🌟)",Animal Planet HD
-http://91.207.115.228:5000/c147
-#EXTINF:-1 group-title="ДВ-Ком_2 (🌟🌟🌟)",Investigation Discovery HD
-http://91.207.115.228:5000/c150
-#EXTINF:-1 group-title="ДВ-Ком_2 (🌟🌟🌟)",HD Life
-http://91.207.115.228:5000/c158
-#EXTINF:-1 group-title="ДВ-Ком_2 (🌟🌟🌟)",История
-http://91.207.115.228:5000/c85
-#EXTINF:-1 group-title="ДВ-Ком_2 (🌟🌟🌟)",Домашние Животные
-http://91.207.115.228:5000/c159
-#EXTINF:-1 group-title="ДВ-Ком_2 (🌟🌟🌟)",Охота и Рыбалка
-http://91.207.115.228:5000/c173
-#EXTINF:-1 group-title="ДВ-Ком_2 (🌟🌟🌟)",Наука
-http://91.207.115.228:5000/c83
-#EXTINF:-1 group-title="ДВ-Ком_2 (🌟🌟🌟)",За!ТВ
-http://91.207.115.228:5000/c22
-#EXTINF:-1 group-title="ДВ-Ком_2 (🌟🌟🌟)",Кинопоказ
-http://91.207.115.228:5000/c28
-#EXTINF:-1 group-title="ДВ-Ком_2 (🌟🌟🌟)", Мосфильм. Золотая Коллекция
-http://91.207.115.228:5000/c29
-#EXTINF:-1 group-title="ДВ-Ком_2 (🌟🌟🌟)",Дом кино
-http://91.207.115.228:5000/c30
-#EXTINF:-1 group-title="ДВ-Ком_2 (🌟🌟🌟)",Русский Роман
-http://91.207.115.228:5000/c32
-#EXTINF:-1 group-title="ДВ-Ком_2 (🌟🌟🌟)",Кино ТВ
-http://91.207.115.228:5000/c33
-#EXTINF:-1 group-title="ДВ-Ком_2 (🌟🌟🌟)",Русский Бестселлер
-http://91.207.115.228:5000/c34
-#EXTINF:-1 group-title="ДВ-Ком_2 (🌟🌟🌟)",Русский Детектив
-http://91.207.115.228:5000/c35
-#EXTINF:-1 group-title="ДВ-Ком_2 (🌟🌟🌟)",365 Дней ТВ
-http://91.207.115.228:5000/c36
-#EXTINF:-1 group-title="ДВ-Ком_2 (🌟🌟🌟)",.Black
-http://91.207.115.228:5000/c79
-#EXTINF:-1 group-title="ДВ-Ком_2 (🌟🌟🌟)",Кинохит
-http://91.207.115.228:5000/c38
-#EXTINF:-1 group-title="ДВ-Ком_2 (🌟🌟🌟)",Родное Кино
-http://91.207.115.228:5000/c31
-#EXTINF:-1 group-title="ДВ-Ком_2 (🌟🌟🌟)",Киносемья
-http://91.207.115.228:5000/c39
-#EXTINF:-1 group-title="ДВ-Ком_2 (🌟🌟🌟)",Мужское Кино
-http://91.207.115.228:5000/c40
-#EXTINF:-1 group-title="ДВ-Ком_2 (🌟🌟🌟)",Наше новое кино
-http://91.207.115.228:5000/c41
-#EXTINF:-1 group-title="ДВ-Ком_2 (🌟🌟🌟)",КИНОПРЕМЬЕРА HD
-http://91.207.115.228:5000/c42
-#EXTINF:-1 group-title="ДВ-Ком_2 (🌟🌟🌟)",Киноужас
-http://91.207.115.228:5000/c43
-#EXTINF:-1 group-title="ДВ-Ком_2 (🌟🌟🌟)",Киносвидание
-http://91.207.115.228:5000/c44
-#EXTINF:-1 group-title="ДВ-Ком_2 (🌟🌟🌟)",КИНОСВИДАНИЕ
-http://91.207.115.228:5000/c45
-#EXTINF:-1 group-title="ДВ-Ком_2 (🌟🌟🌟)",Кинокомедия
-http://91.207.115.228:5000/c46
-#EXTINF:-1 group-title="ДВ-Ком_2 (🌟🌟🌟)",Индийское Кино
-http://91.207.115.228:5000/c47
-#EXTINF:-1 group-title="ДВ-Ком_2 (🌟🌟🌟)",viju TV1000
-http://91.207.115.228:5000/c48
-#EXTINF:-1 group-title="ДВ-Ком_2 (🌟🌟🌟)",viju TV1000 action
-http://91.207.115.228:5000/c49
-#EXTINF:-1 group-title="ДВ-Ком_2 (🌟🌟🌟)",viju TV1000 русское
-http://91.207.115.228:5000/c37
-#EXTINF:-1 group-title="ДВ-Ком_2 (🌟🌟🌟)",Ю
-http://91.207.115.228:5000/c50
-#EXTINF:-1 group-title="ДВ-Ком_2 (🌟🌟🌟)",СТС Love
-http://91.207.115.228:5000/c51
-#EXTINF:-1 group-title="ДВ-Ком_2 (🌟🌟🌟)",Суббота!
-http://91.207.115.228:5000/c52
-#EXTINF:-1 group-title="ДВ-Ком_2 (🌟🌟🌟)",Время
-http://91.207.115.228:5000/c53
-#EXTINF:-1 group-title="ДВ-Ком_2 (🌟🌟🌟)",Ностальгия
-http://91.207.115.228:5000/c54
-#EXTINF:-1 group-title="ДВ-Ком_2 (🌟🌟🌟)",Amedia 1
-http://91.207.115.228:5000/c55
-#EXTINF:-1 group-title="ДВ-Ком_2 (🌟🌟🌟)",Amedia 2
-http://91.207.115.228:5000/c56
-#EXTINF:-1 group-title="ДВ-Ком_2 (🌟🌟🌟)",AMEDIA HIT
-http://91.207.115.228:5000/c57
-#EXTINF:-1 group-title="ДВ-Ком_2 (🌟🌟🌟)",Amedia Premium HD
-http://91.207.115.228:5000/c58
-#EXTINF:-1 group-title="ДВ-Ком_2 (🌟🌟🌟)",Hollywood HD
-http://91.207.115.228:5000/c59
-#EXTINF:-1 group-title="ДВ-Ком_2 (🌟🌟🌟)",FlixSnip
-http://91.207.115.228:5000/c60
-#EXTINF:-1 group-title="ДВ-Ком_2 (🌟🌟🌟)",Kinoliving
-http://91.207.115.228:5000/c61
-#EXTINF:-1 group-title="ДВ-Ком_2 (🌟🌟🌟)",Кухня ТВ
-http://91.207.115.228:5000/c74
-#EXTINF:-1 group-title="ДВ-Ком_2 (🌟🌟🌟)",Сарафан
-http://91.207.115.228:5000/c75
-#EXTINF:-1 group-title="ДВ-Ком_2 (🌟🌟🌟)",КВН ТВ
-http://91.207.115.228:5000/c76
-#EXTINF:-1 group-title="ДВ-Ком_2 (🌟🌟🌟)",.Sci-Fi
-http://91.207.115.228:5000/c77
-#EXTINF:-1 group-title="ДВ-Ком_2 (🌟🌟🌟)",.Red
-http://91.207.115.228:5000/c78
-#EXTINF:-1 group-title="ДВ-Ком_2 (🌟🌟🌟)",Телекафе
-http://91.207.115.228:5000/c84
-#EXTINF:-1 group-title="ДВ-Ком_2 (🌟🌟🌟)",Сапфир HD
-http://91.207.115.228:5000/c90
-#EXTINF:-1 group-title="ДВ-Ком_2 (🌟🌟🌟)",Зоо ТВ
-http://91.207.115.228:5000/c91
-#EXTINF:-1 group-title="ДВ-Ком_2 (🌟🌟🌟)",Здоровое ТВ
-http://91.207.115.228:5000/c92
-#EXTINF:-1 group-title="ДВ-Ком_2 (🌟🌟🌟)",Авто плюс
-http://91.207.115.228:5000/c110
-#EXTINF:-1 group-title="ДВ-Ком_2 (🌟🌟🌟)",Таврия Херсон
-http://91.207.115.228:5000/c23
-#EXTINF:-1 group-title="ДВ-Ком_2 (🌟🌟🌟)",Соловьев Live HD
-http://91.207.115.228:5000/c27
-#EXTINF:-1 group-title="ДВ-Ком_2 (🌟🌟🌟)",Жара
-http://91.207.115.228:5000/c126
-#EXTINF:-1 group-title="ДВ-Ком_2 (🌟🌟🌟)",Известия
-http://91.207.115.228:5000/c128
-#EXTINF:-1 group-title="ДВ-Ком_2 (🌟🌟🌟)",360 Новости
-http://91.207.115.228:5000/c129
-#EXTINF:-1 group-title="ДВ-Ком_2 (🌟🌟🌟)",RT DOC
-http://91.207.115.228:5000/c130
-#EXTINF:-1 group-title="ДВ-Ком_2 (🌟🌟🌟)",SHOT TV
-http://91.207.115.228:5000/c131
-#EXTINF:-1 group-title="ДВ-Ком_2 (🌟🌟🌟)",Звезда Плюс
-http://91.207.115.228:5000/c132
-#EXTINF:-1 group-title="ДВ-Ком_2 (🌟🌟🌟)",Кто Есть Кто
-http://91.207.115.228:5000/c133
-#EXTINF:-1 group-title="ДВ-Ком_2 (🌟🌟🌟)",РБК
-http://91.207.115.228:5000/c134
-#EXTINF:-1 group-title="ДВ-Ком_2 (🌟🌟🌟)",МИР-24
-http://91.207.115.228:5000/c135
-#EXTINF:-1 group-title="ДВ-Ком_2 (🌟🌟🌟)",Телеканал 360
-http://91.207.115.228:5000/c136
-#EXTINF:-1 group-title="ДВ-Ком_2 (🌟🌟🌟)",Вместе-РФ
-http://91.207.115.228:5000/c137
-#EXTINF:-1 group-title="ДВ-Ком_2 (🌟🌟🌟)",Союз
-http://91.207.115.228:5000/c138
-#EXTINF:-1 group-title="ДВ-Ком_2 (🌟🌟🌟)",Большая Азия
-http://91.207.115.228:5000/c140
-#EXTINF:-1 group-title="ДВ-Ком_2 (🌟🌟🌟)",Беларусь 24
-http://91.207.115.228:5000/c141
-#EXTINF:-1 group-title="ДВ-Ком_2 (🌟🌟🌟)",viju+ Comedy HD
-http://91.207.115.228:5000/c143
-#EXTINF:-1 group-title="ДВ-Ком_2 (🌟🌟🌟)",viju+ Megahit HD
-http://91.207.115.228:5000/c144
-#EXTINF:-1 group-title="ДВ-Ком_2 (🌟🌟🌟)",viju+ Premiere HD
-http://91.207.115.228:5000/c145
-#EXTINF:-1 group-title="ДВ-Ком_2 (🌟🌟🌟)",TLC HD
-http://91.207.115.228:5000/c151
-#EXTINF:-1 group-title="ДВ-Ком_2 (🌟🌟🌟)",Еврокино
-http://91.207.115.228:5000/c160
-#EXTINF:-1 group-title="ДВ-Ком_2 (🌟🌟🌟)",Комедия
-http://91.207.115.228:5000/c168
-#EXTINF:-1 group-title="ДВ-Ком_2 (🌟🌟🌟)",НСТ
-http://91.207.115.228:5000/c169
-#EXTINF:-1 group-title="ДВ-Ком_2 (🌟🌟🌟)",Иллюзион+
-http://91.207.115.228:5000/c170
-#EXTINF:-1 group-title="ДВ-Ком_2 (🌟🌟🌟)",Cinema
-http://91.207.115.228:5000/c172
-#EXTINF:-1 group-title="ДВ-Ком_2 (🌟🌟🌟)",Ретро
-http://91.207.115.228:5000/c174
-#EXTINF:-1 group-title="ДВ-Ком_2 (🌟🌟🌟)",Психология 21
-http://91.207.115.228:5000/c175
-#EXTINF:-1 group-title="ДВ-Ком_2 (🌟🌟🌟)",Усадьба
-http://91.207.115.228:5000/c176
-#EXTINF:-1 group-title="ДВ-Ком_2 (🌟🌟🌟)",Зоо ТВ
-http://91.207.115.228:5000/c177
-#EXTINF:-1 group-title="ДВ-Ком_2 (🌟🌟🌟)",Вопросы и ответы
-http://91.207.115.228:5000/c178
-#EXTINF:-1 group-title="ДВ-Ком_2 (🌟🌟🌟)",Здоровое ТВ
-http://91.207.115.228:5000/c179
-#EXTINF:-1 group-title="ДВ-Ком_2 (🌟🌟🌟)",2X2
-http://91.207.115.228:5000/c180
-#EXTINF:-1 group-title="ДВ-Ком_2 (🌟🌟🌟)",Авто 24
-http://91.207.115.228:5000/c181
-#EXTINF:-1 group-title="ДВ-Ком_2 (🌟🌟🌟)",Драйв
-http://91.207.115.228:5000/c182
-#EXTINF:-1 group-title="ДВ-Ком_2 (🌟🌟🌟)",Точка отрыва 
-http://91.207.115.228:5000/c183
-#EXTINF:-1 group-title="ДВ-Ком_2 (🌟🌟🌟)",Победа
-http://91.207.115.228:5000/c184
-#EXTINF:-1 group-title="ДВ-Ком_2 (🌟🌟🌟)",Дорама
-http://91.207.115.228:5000/c185
-#EXTINF:-1 group-title="ДВ-Ком_2 (🌟🌟🌟)",Bridge TV
-http://91.207.115.228:5000/c117
-#EXTINF:-1 group-title="ДВ-Ком_2 (🌟🌟🌟)",Bridge TV Русский ХИТ
-http://91.207.115.228:5000/c118
-#EXTINF:-1 group-title="ДВ-Ком_2 (🌟🌟🌟)",Europa Plus TV
-http://91.207.115.228:5000/c119
-#EXTINF:-1 group-title="ДВ-Ком_2 (🌟🌟🌟)",Bridge Hits
-http://91.207.115.228:5000/c120
-#EXTINF:-1 group-title="ДВ-Ком_2 (🌟🌟🌟)",ТНТ Music
-http://91.207.115.228:5000/c121
-#EXTINF:-1 group-title="ДВ-Ком_2 (🌟🌟🌟)",RU.TV
-http://91.207.115.228:5000/c122
-#EXTINF:-1 group-title="ДВ-Ком_2 (🌟🌟🌟)",Ля-Минор
-http://91.207.115.228:5000/c127
-#EXTINF:-1 group-title="ДВ-Ком_2 (🌟🌟🌟)",Музыка Первого
-http://91.207.115.228:5000/c123
-#EXTINF:-1 group-title="ДВ-Ком_2 (🌟🌟🌟)",Mezzo
-http://91.207.115.228:5000/c124
-#EXTINF:-1 group-title="ДВ-Ком_2 (🌟🌟🌟)",Mezzo Live HD
-http://91.207.115.228:5000/c125
-#EXTINF:-1 group-title="ДВ-Ком_2 (🌟🌟🌟)",Солнце
-http://91.207.115.228:5000/c167
-#EXTINF:-1 group-title="ДВ-Ком_2 (🌟🌟🌟)",Рыжий
-http://91.207.115.228:5000/c62
-#EXTINF:-1 group-title="ДВ-Ком_2 (🌟🌟🌟)",Мульт
-http://91.207.115.228:5000/c63
-#EXTINF:-1 group-title="ДВ-Ком_2 (🌟🌟🌟)",Ani
-http://91.207.115.228:5000/c64
-#EXTINF:-1 group-title="ДВ-Ком_2 (🌟🌟🌟)",Уникум
-http://91.207.115.228:5000/c65
-#EXTINF:-1 group-title="ДВ-Ком_2 (🌟🌟🌟)",Мультимузыка
-http://91.207.115.228:5000/c66
-#EXTINF:-1 group-title="ДВ-Ком_2 (🌟🌟🌟)",Мультиландия
-http://91.207.115.228:5000/c67
-#EXTINF:-1 group-title="ДВ-Ком_2 (🌟🌟🌟)",О!
-http://91.207.115.228:5000/c68
-#EXTINF:-1 group-title="ДВ-Ком_2 (🌟🌟🌟)",СТС Kids HD
-http://91.207.115.228:5000/c69
-#EXTINF:-1 group-title="ДВ-Ком_2 (🌟🌟🌟)",Мама
-http://91.207.115.228:5000/c70
-#EXTINF:-1 group-title="ДВ-Ком_2 (🌟🌟🌟)",СуперГерои
-http://91.207.115.228:5000/c71
-#EXTINF:-1 group-title="ДВ-Ком_2 (🌟🌟🌟)",Da Vinci
-http://91.207.115.228:5000/c72
 #EXTINF:-1 group-title="Спорткомплекс 🏆",МАТЧ! HD
 http://91.207.115.228:5000/c101
 #EXTINF:-1 group-title="Спорткомплекс 🏆",Футбол
@@ -16660,6 +16409,8 @@ http://stv.mediacdn.ru/live/cdn/multimuzika/playlist.m3u8
 http://sirius.greenhosting.ru/PingvinRu/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="radost-moya" tvg-logo="https://iptvx.one/picons/radost-moya.png" group-title="Детские 👶",Радость моя
 http://radm.mediacdn.ru/cdn/radost/playlist_sdhigh.m3u8
+
+
 #EXTINF:-1 tvg-id="paramount-comedy" tvg-logo="https://epg.iptvx.one/picons/comedy-central-pl.png" group-title="Кино и сериалы 2 🎬",Comedy Central
 http://46.8.46.14/paramountcomedy/index.m3u8
 #EXTINF:-1 tvg-id="tv1000-worldkino" tvg-logo="https://epg.iptvx.one/picons/tv1000-worldkino.png" group-title="Кино и сериалы 2 🎬",Viasat Kino World
@@ -16737,6 +16488,208 @@ http://176.126.166.43:1935/live/312musik/playlist.m3u8
 #EXTINF:-1 tvg-id="trashtv" tvg-logo="https://iptvx.one/picons/trashtv.png" group-title="Кино и сериалы 2 🎬",Trash TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 https://livetv.mylifeisgood.net.ru/channels/trash.m3u8
+
+
+
+#EXTINF:-1 tvg-name="" group-title="Кино и сериалы 2 🎬",Кинокульт
+http://50.7.28.226/9469/index.m3u8
+#EXTINF:-1 tvg-name="BCU Catastrophe" group-title="Кино и сериалы 2 🎬",BCU Catastrophe 
+http://50.7.28.226/8877/index.m3u8
+#EXTINF:-1 tvg-name="BCU Cinema" group-title="Кино и сериалы 2 🎬",BCU Cinema 
+http://50.7.28.226/8891/index.m3u8
+#EXTINF:-1 tvg-name="BCU Comedy" group-title="Кино и сериалы 2 🎬",BCU Comedy 
+http://50.7.28.226/8480/index.m3u8
+#EXTINF:-1 tvg-name="BCU Comedy 2" group-title="Кино и сериалы 2 🎬",BCU Comedy 2 
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://50.7.28.226/8878/index.m3u8
+#EXTINF:-1 tvg-name="BCU Criminal" group-title="Кино и сериалы 2 🎬",BCU Criminal 
+http://50.7.28.226/8890/index.m3u8
+#EXTINF:-1 tvg-name="BCU Fantastic" group-title="Кино и сериалы 2 🎬",BCU Fantastic 
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://50.7.28.226/8879/index.m3u8
+#EXTINF:-1 tvg-name="BCU FilMystic" group-title="Кино и сериалы 2 🎬",BCU FilMystic 
+http://50.7.28.226/8479/index.m3u8
+#EXTINF:-1 tvg-name="BCU FilMystic 2" group-title="Кино и сериалы 2 🎬",BCU FilMystic 2 
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://50.7.28.226/8880/index.m3u8
+#EXTINF:-1 tvg-name="BCU History" group-title="Кино и сериалы 2 🎬",BCU History 
+http://50.7.28.226/8881/index.m3u8
+#EXTINF:-1 tvg-name="BCU Kinorating" group-title="Кино и сериалы 2 🎬",BCU Kinorating 
+http://50.7.28.226/8455/index.m3u8
+#EXTINF:-1 tvg-name="BCU Marvel 2" group-title="Кино и сериалы 2 🎬",BCU Marvel 2 
+http://50.7.28.226/8822/index.m3u8
+#EXTINF:-1 tvg-name="BCU Premiere" group-title="Кино и сериалы 2 🎬",BCU Premiere 
+http://50.7.28.226/8468/index.m3u8
+#EXTINF:-1 tvg-name="BCU Premiere 2" group-title="Кино и сериалы 2 🎬",BCU Premiere 2 
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://50.7.28.226/8473/index.m3u8
+#EXTINF:-1 tvg-name="BCU Premiere 3" group-title="Кино и сериалы 2 🎬",BCU Premiere 3 
+http://50.7.28.226/8474/index.m3u8
+#EXTINF:-1 tvg-name="BCU Premiere 4" group-title="Кино и сериалы 2 🎬",BCU Premiere 4 
+http://50.7.28.226/8475/index.m3u8
+#EXTINF:-1 tvg-name="BCU Premiere 5" group-title="Кино и сериалы 2 🎬",BCU Premiere 5 
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://50.7.28.226/8872/index.m3u8
+#EXTINF:-1 tvg-name="BCU Premiere 6" group-title="Кино и сериалы 2 🎬",BCU Premiere 6 
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://50.7.28.226/8873/index.m3u8
+#EXTINF:-1 tvg-name="BCU Premiere 7" group-title="Кино и сериалы 2 🎬",BCU Premiere 7 
+http://50.7.28.226/8883/index.m3u8
+#EXTINF:-1 tvg-name="BCU Reality" group-title="Кино и сериалы 2 🎬",BCU Reality 
+http://50.7.28.226/8910/index.m3u8
+#EXTINF:-1 tvg-name="BCU Romantic" group-title="Кино и сериалы 2 🎬",BCU Romantic 
+http://50.7.28.226/8884/index.m3u8
+#EXTINF:-1 tvg-name="BCU Russian" group-title="Кино и сериалы 2 🎬",BCU Russian 
+http://50.7.28.226/8457/index.m3u8
+#EXTINF:-1 tvg-name="BCU Stars" group-title="Кино и сериалы 2 🎬",BCU Stars 
+http://50.7.28.226/8885/index.m3u8
+#EXTINF:-1 tvg-name="BCU Survival" group-title="Кино и сериалы 2 🎬",BCU Survival 
+http://50.7.28.226/8912/index.m3u8
+#EXTINF:-1 tvg-name="BCU TruMotion" group-title="Кино и сериалы 2 🎬",BCU TruMotion 
+http://50.7.28.226/8977/index.m3u8
+#EXTINF:-1 tvg-name="BCU Сваты" group-title="Кино и сериалы 2 🎬",BCU Сваты 
+http://50.7.28.226/8889/index.m3u8
+#EXTINF:-1 tvg-name="BOX Apocalypse" group-title="Кино и сериалы 2 🎬",BOX Apocalypse 
+http://50.7.28.226/8441/index.m3u8
+#EXTINF:-1 tvg-name="BOX Fantasy" group-title="Кино и сериалы 2 🎬",BOX Fantasy 
+http://50.7.28.226/8430/index.m3u8
+#EXTINF:-1 tvg-name="BOX Gangster" group-title="Кино и сериалы 2 🎬",BOX Gangster 
+http://50.7.28.226/8985/index.m3u8
+#EXTINF:-1 tvg-name="BOX M.Serial" group-title="Кино и сериалы 2 🎬",BOX M.Serial 
+http://50.7.28.226/8988/index.m3u8
+#EXTINF:-1 tvg-name="BOX Spy" group-title="Кино и сериалы 2 🎬",BOX Spy 
+http://50.7.28.226/8354/index.m3u8
+#EXTINF:-1 tvg-name="BOX Zombie" group-title="Кино и сериалы 2 🎬",BOX Zombie 
+http://50.7.28.226/8418/index.m3u8
+#EXTINF:-1 tvg-name="BOX СССР 4K" group-title="Кино и сериалы 2 🎬",BOX СССР 4K
+http://50.7.28.226/8445/index.m3u8
+#EXTINF:-1 tvg-name="CineMan" group-title="Кино и сериалы 2 🎬",CineMan 
+http://50.7.28.226/9121/index.m3u8
+#EXTINF:-1 tvg-name="CineMan 1" group-title="Кино и сериалы 2 🎬",CineMan 1 
+http://50.7.28.226/8821/index.m3u8
+#EXTINF:-1 tvg-name="CineMan 10" group-title="Кино и сериалы 2 🎬",CineMan 10 
+http://50.7.28.226/8960/index.m3u8
+#EXTINF:-1 tvg-name="CineMan 2" group-title="Кино и сериалы 2 🎬",CineMan 2 
+http://50.7.28.226/8824/index.m3u8
+#EXTINF:-1 tvg-name="CineMan 3" group-title="Кино и сериалы 2 🎬",CineMan 3 
+http://50.7.28.226/8825/index.m3u8
+#EXTINF:-1 tvg-name="CineMan 4" group-title="Кино и сериалы 2 🎬",CineMan 4 
+http://50.7.28.226/8826/index.m3u8
+#EXTINF:-1 tvg-name="CineMan 5" group-title="Кино и сериалы 2 🎬",CineMan 5 
+http://50.7.28.226/8951/index.m3u8
+#EXTINF:-1 tvg-name="CineMan 6" group-title="Кино и сериалы 2 🎬",CineMan 6 
+http://50.7.28.226/8952/index.m3u8
+#EXTINF:-1 tvg-name="CineMan 7" group-title="Кино и сериалы 2 🎬",CineMan 7 
+http://50.7.28.226/8955/index.m3u8
+#EXTINF:-1 tvg-name="CineMan 8" group-title="Кино и сериалы 2 🎬",CineMan 8 
+http://50.7.28.226/8957/index.m3u8
+#EXTINF:-1 tvg-name="CineMan 9" group-title="Кино и сериалы 2 🎬",CineMan 9 
+http://50.7.28.226/8959/index.m3u8
+#EXTINF:-1 tvg-name="CineMan MiniSeries" group-title="Кино и сериалы 2 🎬",CineMan MiniSeries 
+http://50.7.28.226/8961/index.m3u8
+#EXTINF:-1 tvg-name="CineMan Thriller" group-title="Кино и сериалы 2 🎬",CineMan Thriller 
+http://50.7.28.226/8954/index.m3u8
+#EXTINF:-1 tvg-name="CineMan VHS" group-title="Кино и сериалы 2 🎬",CineMan VHS 
+http://50.7.28.226/8807/index.m3u8
+#EXTINF:-1 tvg-name="CineMan РуКино" group-title="Кино и сериалы 2 🎬",CineMan РуКино 
+http://50.7.28.226/8871/index.m3u8
+#EXTINF:-1 tvg-name="GOLD Line EXIST" group-title="Кино и сериалы 2 🎬",GOLD Line EXIST 
+http://50.7.28.226/8489/index.m3u8
+#EXTINF:-1 tvg-name="GOLD Line PSYCHO" group-title="Кино и сериалы 2 🎬",GOLD Line PSYCHO 
+http://50.7.28.226/8483/index.m3u8
+#EXTINF:-1 tvg-name="GOLD Line Детектив" group-title="Кино и сериалы 2 🎬",GOLD Line Детектив 
+http://50.7.28.226/8573/index.m3u8
+#EXTINF:-1 tvg-name="MM 007" group-title="Кино и сериалы 2 🎬",MM 007 
+http://50.7.28.226/8327/index.m3u8
+#EXTINF:-1 tvg-name="MM Celebrity" group-title="Кино и сериалы 2 🎬",MM Celebrity 
+http://50.7.28.226/8991/index.m3u8
+#EXTINF:-1 tvg-name="MM Love" group-title="Кино и сериалы 2 🎬",MM Love 
+http://50.7.28.226/8328/index.m3u8
+#EXTINF:-1 tvg-name="MM NewFilm 1" group-title="Кино и сериалы 2 🎬",MM NewFilm 1 
+http://50.7.28.226/8741/index.m3u8
+#EXTINF:-1 tvg-name="MM NewFilm 2" group-title="Кино и сериалы 2 🎬",MM NewFilm 2 
+http://50.7.28.226/8742/index.m3u8
+#EXTINF:-1 tvg-name="MM NewFilm 3" group-title="Кино и сериалы 2 🎬",MM NewFilm 3 
+http://50.7.28.226/8743/index.m3u8
+#EXTINF:-1 tvg-name="MM NewFilm.RU" group-title="Кино и сериалы 2 🎬",MM NewFilm.RU 
+http://50.7.28.226/8706/index.m3u8
+#EXTINF:-1 tvg-name="MM UFO" group-title="Кино и сериалы 2 🎬",MM UFO 
+http://50.7.28.226/8410/index.m3u8
+#EXTINF:-1 tvg-name="MM WALT DISNEY" group-title="Кино и сериалы 2 🎬",MM WALT DISNEY 
+http://50.7.28.226/8914/index.m3u8
+#EXTINF:-1 tvg-name="MM БОЕВИК КЛАССИК" group-title="Кино и сериалы 2 🎬",MM БОЕВИК КЛАССИК 
+http://50.7.28.226/8411/index.m3u8
+#EXTINF:-1 tvg-name="MM Драма" group-title="Кино и сериалы 2 🎬",MM Драма 
+http://50.7.28.226/8634/index.m3u8
+#EXTINF:-1 tvg-name="MM Катастрофа" group-title="Кино и сериалы 2 🎬",MM Катастрофа 
+http://50.7.28.226/8746/index.m3u8
+#EXTINF:-1 tvg-name="MM Комедия" group-title="Кино и сериалы 2 🎬",MM Комедия 
+http://50.7.28.226/8708/index.m3u8
+#EXTINF:-1 tvg-name="MM Комедия Classic" group-title="Кино и сериалы 2 🎬",MM Комедия Classic 
+http://50.7.28.226/8744/index.m3u8
+#EXTINF:-1 tvg-name="MM Кунг-Фу" group-title="Кино и сериалы 2 🎬",MM Кунг-Фу 
+http://50.7.28.226/8559/index.m3u8
+#EXTINF:-1 tvg-name="MM Нуар" group-title="Кино и сериалы 2 🎬",MM Нуар 
+http://50.7.28.226/8733/index.m3u8
+#EXTINF:-1 tvg-name="MM Погружение" group-title="Кино и сериалы 2 🎬",MM Погружение 
+http://50.7.28.226/8799/index.m3u8
+#EXTINF:-1 tvg-name="MM Приключения" group-title="Кино и сериалы 2 🎬",MM Приключения 
+http://50.7.28.226/8779/index.m3u8
+#EXTINF:-1 tvg-name="MM Роскино" group-title="Кино и сериалы 2 🎬",MM Роскино 
+http://50.7.28.226/8709/index.m3u8
+#EXTINF:-1 tvg-name="MM СЕМЕЙНЫЙ" group-title="Кино и сериалы 2 🎬",MM СЕМЕЙНЫЙ 
+http://50.7.28.226/8442/index.m3u8
+#EXTINF:-1 tvg-name="MM СЕМЕЙНЫЙ 2" group-title="Кино и сериалы 2 🎬",MM СЕМЕЙНЫЙ 2 
+http://50.7.28.226/8449/index.m3u8
+#EXTINF:-1 tvg-name="MM СКОРОСТЬ" group-title="Кино и сериалы 2 🎬",MM СКОРОСТЬ 
+http://50.7.28.226/8916/index.m3u8
+#EXTINF:-1 tvg-name="MM Спорт" group-title="Кино и сериалы 2 🎬",MM Спорт 
+http://157.90.0.245:8070/minimax-sport/index.m3u8
+#EXTINF:-1 tvg-name="MM Супергерои" group-title="Кино и сериалы 2 🎬",MM Супергерои 
+http://50.7.28.226/8710/index.m3u8
+#EXTINF:-1 tvg-name="MM Триллер" group-title="Кино и сериалы 2 🎬",MM Триллер 
+http://50.7.28.226/8778/index.m3u8
+#EXTINF:-1 tvg-name="MM Ужасы" group-title="Кино и сериалы 2 🎬",MM Ужасы 
+http://50.7.28.226/8725/index.m3u8
+#EXTINF:-1 tvg-name="BCU Kids+" group-title="Кино и сериалы 2 🎬",BCU Kids+ 
+http://50.7.28.226/8454/index.m3u8
+#EXTINF:-1 tvg-name="BCU LITTLE" group-title="Кино и сериалы 2 🎬",BCU LITTLE 
+http://50.7.28.226/8979/index.m3u8
+#EXTINF:-1 tvg-name="BCU MULTSERIAL" group-title="Кино и сериалы 2 🎬",BCU MULTSERIAL 
+http://50.7.28.226/8874/index.m3u8
+#EXTINF:-1 tvg-name="BOX Autotrend" group-title="Кино и сериалы 2 🎬",BOX Autotrend 
+http://50.7.28.226/8440/index.m3u8
+#EXTINF:-1 tvg-name="BOX Lo-Fi" group-title="Кино и сериалы 2 🎬",BOX Lo-Fi 
+http://50.7.28.226/8446/index.m3u8
+#EXTINF:-1 tvg-name="BOX Mayday HD" group-title="Кино и сериалы 2 🎬",BOX Mayday HD 
+http://50.7.28.226/8434/index.m3u8
+#EXTINF:-1 tvg-name="BOX Stories" group-title="Кино и сериалы 2 🎬",BOX Stories 
+http://50.7.28.226/8429/index.m3u8
+#EXTINF:-1 tvg-name="BOX TRAVEL" group-title="Кино и сериалы 2 🎬",BOX TRAVEL 
+http://50.7.28.226/8416/index.m3u8
+#EXTINF:-1 tvg-name="BOX ULTRASTARS 4K" group-title="Кино и сериалы 2 🎬",BOX ULTRASTARS 4K 
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 14)
+http://50.7.28.226/8444/index.m3u8
+#EXTINF:-1 tvg-name="CineMan Мулт" group-title="Кино и сериалы 2 🎬",CineMan Мулт 
+http://50.7.28.226/8812/index.m3u8
+#EXTINF:-1 tvg-name="CineMan Симпсоны" group-title="Кино и сериалы 2 🎬",CineMan Симпсоны 
+http://50.7.28.226/8833/index.m3u8
+#EXTINF:-1 tvg-name="MM Honey" group-title="Кино и сериалы 2 🎬",MM Honey 
+http://50.7.28.226/8895/index.m3u8
+#EXTINF:-1 tvg-name="MM Relax" group-title="Кино и сериалы 2 🎬",MM Relax 
+http://50.7.28.226/8793/index.m3u8
+#EXTINF:-1 tvg-name="MM Rock" group-title="Кино и сериалы 2 🎬",MM Rock 
+http://50.7.28.226/8679/index.m3u8
+#EXTINF:-1 tvg-name="MM Макромир" group-title="Кино и сериалы 2 🎬",MM Макромир 
+http://50.7.28.226/8636/index.m3u8
+#EXTINF:-1 tvg-name="MM Мегамир" group-title="Кино и сериалы 2 🎬",MM Мегамир 
+http://50.7.28.226/8770/index.m3u8
+#EXTINF:-1 tvg-name="MS Crime" group-title="Кино и сериалы 2 🎬",MS Crime 
+http://sharingplus.net/iptv/NR7VUB57KMRXBD/15136/index.m3u8
+
+
+
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://img.catcast.tv/uploads/04092021/logos/40672-61329195ca44d.jpg" group-title="Кинозалы 3 🎞️",LAV-KINO
 https://fl1004.bozztv.com/ushba32/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://adindex.ru/files2/photogallery/2020_11/photo2_286493_smotrim2.jpg.jpg" tvg-id="" group-title="Кинозалы 3 🎞️", Смотрим Кино и сериалы
@@ -20169,6 +20122,7 @@ http://lemon.catchmeifyo.com:8000/8313621450/4750413920/16276
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/TMXk7smj/image-16.png" group-title="Спорт ⚽️", ZIGGO SPORT 6
 #EXTGRP:Спорт ⚽️
 http://lemon.catchmeifyo.com:8000/8313621450/4750413920/16277
+
 
 
 
