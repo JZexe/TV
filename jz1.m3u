@@ -77,543 +77,543 @@ https://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R05_KAMINTV/variant.m3u8
 #EXTINF:-1 group-title="========================= НОВОЕ_1 ========================="
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" group-title="🔴 Кинозалы 🔴" ,VB Новогодний
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" group-title="Кино и сериалы 1 🎬" ,VB Новогодний
 http://hls.goodgame.ru:8080/hls/198088.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/8g1ZfYWj/image-18.png" group-title="🔴 Кинозалы 🔴" ,Kino Walk TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8g1ZfYWj/image-18.png" group-title="Кино и сериалы 1 🎬" ,Kino Walk TV
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 https://kinowalk.hopto.org/kinowalk_live
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" group-title="🔴 Кинозалы 🔴" ,Кино Боевик
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" group-title="Кино и сериалы 1 🎬" ,Кино Боевик
 http://188.225.31.197/bpk-tv/000008490/tve/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" group-title="🔴 Кинозалы 🔴" ,Мировое Кино
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" group-title="Кино и сериалы 1 🎬" ,Мировое Кино
 http://188.225.31.197/bpk-tv/000008488/tve/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" group-title="🔴 Кинозалы 🔴" ,Премиум Кино
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" group-title="Кино и сериалы 1 🎬" ,Премиум Кино
 http://188.225.31.197/bpk-tv/000008491/tve/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" group-title="🔴 Кинозалы 🔴" ,Семейное Кино
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" group-title="Кино и сериалы 1 🎬" ,Семейное Кино
 http://188.225.31.197/bpk-tv/000008489/tve/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" group-title="🔴 Кинозалы 🔴" ,BCU Kinorating HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" group-title="Кино и сериалы 1 🎬" ,BCU Kinorating HD
 http://hls127.freeott.top:8080/BCUKinoratingHD/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" group-title="🔴 Кинозалы 🔴" ,BCU Stars HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" group-title="Кино и сериалы 1 🎬" ,BCU Stars HD
 http://hls127.freeott.top:8080/BCUStarsHD/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" group-title="🔴 Кинозалы 🔴" ,Kinowood HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" group-title="Кино и сериалы 1 🎬" ,Kinowood HD
 http://193.27.209.122/kinowood/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" group-title="🔴 Кинозалы 🔴" ,MM Скорость
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" group-title="Кино и сериалы 1 🎬" ,MM Скорость
 http://hls127.freeott.top:8080/minimax-skorost-m4f/video.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" group-title="🔴 Кинозалы 🔴" ,MyTV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" group-title="Кино и сериалы 1 🎬" ,MyTV
 http://hls127.freeott.top:8080/MyTV/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" group-title="🔴 Кинозалы 🔴" ,MyTV 2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" group-title="Кино и сериалы 1 🎬" ,MyTV 2
 http://hls127.freeott.top:8080/MyTV2/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" group-title="🔴 Кинозалы 🔴" ,MyTV 3
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" group-title="Кино и сериалы 1 🎬" ,MyTV 3
 http://hls127.freeott.top:8080/MyTV3/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" group-title="🔴 Кинозалы 🔴" ,Clarity4k Deep House
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" group-title="Кино и сериалы 1 🎬" ,Clarity4k Deep House
 http://hls127.freeott.top:8080/Clarity4K_Concert/video.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" group-title="🔴 Кинозалы 🔴" ,Clarity4k Walt Disney 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" group-title="Кино и сериалы 1 🎬" ,Clarity4k Walt Disney 
 http://hls127.freeott.top:8080/Clarity4K_Walt_Disney/video.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" group-title="🔴 Кинозалы 🔴" ,Clarity4k World Music 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" group-title="Кино и сериалы 1 🎬" ,Clarity4k World Music 
 http://hls127.freeott.top:8080/Clarity4K_World_Music/video.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" group-title="🔴 Кинозалы 🔴" ,Clarity4k Звериный мир
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" group-title="Кино и сериалы 1 🎬" ,Clarity4k Звериный мир
 http://hls127.freeott.top:8080/Clarity4K_Zveriniy_Mir/video.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" group-title="🔴 Кинозалы 🔴" ,Clarity4k Мультимир
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" group-title="Кино и сериалы 1 🎬" ,Clarity4k Мультимир
 http://hls127.freeott.top:8080/Clarity4K_Multmir/video.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" group-title="🔴 Кинозалы 🔴" ,Clarity4k Путешествие 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" group-title="Кино и сериалы 1 🎬" ,Clarity4k Путешествие 
 http://hls127.freeott.top:8080/Clarity4K_Puteshestviya/video.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" group-title="🔴 Кинозалы 🔴" ,Clarity4K Asia
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" group-title="Кино и сериалы 1 🎬" ,Clarity4K Asia
 http://hls127.freeott.top:8080/Clarity4K_Asia/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" group-title="🔴 Кинозалы 🔴" ,Clarity4k Концерт
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" group-title="Кино и сериалы 1 🎬" ,Clarity4k Концерт
 http://hls127.freeott.top:8080/Clarity4K_Concert/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" group-title="🔴 Кинозалы 🔴" ,Clarity4k Единоборства
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" group-title="Кино и сериалы 1 🎬" ,Clarity4k Единоборства
 http://hls127.freeott.top:8080/Clarity4K_Edinoborstva/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" group-title="🔴 Кинозалы 🔴" ,Clarity4K Фантастика
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" group-title="Кино и сериалы 1 🎬" ,Clarity4K Фантастика
 http://hls127.freeott.top:8080/Clarity4K_Fantastic/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" group-title="🔴 Кинозалы 🔴" ,Clarity4K Gamefilm
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" group-title="Кино и сериалы 1 🎬" ,Clarity4K Gamefilm
 http://hls127.freeott.top:8080/Clarity4K_Gamefilm/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" group-title="🔴 Кинозалы 🔴" ,Clarity4K Космомир
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" group-title="Кино и сериалы 1 🎬" ,Clarity4K Космомир
 http://hls127.freeott.top:8080/Clarity4K_Kosmomir/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" group-title="🔴 Кинозалы 🔴" ,Clarity4K Netflix
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" group-title="Кино и сериалы 1 🎬" ,Clarity4K Netflix
 http://hls127.freeott.top:8080/Clarity4K_Netflix/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" group-title="🔴 Кинозалы 🔴" ,Clarity4K Ужасы
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" group-title="Кино и сериалы 1 🎬" ,Clarity4K Ужасы
 http://hls127.freeott.top:8080/Clarity4K_Uzhasi/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" group-title="🔴 Кинозалы 🔴" ,Clarity4k Anime 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" group-title="Кино и сериалы 1 🎬" ,Clarity4k Anime 
 http://hls127.freeott.top:8080/Clarity4K_Anime/video.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" group-title="🔴 Кинозалы 🔴" ,Clarity4k Боевик
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" group-title="Кино и сериалы 1 🎬" ,Clarity4k Боевик
 http://hls127.freeott.top:8080/Clarity4K_Boevik/video.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" group-title="🔴 Кинозалы 🔴" ,Clarity4k Драмы 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" group-title="Кино и сериалы 1 🎬" ,Clarity4k Драмы 
 http://hls127.freeott.top:8080/Clarity4K_Dramma/video.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" group-title="🔴 Кинозалы 🔴" ,Clarity4k Кино Франшизы 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" group-title="Кино и сериалы 1 🎬" ,Clarity4k Кино Франшизы 
 http://hls127.freeott.top:8080/Clarity4K_Kinofranshiza/video.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" group-title="🔴 Кинозалы 🔴" ,Clarity4k Русский сериал
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" group-title="Кино и сериалы 1 🎬" ,Clarity4k Русский сериал
 http://hls127.freeott.top:8080/Clarity4K_Serial/video.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" group-title="🔴 Кинозалы 🔴" ,Clarity4k Семейный 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" group-title="Кино и сериалы 1 🎬" ,Clarity4k Семейный 
 http://hls127.freeott.top:8080/Clarity4K_Semeyniy/video.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" group-title="🔴 Кинозалы 🔴" ,Clarity4k Фэнтези
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" group-title="Кино и сериалы 1 🎬" ,Clarity4k Фэнтези
 http://hls127.freeott.top:8080/Clarity4K_Fentazi/video.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" group-title="🔴 Кинозалы 🔴" ,SSA Film
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" group-title="Кино и сериалы 1 🎬" ,SSA Film
 https://fl1003.bozztv.com/ushba-films-c/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/RGCQzpkk/image-22.png" group-title="🔴 Кинозалы 🔴" ,МУЛЬТИКИ И СКАЗКИ
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RGCQzpkk/image-22.png" group-title="Кино и сериалы 1 🎬" ,МУЛЬТИКИ И СКАЗКИ
 http://hls.goodgame.ru:8080/hls/198446.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/xKh025r9/image-24.png" group-title="🔴 Кинозалы 🔴" ,СоюзМультфильм
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xKh025r9/image-24.png" group-title="Кино и сериалы 1 🎬" ,СоюзМультфильм
 http://194.26.229.213/souzmultfilm/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/HfKN7J17/image-27.png" group-title="🔴 Кинозалы 🔴" ,Чип и Дейл
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HfKN7J17/image-27.png" group-title="Кино и сериалы 1 🎬" ,Чип и Дейл
 http://194.26.229.213/chip-n-dale-rescue-rangers/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" group-title="🔴 Кинозалы 🔴" ,Киножелезо
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" group-title="Кино и сериалы 1 🎬" ,Киножелезо
 http://188.208.197.173/kinojelezo/video.m3u8?token=tvon
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" group-title="🔴 Кинозалы 🔴" ,Наш Киномир
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" group-title="Кино и сериалы 1 🎬" ,Наш Киномир
 http://hls127.freeott.top:8080/Nash_kinomir/video.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" group-title="🔴 Кинозалы 🔴" ,Кинолаффка
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" group-title="Кино и сериалы 1 🎬" ,Кинолаффка
 http://188.208.197.173/kinolafka/video.m3u8?token=tvon
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" group-title="🔴 Кинозалы 🔴" ,Кино и жизнь
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" group-title="Кино и сериалы 1 🎬" ,Кино и жизнь
 http://188.208.197.173/kinojizn/video.m3u8?token=Rblztg5NZwI9x2
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" group-title="🔴 Кинозалы 🔴" ,CPS Action
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" group-title="Кино и сериалы 1 🎬" ,CPS Action
 http://hls127.freeott.top:8080/CPS_Action/video.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" group-title="🔴 Кинозалы 🔴" ,CPS Anime
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" group-title="Кино и сериалы 1 🎬" ,CPS Anime
 http://hls127.freeott.top:8080/CPS_Anime/video.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" group-title="🔴 Кинозалы 🔴" ,CPS Cartoon
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" group-title="Кино и сериалы 1 🎬" ,CPS Cartoon
 http://hls127.freeott.top:8080/CPS_Cartoon/video.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" group-title="🔴 Кинозалы 🔴" ,CPS Comedy
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" group-title="Кино и сериалы 1 🎬" ,CPS Comedy
 http://hls127.freeott.top:8080/CPS_Comedy/video.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" group-title="🔴 Кинозалы 🔴" ,CPS Drama
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" group-title="Кино и сериалы 1 🎬" ,CPS Drama
 http://hls127.freeott.top:8080/CPS_Drama/video.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" group-title="🔴 Кинозалы 🔴" ,CPS Fiction
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" group-title="Кино и сериалы 1 🎬" ,CPS Fiction
 http://hls127.freeott.top:8080/CPS_Fiction/video.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" group-title="🔴 Кинозалы 🔴" ,CPS Fresh
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" group-title="Кино и сериалы 1 🎬" ,CPS Fresh
 http://hls127.freeott.top:8080/CPS_Fresh/video.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" group-title="🔴 Кинозалы 🔴" ,CPS Investigation
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" group-title="Кино и сериалы 1 🎬" ,CPS Investigation
 http://hls127.freeott.top:8080/CPS_Investigation/video.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" group-title="🔴 Кинозалы 🔴" ,CPS Jackie Chan 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" group-title="Кино и сериалы 1 🎬" ,CPS Jackie Chan 
 http://hls127.freeott.top:8080/CPS_Jackie_Chan/video.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" group-title="🔴 Кинозалы 🔴" ,CPS Mix
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" group-title="Кино и сериалы 1 🎬" ,CPS Mix
 http://hls127.freeott.top:8080/CPS_Mix/video.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" group-title="🔴 Кинозалы 🔴" ,Saga TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" group-title="Кино и сериалы 1 🎬" ,Saga TV
 http://46.175.123.164:4022/udp/239.195.65.56:1234
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" group-title="🔴 Кинозалы 🔴" ,Suspense
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" group-title="Кино и сериалы 1 🎬" ,Suspense
 http://146.120.14.239:3001/play/a08o
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" group-title="🔴 Кинозалы 🔴" ,Cinema Test
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" group-title="Кино и сериалы 1 🎬" ,Cinema Test
 https://rpn3.bozztv.com/dvrfl07/ushba64/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" group-title="🔴 Кинозалы 🔴" ,VHDV TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" group-title="Кино и сериалы 1 🎬" ,VHDV TV
 https://live20.bozztv.com/akamaissh101/ssh101/1vhdvtvstriming/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" group-title="🔴 Кинозалы 🔴" ,MB TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" group-title="Кино и сериалы 1 🎬" ,MB TV
 https://dvrfl07.bozztv.com/ushba-films-yz/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" group-title="🔴 Кинозалы 🔴" ,МУви ТВ
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" group-title="Кино и сериалы 1 🎬" ,МУви ТВ
 http://cdn.voka.tv/live/5007-req_5k_v5.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" group-title="🔴 Кинозалы 🔴" ,Fox Kids
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" group-title="Кино и сериалы 1 🎬" ,Fox Kids
 http://foxkids-online.ru/hls/test_240p264kbs/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" group-title="🔴 Кинозалы 🔴" ,FilmOFF
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" group-title="Кино и сериалы 1 🎬" ,FilmOFF
 https://stream.ushba.tv/akamaiushba/ushba65/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/p6y4Q1vk/image-9.png" group-title="🔴 Кинозалы 🔴" ,DTR Zona 1
+#EXTINF:-1 tvg-logo="https://i.ibb.co/p6y4Q1vk/image-9.png" group-title="Кино и сериалы 1 🎬" ,DTR Zona 1
 https://kino-stream.online/hls/DTRZONA1.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/bG8q9BM/image-12.png" group-title="🔴 Кинозалы 🔴" , TV4 HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bG8q9BM/image-12.png" group-title="Кино и сериалы 1 🎬" , TV4 HD
 https://dvr3.vokkavideo.xyz/TV4HD/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/bG8q9BM/image-12.png" group-title="🔴 Кинозалы 🔴" , TV4 Русское Кино
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bG8q9BM/image-12.png" group-title="Кино и сериалы 1 🎬" , TV4 Русское Кино
 https://dvr3.vokkavideo.xyz/TV4RUKINO/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/bG8q9BM/image-12.png" group-title="🔴 Кинозалы 🔴" , TV4 Relax HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bG8q9BM/image-12.png" group-title="Кино и сериалы 1 🎬" , TV4 Relax HD
 https://dvr3.vokkavideo.xyz/TV4RELAXHD/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/bG8q9BM/image-12.png" group-title="🔴 Кинозалы 🔴" , TV4 Hits HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bG8q9BM/image-12.png" group-title="Кино и сериалы 1 🎬" , TV4 Hits HD
 https://dvr3.vokkavideo.xyz/TV4HITSHD/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/k2MGDGPy/image-15.png" group-title="🔴 Кинозалы 🔴" , Новый Русский
+#EXTINF:-1 tvg-logo="https://i.ibb.co/k2MGDGPy/image-15.png" group-title="Кино и сериалы 1 🎬" , Новый Русский
 https://dvr3.vokkavideo.xyz/NEWRUSSIAHD/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" group-title="🔴 Кинозалы 🔴" , HTV HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" group-title="Кино и сериалы 1 🎬" , HTV HD
 https://dvr3.vokkavideo.xyz/HTVHD/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" group-title="🔴 Кинозалы 🔴" , Кинозал
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" group-title="Кино и сериалы 1 🎬" , Кинозал
 http://185.57.68.33/237/mpegts
-#EXTINF:-1 tvg-logo="https://i.ibb.co/4R8vrk8W/image-27.png" group-title="🔴 Кинозалы 🔴" , IPTVPLAY МультСказки HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4R8vrk8W/image-27.png" group-title="Кино и сериалы 1 🎬" , IPTVPLAY МультСказки HD
 http://5.188.158.65:4040/IPTVPLAYMultSkazki.tv/video.m3u8?token=lqRGka5-YwwqF0
-#EXTINF:-1 tvg-logo="https://i.ibb.co/4R8vrk8W/image-27.png" group-title="🔴 Кинозалы 🔴" , IPTVPLAY ВЕДЬМАК
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4R8vrk8W/image-27.png" group-title="Кино и сериалы 1 🎬" , IPTVPLAY ВЕДЬМАК
 http://5.188.158.65:4040/IPTVPLAYVEDMAK.tv/video.m3u8?token=lqRGka5-YwwqF0
-#EXTINF:-1 tvg-logo="https://i.ibb.co/4R8vrk8W/image-27.png" group-title="🔴 Кинозалы 🔴" , IPTVPLAY ДЕСЯТОЕ КОРОЛЕВСТВО
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4R8vrk8W/image-27.png" group-title="Кино и сериалы 1 🎬" , IPTVPLAY ДЕСЯТОЕ КОРОЛЕВСТВО
 http://5.188.158.65:4040/IPTVPLAY10KOROLEVSTVO.tv/video.m3u8?token=lqRGka5-YwwqF0
-#EXTINF:-1 tvg-logo="https://i.ibb.co/4R8vrk8W/image-27.png" group-title="🔴 Кинозалы 🔴" , IPTVPLAY ИНТЕРНЫ
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4R8vrk8W/image-27.png" group-title="Кино и сериалы 1 🎬" , IPTVPLAY ИНТЕРНЫ
 http://5.188.158.65:4040/IPTVPLAYINTERNY.tv/video.m3u8?token=lqRGka5-YwwqF0
-#EXTINF:-1 tvg-logo="https://i.ibb.co/4R8vrk8W/image-27.png" group-title="🔴 Кинозалы 🔴" ,IPTVPLAY ФАНТАСТИКА
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4R8vrk8W/image-27.png" group-title="Кино и сериалы 1 🎬" ,IPTVPLAY ФАНТАСТИКА
 http://5.188.158.65:4040/IPTVPLAYFANTASTIKA.tv/video.m3u8?token=lqRGka5-YwwqF0
-#EXTINF:-1 tvg-logo="https://i.ibb.co/4R8vrk8W/image-27.png" group-title="🔴 Кинозалы 🔴" ,IPTVPLAY ПАМЯТЬ
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4R8vrk8W/image-27.png" group-title="Кино и сериалы 1 🎬" ,IPTVPLAY ПАМЯТЬ
 http://5.188.158.65:4040/IPTVPLAYPAMYAT.tv/video.m3u8?token=lqRGka5-YwwqF0
-#EXTINF:-1 tvg-logo="https://i.ibb.co/4R8vrk8W/image-27.png" group-title="🔴 Кинозалы 🔴" ,IPTVPLAY УЖАСТИК
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4R8vrk8W/image-27.png" group-title="Кино и сериалы 1 🎬" ,IPTVPLAY УЖАСТИК
 http://5.188.158.65:4040/IPTVPLAYUZHASTIK.tv/video.m3u8?token=lqRGka5-YwwqF0
-#EXTINF:-1 tvg-logo="https://i.ibb.co/4R8vrk8W/image-27.png" group-title="🔴 Кинозалы 🔴", IPTVPLAY Великая Отечественная HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4R8vrk8W/image-27.png" group-title="Кино и сериалы 1 🎬", IPTVPLAY Великая Отечественная HD
 http://5.188.158.65:4040/IPTVPLAYVOV.tv/video.m3u8?token=lqRGka5-YwwqF0
-#EXTINF:-1 tvg-logo="https://i.ibb.co/DP9L0sBQ/image-4.png" tvg-id="" group-title="🔴 Кинозалы 🔴",STR TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/DP9L0sBQ/image-4.png" tvg-id="" group-title="Кино и сериалы 1 🎬",STR TV
 https://fl1001.bozztv.com/ushba-films-uv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/994jvr6f/image-4.png" tvg-id="" group-title="🔴 Кинозалы 🔴",Film Best
+#EXTINF:-1 tvg-logo="https://i.ibb.co/994jvr6f/image-4.png" tvg-id="" group-title="Кино и сериалы 1 🎬",Film Best
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://hls.goodgame.ru:8080/hls/212682.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/RKk8ncX/image-34.png" tvg-id="" group-title="🔴 Кинозалы 🔴", Видеокассета VHS
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RKk8ncX/image-34.png" tvg-id="" group-title="Кино и сериалы 1 🎬", Видеокассета VHS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 https://live20.bozztv.com/akamaissh101/ssh101/livevhs90e/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/4ZwcfR6P/image-28.png" tvg-id="" group-title="🔴 Кинозалы 🔴",Кибер Задов
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4ZwcfR6P/image-28.png" tvg-id="" group-title="Кино и сериалы 1 🎬",Кибер Задов
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://hls.goodgame.ru:8080/hls/210558.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/DHfCmsV5/image-29.png" tvg-id="" group-title="🔴 Кинозалы 🔴",Katastroff
+#EXTINF:-1 tvg-logo="https://i.ibb.co/DHfCmsV5/image-29.png" tvg-id="" group-title="Кино и сериалы 1 🎬",Katastroff
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://hls.goodgame.ru:8080/hls/208789.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/q3DYpX5n/image-9.png" tvg-id="" group-title="🔴 Кинозалы 🔴",Zubrilom Franchise
+#EXTINF:-1 tvg-logo="https://i.ibb.co/q3DYpX5n/image-9.png" tvg-id="" group-title="Кино и сериалы 1 🎬",Zubrilom Franchise
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://hls.goodgame.ru:8080/hls/218193.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/q3DYpX5n/image-9.png" tvg-id="" group-title="🔴 Кинозалы 🔴",Zubrilom Film 2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/q3DYpX5n/image-9.png" tvg-id="" group-title="Кино и сериалы 1 🎬",Zubrilom Film 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://hls.goodgame.ru:8080/hls/218251.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/N6sYPbwM/image-11.png" tvg-id="" group-title="🔴 Кинозалы 🔴",Восход ТВ
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N6sYPbwM/image-11.png" tvg-id="" group-title="Кино и сериалы 1 🎬",Восход ТВ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://hls.goodgame.ru:8080/hls/202997.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/BVhTP11W/image-14.png" tvg-id="" group-title="🔴 Кинозалы 🔴",VHS кино
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BVhTP11W/image-14.png" tvg-id="" group-title="Кино и сериалы 1 🎬",VHS кино
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://hls.goodgame.ru:8080/hls/218531.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/jZkZJZ5z/image-48.png" tvg-id="" group-title="🔴 Кинозалы 🔴",ВИДЕОСАЛОН VHS
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jZkZJZ5z/image-48.png" tvg-id="" group-title="Кино и сериалы 1 🎬",ВИДЕОСАЛОН VHS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://hls.goodgame.ru:8080/hls/175764.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/CK7Y5sxg/image-16.png" tvg-id="" group-title="🔴 Кинозалы 🔴",1FILMAX
+#EXTINF:-1 tvg-logo="https://i.ibb.co/CK7Y5sxg/image-16.png" tvg-id="" group-title="Кино и сериалы 1 🎬",1FILMAX
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://hls.goodgame.ru:8080/hls/204708.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/rKjPzpKD/image-17.png" tvg-id="" group-title="🔴 Кинозалы 🔴",2FILMAX
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rKjPzpKD/image-17.png" tvg-id="" group-title="Кино и сериалы 1 🎬",2FILMAX
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://hls.goodgame.ru:8080/hls/204717.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/gG2bNbq/image-30.png" tvg-id="" group-title="🔴 Кинозалы 🔴", Скрипач ТВ
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gG2bNbq/image-30.png" tvg-id="" group-title="Кино и сериалы 1 🎬", Скрипач ТВ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://hls.goodgame.ru:8080/hls/217083.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/WvCddqkN/image-31.png" tvg-id="" group-title="🔴 Кинозалы 🔴", SeriesTV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WvCddqkN/image-31.png" tvg-id="" group-title="Кино и сериалы 1 🎬", SeriesTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://hls.goodgame.ru:8080/hls/186021.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ynK7QpVV/image-18.png" tvg-id="" group-title="🔴 Кинозалы 🔴",Фантом
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ynK7QpVV/image-18.png" tvg-id="" group-title="Кино и сериалы 1 🎬",Фантом
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://hls.goodgame.ru:8080/hls/204722.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/JL8WjZQ/image-32.png" tvg-id="" group-title="🔴 Кинозалы 🔴", Dimpon HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/JL8WjZQ/image-32.png" tvg-id="" group-title="Кино и сериалы 1 🎬", Dimpon HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://hls.goodgame.ru:8080/hls/210470.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/WW7QqrJD/image-19.png" tvg-id="" group-title="🔴 Кинозалы 🔴",Кошмар HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WW7QqrJD/image-19.png" tvg-id="" group-title="Кино и сериалы 1 🎬",Кошмар HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://hls.goodgame.ru:8080/hls/204709.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/m5xtPMJq/image-16.png" group-title="🔴 Кинозалы 🔴", Kino Mix
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/m5xtPMJq/image-16.png" group-title="Кино и сериалы 1 🎬", Kino Mix
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://hls.goodgame.ru:8080/hls/216612.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/wrC4Bs07/image-20.png" tvg-id="" group-title="🔴 Кинозалы 🔴",Akudji
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wrC4Bs07/image-20.png" tvg-id="" group-title="Кино и сериалы 1 🎬",Akudji
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://hls.goodgame.ru:8080/hls/5346.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hFs2QPrZ/image-35.png" tvg-id="" group-title="🔴 Кинозалы 🔴", FMC 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hFs2QPrZ/image-35.png" tvg-id="" group-title="Кино и сериалы 1 🎬", FMC 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://hls.goodgame.ru:8080/hls/187741.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/HD0m1Kxn/image-21.png" tvg-id="" group-title="🔴 Кинозалы 🔴",FAN HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HD0m1Kxn/image-21.png" tvg-id="" group-title="Кино и сериалы 1 🎬",FAN HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://hls.goodgame.ru:8080/hls/157239.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/p61PV0CV/image-22.png" tvg-id="" group-title="🔴 Кинозалы 🔴",Futurama
+#EXTINF:-1 tvg-logo="https://i.ibb.co/p61PV0CV/image-22.png" tvg-id="" group-title="Кино и сериалы 1 🎬",Futurama
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://hls.goodgame.ru:8080/hls/199417.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/0Rjh9fgt/image-23.png" tvg-id="" group-title="🔴 Кинозалы 🔴",Moviee Toper
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0Rjh9fgt/image-23.png" tvg-id="" group-title="Кино и сериалы 1 🎬",Moviee Toper
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://hls.goodgame.ru:8080/hls/214749.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ycZVy30v/image-24.png" tvg-id="" group-title="🔴 Кинозалы 🔴", Malder Мегахит
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ycZVy30v/image-24.png" tvg-id="" group-title="Кино и сериалы 1 🎬", Malder Мегахит
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 https://autopilot.catcast.tv/content/47689/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/9kYk7PtV/image-26.png" tvg-id="" group-title="🔴 Кинозалы 🔴", Malder Всё тв
+#EXTINF:-1 tvg-logo="https://i.ibb.co/9kYk7PtV/image-26.png" tvg-id="" group-title="Кино и сериалы 1 🎬", Malder Всё тв
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://hls.goodgame.ru:8080/hls/153640.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/FPDyRdj/image-37.png" tvg-id="" group-title="🔴 Кинозалы 🔴", Ретро Мульт
+#EXTINF:-1 tvg-logo="https://i.ibb.co/FPDyRdj/image-37.png" tvg-id="" group-title="Кино и сериалы 1 🎬", Ретро Мульт
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://hls.goodgame.ru:8080/hls/213086.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/BH5Kfx36/image-4.png" tvg-id="" group-title="🔴 Кинозалы 🔴", Logovo Films
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BH5Kfx36/image-4.png" tvg-id="" group-title="Кино и сериалы 1 🎬", Logovo Films
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 https://stream.ushba.tv/akamaiushba/ushba-films-a/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/pvCJpRnm/image-4.png" tvg-id="" group-title="🔴 Кинозалы 🔴", TvBoom-ViP
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pvCJpRnm/image-4.png" tvg-id="" group-title="Кино и сериалы 1 🎬", TvBoom-ViP
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 https://kb.catcast.tv/content/49702/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/rf5ChNbx/image-9.png" tvg-id="" group-title="🔴 Кинозалы 🔴", KinoJam
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rf5ChNbx/image-9.png" tvg-id="" group-title="Кино и сериалы 1 🎬", KinoJam
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://hls.goodgame.ru:8080/hls/210182.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/r25pMz2T/image-22.png" group-title="🔴 Кинозалы 🔴", LAV-KINO
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/r25pMz2T/image-22.png" group-title="Кино и сериалы 1 🎬", LAV-KINO
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 https://fl1004.bozztv.com/ushba32/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hrJnvY6/image-15.png" tvg-id="" group-title="🔴 Кинозалы 🔴", SeleCaoTV 1
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hrJnvY6/image-15.png" tvg-id="" group-title="Кино и сериалы 1 🎬", SeleCaoTV 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://hls.goodgame.ru:8080/hls/163253.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hrJnvY6/image-15.png" tvg-id="" group-title="🔴 Кинозалы 🔴", SeleCaoTV 2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hrJnvY6/image-15.png" tvg-id="" group-title="Кино и сериалы 1 🎬", SeleCaoTV 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://hls.goodgame.ru:8080/hls/157269.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ynMtCF2H/image-29.png" tvg-id="" group-title="🔴 Кинозалы 🔴", Video Arsenal
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ynMtCF2H/image-29.png" tvg-id="" group-title="Кино и сериалы 1 🎬", Video Arsenal
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://hls.goodgame.ru:8080/hls/206461.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/MDMY0JNB/image-43.png" tvg-id="" group-title="🔴 Кинозалы 🔴", CyberTV_1
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MDMY0JNB/image-43.png" tvg-id="" group-title="Кино и сериалы 1 🎬", CyberTV_1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://hls.goodgame.ru:8080/hls/214454.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/MDMY0JNB/image-43.png" tvg-id="" group-title="🔴 Кинозалы 🔴", CyberTV_2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MDMY0JNB/image-43.png" tvg-id="" group-title="Кино и сериалы 1 🎬", CyberTV_2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://hls.goodgame.ru:8080/hls/214433.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/MDMY0JNB/image-43.png" tvg-id="" group-title="🔴 Кинозалы 🔴", CyberTV_3
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MDMY0JNB/image-43.png" tvg-id="" group-title="Кино и сериалы 1 🎬", CyberTV_3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://hls.goodgame.ru:8080/hls/214421.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" tvg-id="" group-title="🔴 Кинозалы 🔴", Sever TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" tvg-id="" group-title="Кино и сериалы 1 🎬", Sever TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://hls.goodgame.ru:8080/hls/146065.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" tvg-id="" group-title="🔴 Кинозалы 🔴", GRAND TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" tvg-id="" group-title="Кино и сериалы 1 🎬", GRAND TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://hls.goodgame.ru:8080/hls/215088.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" tvg-id="" group-title="🔴 Кинозалы 🔴", ⚡FoxKids
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" tvg-id="" group-title="Кино и сериалы 1 🎬", ⚡FoxKids
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://hls.goodgame.ru:8080/hls/215291.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/W4P473rb/image-18.png" tvg-id="" group-title="🔴 Кинозалы 🔴", Alpha Cinema
+#EXTINF:-1 tvg-logo="https://i.ibb.co/W4P473rb/image-18.png" tvg-id="" group-title="Кино и сериалы 1 🎬", Alpha Cinema
 http://live.15plusmg.ru/memfs/b389173a-df4e-4171-8904-e249893e71eb.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/RkDr4pzm/image-19.png" tvg-id="" group-title="🔴 Кинозалы 🔴", Alpha Funny
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RkDr4pzm/image-19.png" tvg-id="" group-title="Кино и сериалы 1 🎬", Alpha Funny
 http://live.15plusmg.ru/memfs/90b76c71-a86e-488a-aac4-cb66d6f88781.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/BRsytNR/image-20.png" tvg-id="" group-title="🔴 Кинозалы 🔴", Alpha Moretime
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BRsytNR/image-20.png" tvg-id="" group-title="Кино и сериалы 1 🎬", Alpha Moretime
 http://live.15plusmg.ru/memfs/3546fc09-2eba-459d-9a1f-9a2fc39e50bd.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" tvg-id="" group-title="🔴 Кинозалы 🔴",🔴 Британский юмор 😐
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" tvg-id="" group-title="Кино и сериалы 1 🎬",🔴 Британский юмор 😐
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://hls.goodgame.ru:8080/hls/218490.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/bgXG58Gp/image-35.png" tvg-id="" group-title="🔴 Кинозалы 🔴", VKTV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bgXG58Gp/image-35.png" tvg-id="" group-title="Кино и сериалы 1 🎬", VKTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://hls.goodgame.ru:8080/hls/173945.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" tvg-id="" group-title="🔴 Кинозалы 🔴",LollyDragon
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" tvg-id="" group-title="Кино и сериалы 1 🎬",LollyDragon
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://hls.goodgame.ru:8080/hls/183946.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" tvg-id="" group-title="🔴 Кинозалы 🔴",Tocoxoj361
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" tvg-id="" group-title="Кино и сериалы 1 🎬",Tocoxoj361
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://hls.goodgame.ru:8080/hls/218475.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" tvg-id="" group-title="🔴 Кинозалы 🔴",Roper89
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" tvg-id="" group-title="Кино и сериалы 1 🎬",Roper89
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://hls.goodgame.ru:8080/hls/76954.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" tvg-id="" group-title="🔴 Кинозалы 🔴", P Boy Podpischik
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" tvg-id="" group-title="Кино и сериалы 1 🎬", P Boy Podpischik
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://hls.goodgame.ru:8080/hls/40391.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" tvg-id="" group-title="🔴 Кинозалы 🔴", DiZagree
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" tvg-id="" group-title="Кино и сериалы 1 🎬", DiZagree
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://hls.goodgame.ru:8080/hls/48017.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" tvg-id="" group-title="🔴 Кинозалы 🔴", УЖАСЫ ФАНТАСТИКА 80-90-00
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" tvg-id="" group-title="Кино и сериалы 1 🎬", УЖАСЫ ФАНТАСТИКА 80-90-00
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://hls.goodgame.ru:8080/hls/211351.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" tvg-id="" group-title="🔴 Кинозалы 🔴", CMehanikus
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" tvg-id="" group-title="Кино и сериалы 1 🎬", CMehanikus
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://hls.goodgame.ru:8080/hls/122616.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" tvg-id="" group-title="🔴 Кинозалы 🔴", Fizcultprivet
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" tvg-id="" group-title="Кино и сериалы 1 🎬", Fizcultprivet
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://hls.goodgame.ru:8080/hls/29969.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" tvg-id="" group-title="🔴 Кинозалы 🔴", TanushkaVL
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" tvg-id="" group-title="Кино и сериалы 1 🎬", TanushkaVL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://hls.goodgame.ru:8080/hls/90156.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" tvg-id="" group-title="🔴 Кинозалы 🔴", Djaga68
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" tvg-id="" group-title="Кино и сериалы 1 🎬", Djaga68
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://hls.goodgame.ru:8080/hls/211665.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" tvg-id="" group-title="🔴 Кинозалы 🔴", HF_GL
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" tvg-id="" group-title="Кино и сериалы 1 🎬", HF_GL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://hls.goodgame.ru:8080/hls/17605.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" tvg-id="" group-title="🔴 Кинозалы 🔴", Streamota
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" tvg-id="" group-title="Кино и сериалы 1 🎬", Streamota
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://hls.goodgame.ru:8080/hls/50797.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" tvg-id="" group-title="🔴 Кинозалы 🔴", Nostromia
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" tvg-id="" group-title="Кино и сериалы 1 🎬", Nostromia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://hls.goodgame.ru:8080/hls/36707.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" tvg-id="" group-title="🔴 Кинозалы 🔴", STRIMACH
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" tvg-id="" group-title="Кино и сериалы 1 🎬", STRIMACH
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://hls.goodgame.ru:8080/hls/154297.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" tvg-id="" group-title="🔴 Кинозалы 🔴", oIIIo
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" tvg-id="" group-title="Кино и сериалы 1 🎬", oIIIo
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://hls.goodgame.ru:8080/hls/127463.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" tvg-id="" group-title="🔴 Кинозалы 🔴", Yesnomb
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" tvg-id="" group-title="Кино и сериалы 1 🎬", Yesnomb
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://hls.goodgame.ru:8080/hls/189993.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" tvg-id="" group-title="🔴 Кинозалы 🔴", - Кино Хит - 24 / 7 -
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" tvg-id="" group-title="Кино и сериалы 1 🎬", - Кино Хит - 24 / 7 -
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://hls.goodgame.ru:8080/hls/215741.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" tvg-id="" group-title="🔴 Кинозалы 🔴", Grin43
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" tvg-id="" group-title="Кино и сериалы 1 🎬", Grin43
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://hls.goodgame.ru:8080/hls/201734.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" tvg-id="" group-title="🔴 Кинозалы 🔴", Tiferet
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" tvg-id="" group-title="Кино и сериалы 1 🎬", Tiferet
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://hls.goodgame.ru:8080/hls/215215.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" tvg-id="" group-title="🔴 Кинозалы 🔴", Brat_Loken
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" tvg-id="" group-title="Кино и сериалы 1 🎬", Brat_Loken
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://hls.goodgame.ru:8080/hls/161950.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" tvg-id="" group-title="🔴 Кинозалы 🔴", KROPOTKIN_POWER
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" tvg-id="" group-title="Кино и сериалы 1 🎬", KROPOTKIN_POWER
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://hls.goodgame.ru:8080/hls/177016.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" tvg-id="" group-title="🔴 Кинозалы 🔴", steel-man
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" tvg-id="" group-title="Кино и сериалы 1 🎬", steel-man
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://hls.goodgame.ru:8080/hls/215425.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" tvg-id="" group-title="🔴 Кинозалы 🔴", KPOT666NETOT
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" tvg-id="" group-title="Кино и сериалы 1 🎬", KPOT666NETOT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://hls.goodgame.ru:8080/hls/207482.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" tvg-id="" group-title="🔴 Кинозалы 🔴",AlexVira
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" tvg-id="" group-title="Кино и сериалы 1 🎬",AlexVira
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://hls.goodgame.ru:8080/hls/106103.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" tvg-id="" group-title="🔴 Кинозалы 🔴",Scatman
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" tvg-id="" group-title="Кино и сериалы 1 🎬",Scatman
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://hls.goodgame.ru:8080/hls/3893.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" tvg-id="" group-title="🔴 Кинозалы 🔴",Абсолют синема
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" tvg-id="" group-title="Кино и сериалы 1 🎬",Абсолют синема
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://hls.goodgame.ru:8080/hls/122102.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" tvg-id="" group-title="🔴 Кинозалы 🔴",nealweil
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" tvg-id="" group-title="Кино и сериалы 1 🎬",nealweil
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://hls.goodgame.ru:8080/hls/133846.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" tvg-id="" group-title="🔴 Кинозалы 🔴",x2Neron
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" tvg-id="" group-title="Кино и сериалы 1 🎬",x2Neron
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://hls.goodgame.ru:8080/hls/3592.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" tvg-id="" group-title="🔴 Кинозалы 🔴",Zeratoo70
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" tvg-id="" group-title="Кино и сериалы 1 🎬",Zeratoo70
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://hls.goodgame.ru:8080/hls/41158.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" tvg-id="" group-title="🔴 Кинозалы 🔴",Kaifmanov
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" tvg-id="" group-title="Кино и сериалы 1 🎬",Kaifmanov
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://hls.goodgame.ru:8080/hls/217839.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" tvg-id="" group-title="🔴 Кинозалы 🔴",runepi
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" tvg-id="" group-title="Кино и сериалы 1 🎬",runepi
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://hls.goodgame.ru:8080/hls/210953.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" tvg-id="" group-title="🔴 Кинозалы 🔴",x_SaSai_KudasaI_x
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" tvg-id="" group-title="Кино и сериалы 1 🎬",x_SaSai_KudasaI_x
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://hls.goodgame.ru:8080/hls/185447.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" tvg-id="" group-title="🔴 Кинозалы 🔴",slender96
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" tvg-id="" group-title="Кино и сериалы 1 🎬",slender96
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://hls.goodgame.ru:8080/hls/208749.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" tvg-id="" group-title="🔴 Кинозалы 🔴",Kopilka
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" tvg-id="" group-title="Кино и сериалы 1 🎬",Kopilka
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://hls.goodgame.ru:8080/hls/116501.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/MDG9Q7YH/image-36.png" tvg-id="" group-title="🔴 Кинозалы 🔴", MGM
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MDG9Q7YH/image-36.png" tvg-id="" group-title="Кино и сериалы 1 🎬", MGM
 https://autopilot.catcast.tv/content/44051/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/pBZQdVdM/image-30.png" tvg-id="" group-title="🔴 Кинозалы 🔴", Шеф
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pBZQdVdM/image-30.png" tvg-id="" group-title="Кино и сериалы 1 🎬", Шеф
 https://cdn-dvr.ntv.ru/Shef/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/7tSd2XYf/image-31.png" tvg-id="" group-title="🔴 Кинозалы 🔴", Первый Отдел
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7tSd2XYf/image-31.png" tvg-id="" group-title="Кино и сериалы 1 🎬", Первый Отдел
 https://cdn-dvr.ntv.ru/Perviy_otdel/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Mxv7fjsN/image-32.png" tvg-id="" group-title="🔴 Кинозалы 🔴", Невский
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Mxv7fjsN/image-32.png" tvg-id="" group-title="Кино и сериалы 1 🎬", Невский
 https://cdn-dvr.ntv.ru/Nevskiy/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/nsjTTHm2/image-44.png" tvg-id="" group-title="🔴 Кинозалы 🔴", Пёс
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nsjTTHm2/image-44.png" tvg-id="" group-title="Кино и сериалы 1 🎬", Пёс
 https://cdn-dvr.ntv.ru/Pes/tracks-v1a1/rewind-240.ts.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ynB5bFXQ/image-45.png" tvg-id="" group-title="🔴 Кинозалы 🔴", Скорая помощь
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ynB5bFXQ/image-45.png" tvg-id="" group-title="Кино и сериалы 1 🎬", Скорая помощь
 https://cdn-dvr.ntv.ru/Skoraja_pomosh/tracks-v1a1/rewind-240.ts.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/kggBNFF4/image-46.png" tvg-id="" group-title="🔴 Кинозалы 🔴", Балабол
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kggBNFF4/image-46.png" tvg-id="" group-title="Кино и сериалы 1 🎬", Балабол
 https://cdn-dvr.ntv.ru/Balabol/tracks-v1a1/rewind-240.ts.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/HpNJPkGR/image-47.png" tvg-id="" group-title="🔴 Кинозалы 🔴", Пять минут тишины
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HpNJPkGR/image-47.png" tvg-id="" group-title="Кино и сериалы 1 🎬", Пять минут тишины
 https://cdn-dvr.ntv.ru/5_minut_tishiny/tracks-v1a1/rewind-240.ts.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/nMsMD0Q4/image-34.png" tvg-id="" group-title="🔴 Кинозалы 🔴", Следствие вели... 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nMsMD0Q4/image-34.png" tvg-id="" group-title="Кино и сериалы 1 🎬", Следствие вели... 
 https://cdn-dvr.ntv.ru/sledstvie/tracks-v1a1/rewind-240.ts.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/CpYZFf54/image-38.png" tvg-id="" group-title="🔴 Кинозалы 🔴", Ты супер !
+#EXTINF:-1 tvg-logo="https://i.ibb.co/CpYZFf54/image-38.png" tvg-id="" group-title="Кино и сериалы 1 🎬", Ты супер !
 https://cdn-dvr.ntv.ru/Super/tracks-v1a1/rewind-240.ts.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/bjBsFPkh/image-33.png" tvg-id="" group-title="🔴 Кинозалы 🔴", TV1 (KG)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bjBsFPkh/image-33.png" tvg-id="" group-title="Кино и сериалы 1 🎬", TV1 (KG)
 http://212.2.225.30:1935/live/site.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" tvg-id="" group-title="🔴 Кинозалы 🔴", KTV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" tvg-id="" group-title="Кино и сериалы 1 🎬", KTV
 http://cdn-konultvazerbaijan.yayin.com.tr/konultvazerbaijan/konultvazerbaijan/playlist.m3u
-#EXTINF:-1 tvg-logo="https://i.ibb.co/0pDTSvhW/image-4.png" tvg-id="" group-title="🔴 Кинозалы 🔴",Revolyo Pulse
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0pDTSvhW/image-4.png" tvg-id="" group-title="Кино и сериалы 1 🎬",Revolyo Pulse
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/3y8rPhPS/image-17.png" tvg-id="" group-title="🔴 Кинозалы 🔴",312 Сериал
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3y8rPhPS/image-17.png" tvg-id="" group-title="Кино и сериалы 1 🎬",312 Сериал
 http://176.126.166.43:1935/live/312musik/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/3y8rPhPS/image-17.png" tvg-id="" group-title="🔴 Кинозалы 🔴",312 Кино
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3y8rPhPS/image-17.png" tvg-id="" group-title="Кино и сериалы 1 🎬",312 Кино
 http://176.126.166.43:1935/live/312kino/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ks1NNrWY/image-11.png" tvg-id="" group-title="🔴 Кинозалы 🔴", Кино 1 International
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ks1NNrWY/image-11.png" tvg-id="" group-title="Кино и сериалы 1 🎬", Кино 1 International
 https://kino-1.catcast.tv/content/38617/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ks1NNrWY/image-11.png" tvg-id="" group-title="🔴 Кинозалы 🔴", Кино 18+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ks1NNrWY/image-11.png" tvg-id="" group-title="Кино и сериалы 1 🎬", Кино 18+
 https://v2.catcast.tv/content/40381/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ks1NNrWY/image-11.png" tvg-id="" group-title="🔴 Кинозалы 🔴", Детское Кино International
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ks1NNrWY/image-11.png" tvg-id="" group-title="Кино и сериалы 1 🎬", Детское Кино International
 https://v2.catcast.tv/content/38720/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/XfGVQMmB/image-4.png" tvg-id="" group-title="🔴 Кинозалы 🔴", ԼԱՅՄ GOLD TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/XfGVQMmB/image-4.png" tvg-id="" group-title="Кино и сериалы 1 🎬", ԼԱՅՄ GOLD TV
 https://v2.catcast.tv/content/40546/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/vxvChLq8/image-34.png" tvg-id="" group-title="🔴 Кинозалы 🔴", Kino 24
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vxvChLq8/image-34.png" tvg-id="" group-title="Кино и сериалы 1 🎬", Kino 24
 http://sirius.greenhosting.ru/Kino24Ru/video.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/3ycBZqx3/image-14.png" tvg-id="" group-title="🔴 Кинозалы 🔴", PRO100 TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3ycBZqx3/image-14.png" tvg-id="" group-title="Кино и сериалы 1 🎬", PRO100 TV
 http://sirius.greenhosting.ru/Pro100tvRu/tracks-v1a1/mono.m3u8
-#EXTINF:-0 tvg-id="no_epg_cinema" group-title="🔴 Кинозалы 🔴" tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png",VIVA Russia
+#EXTINF:-0 tvg-id="no_epg_cinema" group-title="Кино и сериалы 1 🎬" tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png",VIVA Russia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://hls.goodgame.ru:8080/hls/180805.m3u8
-#EXTINF:-0 tvg-id="no_epg_cinema" group-title="🔴 Кинозалы 🔴" tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png",MIXM
+#EXTINF:-0 tvg-id="no_epg_cinema" group-title="Кино и сериалы 1 🎬" tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png",MIXM
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://hls.goodgame.ru:8080/hls/181490.m3u8
-#EXTINF:-0 tvg-id="no_epg_cinema" group-title="🔴 Кинозалы 🔴" tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png",TMF RUS
+#EXTINF:-0 tvg-id="no_epg_cinema" group-title="Кино и сериалы 1 🎬" tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png",TMF RUS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://hls.goodgame.ru:8080/hls/201891.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Kx885Mby/image-9.png" tvg-id="" group-title="🔴 Кинозалы 🔴", Phoenix TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Kx885Mby/image-9.png" tvg-id="" group-title="Кино и сериалы 1 🎬", Phoenix TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 https://karapuztv.catcast.tv/content/33418/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/QjkXHscj/image-36.png" tvg-id="" group-title="🔴 Кинозалы 🔴",CRINGE TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/QjkXHscj/image-36.png" tvg-id="" group-title="Кино и сериалы 1 🎬",CRINGE TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://hls.goodgame.ru:8080/hls/208391.m3u8
-#EXTINF:-0 tvg-id="no_epg_cinema" group-title="🔴 Кинозалы 🔴" tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png",HotBeatsTV
+#EXTINF:-0 tvg-id="no_epg_cinema" group-title="Кино и сериалы 1 🎬" tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png",HotBeatsTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://hls.goodgame.ru:8080/hls/191858.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" tvg-id="" group-title="🔴 Кинозалы 🔴",Rus Brony TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" tvg-id="" group-title="Кино и сериалы 1 🎬",Rus Brony TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://195.9.195.3:8080/hls/156945.m3u8
-#EXTINF:-0 tvg-id="no_epg_cinema" group-title="🔴 Кинозалы 🔴" tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png",MegaRadio
+#EXTINF:-0 tvg-id="no_epg_cinema" group-title="Кино и сериалы 1 🎬" tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png",MegaRadio
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://hls.goodgame.ru:8080/hls/175789.m3u8
-#EXTINF:-0 tvg-id="no_epg_cinema" group-title="🔴 Кинозалы 🔴" tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png",Lofi музыка
+#EXTINF:-0 tvg-id="no_epg_cinema" group-title="Кино и сериалы 1 🎬" tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png",Lofi музыка
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://hls.goodgame.ru:8080/hls/218690.m3u8
-#EXTINF:-0 tvg-id="no_epg_cinema" group-title="🔴 Кинозалы 🔴" tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png",Азиатские танцульки
+#EXTINF:-0 tvg-id="no_epg_cinema" group-title="Кино и сериалы 1 🎬" tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png",Азиатские танцульки
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://hls.goodgame.ru:8080/hls/196745.m3u8
-#EXTINF:-0 tvg-id="no_epg_cinema" group-title="🔴 Кинозалы 🔴" tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png",Первый Автомобильный Телеканал 
+#EXTINF:-0 tvg-id="no_epg_cinema" group-title="Кино и сериалы 1 🎬" tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png",Первый Автомобильный Телеканал 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://hls.goodgame.ru:8080/hls/206355.m3u8
-#EXTINF:-0 tvg-id="no_epg_cinema" group-title="🔴 Кинозалы 🔴" tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png",Андийцы
+#EXTINF:-0 tvg-id="no_epg_cinema" group-title="Кино и сериалы 1 🎬" tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png",Андийцы
 https://autopilot.catcast.tv/content/34114/index.m3u8
-#EXTINF:-0 tvg-id="no_epg_cinema" group-title="🔴 Кинозалы 🔴" tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png",Mikulski
+#EXTINF:-0 tvg-id="no_epg_cinema" group-title="Кино и сериалы 1 🎬" tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png",Mikulski
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://hls.goodgame.ru:8080/hls/167782.m3u8
-#EXTINF:-0 tvg-id="no_epg_cinema" group-title="🔴 Кинозалы 🔴" tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png",BiskbitLive радио
+#EXTINF:-0 tvg-id="no_epg_cinema" group-title="Кино и сериалы 1 🎬" tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png",BiskbitLive радио
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://hls.goodgame.ru:8080/hls/209782.m3u8
-#EXTINF:-0 tvg-id="no_epg_cinema" group-title="🔴 Кинозалы 🔴" tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png",Wierd_by_Eyforis_Lurt
+#EXTINF:-0 tvg-id="no_epg_cinema" group-title="Кино и сериалы 1 🎬" tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png",Wierd_by_Eyforis_Lurt
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://hls.goodgame.ru:8080/hls/172446.m3u8
-#EXTINF:-0 tvg-id="no_epg_cinema" group-title="🔴 Кинозалы 🔴" tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png",24/7 Music
+#EXTINF:-0 tvg-id="no_epg_cinema" group-title="Кино и сериалы 1 🎬" tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png",24/7 Music
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://hls.goodgame.ru:8080/hls/194731.m3u8
-#EXTINF:-0 tvg-id="no_epg_cinema" group-title="🔴 Кинозалы 🔴" tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png",Звуки дождя
+#EXTINF:-0 tvg-id="no_epg_cinema" group-title="Кино и сериалы 1 🎬" tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png",Звуки дождя
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://hls.goodgame.ru:8080/hls/198378.m3u8
-#EXTINF:-0 tvg-id="no_epg_cinema" group-title="🔴 Кинозалы 🔴" tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png",Disco Dance Party!!!
+#EXTINF:-0 tvg-id="no_epg_cinema" group-title="Кино и сериалы 1 🎬" tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png",Disco Dance Party!!!
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://hls.goodgame.ru:8080/hls/215020.m3u8
-#EXTINF:-0 tvg-id="no_epg_cinema" group-title="🔴 Кинозалы 🔴" tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png",Palmera Blanca Radio
+#EXTINF:-0 tvg-id="no_epg_cinema" group-title="Кино и сериалы 1 🎬" tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png",Palmera Blanca Radio
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://hls.goodgame.ru:8080/hls/214802.m3u8
-#EXTINF:-0 tvg-id="no_epg_cinema" group-title="🔴 Кинозалы 🔴" tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png",Music Info News
+#EXTINF:-0 tvg-id="no_epg_cinema" group-title="Кино и сериалы 1 🎬" tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png",Music Info News
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://hls.goodgame.ru:8080/hls/211955.m3u8
-#EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://i.ibb.co/Xr6Ngptx/image-32.png" group-title="🔴 Кинозалы 🔴", Твоё ТВ HD
+#EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://i.ibb.co/Xr6Ngptx/image-32.png" group-title="Кино и сериалы 1 🎬", Твоё ТВ HD
 http://tvoetv.space:8080/tvoetv/index.m3u8
-#EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://i.ibb.co/gFHCVrTw/image-33.png" group-title="🔴 Кинозалы 🔴",Твоё ТВ HD Юмор
+#EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://i.ibb.co/gFHCVrTw/image-33.png" group-title="Кино и сериалы 1 🎬",Твоё ТВ HD Юмор
 http://tvoetv.space:8080/tvoetv_humor/video.m3u8
-#EXTINF:-0 tvg-id="no_epg_cinema" group-title="🔴 Кинозалы 🔴" tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png", VHS-ка HD 
+#EXTINF:-0 tvg-id="no_epg_cinema" group-title="Кино и сериалы 1 🎬" tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png", VHS-ка HD 
 http://95.66.188.74/VHS/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/4nV26ShC/image-4.png" tvg-id="no_epg_cinema" group-title="🔴 Кинозалы 🔴", Смотрим Кино и сериалы
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4nV26ShC/image-4.png" tvg-id="no_epg_cinema" group-title="Кино и сериалы 1 🎬", Смотрим Кино и сериалы
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v5a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/4nV26ShC/image-4.png" tvg-id="no_epg_cinema" group-title="🔴 Кинозалы 🔴", Смотрим Праздник
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4nV26ShC/image-4.png" tvg-id="no_epg_cinema" group-title="Кино и сериалы 1 🎬", Смотрим Праздник
 http://player.smotrim.ru/iframe/stream/live_id/0cff8c9f-76c8-4b4a-9f23-90aa5a542564.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/4nV26ShC/image-4.png" tvg-id="no_epg_cinema" group-title="🔴 Кинозалы 🔴", Смотрим Мужское
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4nV26ShC/image-4.png" tvg-id="no_epg_cinema" group-title="Кино и сериалы 1 🎬", Смотрим Мужское
 http://player.smotrim.ru/iframe/stream/live_id/30acd0b6-e010-4230-bad1-3af77619226d.m3u8
-#EXTINF:-0 tvg-id="no_epg_cinema" group-title="🔴 Кинозалы 🔴" tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png",СТРК HD
+#EXTINF:-0 tvg-id="no_epg_cinema" group-title="Кино и сериалы 1 🎬" tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png",СТРК HD
 http://sochinskayatrk.ru/hdtv/hls/CTPK_400/playlist.m3u8
-#EXTINF:-0 tvg-id="no_epg_cinema" group-title="🔴 Кинозалы 🔴" tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png", 43 канал
+#EXTINF:-0 tvg-id="no_epg_cinema" group-title="Кино и сериалы 1 🎬" tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png", 43 канал
 http://sochinskayatrk.ru/hdtv/hls/43K_HD/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/F40pkMHf/image-18.png" tvg-id="no_epg_cinema" group-title="🔴 Кинозалы 🔴",WWW 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/F40pkMHf/image-18.png" tvg-id="no_epg_cinema" group-title="Кино и сериалы 1 🎬",WWW 
 http://hls.goodgame.ru:8080/hls/192005.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/60nhtkx6/image-4.png" tvg-id="cityedem-kinoazia" group-title="🔴 Кинозалы 🔴", Сити Эдем - КиноАзия
+#EXTINF:-1 tvg-logo="https://i.ibb.co/60nhtkx6/image-4.png" tvg-id="cityedem-kinoazia" group-title="Кино и сериалы 1 🎬", Сити Эдем - КиноАзия
 https://cityeden.catcast.tv/content/34393/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/S7nxTYbg/image-9.png" tvg-id="no_epg_cinema" group-title="🔴 Кинозалы 🔴", Сити Эдем - КиноАрт
+#EXTINF:-1 tvg-logo="https://i.ibb.co/S7nxTYbg/image-9.png" tvg-id="no_epg_cinema" group-title="Кино и сериалы 1 🎬", Сити Эдем - КиноАрт
 https://cityeden.catcast.tv/content/38398/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/nq5vyFrh/image-11.png" tvg-id="no_epg_cinema" group-title="🔴 Кинозалы 🔴", Сити Эдем - КиноДетектив
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nq5vyFrh/image-11.png" tvg-id="no_epg_cinema" group-title="Кино и сериалы 1 🎬", Сити Эдем - КиноДетектив
 https://cityeden.catcast.tv/content/41327/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/CKnJRBd0/image-12.png" tvg-id="no_epg_cinema" group-title="🔴 Кинозалы 🔴", Сити Эдем - КиноДок
+#EXTINF:-1 tvg-logo="https://i.ibb.co/CKnJRBd0/image-12.png" tvg-id="no_epg_cinema" group-title="Кино и сериалы 1 🎬", Сити Эдем - КиноДок
 https://cityeden.catcast.tv/content/38354/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/GQKpsxmC/image-14.png" tvg-id="no_epg_cinema" group-title="🔴 Кинозалы 🔴", Сити Эдем - КиноДрама
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GQKpsxmC/image-14.png" tvg-id="no_epg_cinema" group-title="Кино и сериалы 1 🎬", Сити Эдем - КиноДрама
 https://cityeden.catcast.tv/content/45269/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/qMrRd04Y/image-15.png" tvg-id="cityedem-kinoklas" group-title="🔴 Кинозалы 🔴", Сити Эдем - КиноКлассика
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qMrRd04Y/image-15.png" tvg-id="cityedem-kinoklas" group-title="Кино и сериалы 1 🎬", Сити Эдем - КиноКлассика
 https://cityeden.catcast.tv/content/34185/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/WNMR4pxD/image-16.png" tvg-id="no_epg_cinema" group-title="🔴 Кинозалы 🔴", Сити Эдем - КиноКомедия
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WNMR4pxD/image-16.png" tvg-id="no_epg_cinema" group-title="Кино и сериалы 1 🎬", Сити Эдем - КиноКомедия
 https://cityeden.catcast.tv/content/41331/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/KxqVmt9B/image-17.png" tvg-id="cityedem-kinomist" group-title="🔴 Кинозалы 🔴", Сити Эдем - КиноМистика
+#EXTINF:-1 tvg-logo="https://i.ibb.co/KxqVmt9B/image-17.png" tvg-id="cityedem-kinomist" group-title="Кино и сериалы 1 🎬", Сити Эдем - КиноМистика
 https://cityeden.catcast.tv/content/40783/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/XxFPCHT6/image-18.png" tvg-id="no_epg_cinema" group-title="🔴 Кинозалы 🔴", Сити Эдем - КиноФантастика
+#EXTINF:-1 tvg-logo="https://i.ibb.co/XxFPCHT6/image-18.png" tvg-id="no_epg_cinema" group-title="Кино и сериалы 1 🎬", Сити Эдем - КиноФантастика
 https://cityeden.catcast.tv/content/45268/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Zp0rStg2/image-19.png" tvg-id="cityedem-kinoact" group-title="🔴 Кинозалы 🔴", Сити Эдем - КиноЭкшен
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Zp0rStg2/image-19.png" tvg-id="cityedem-kinoact" group-title="Кино и сериалы 1 🎬", Сити Эдем - КиноЭкшен
 https://cityeden.catcast.tv/content/41333/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/R4YPstZF/image-20.png" tvg-id="cityedem-telenov" group-title="🔴 Кинозалы 🔴", Сити Эдем - Теленовелла
+#EXTINF:-1 tvg-logo="https://i.ibb.co/R4YPstZF/image-20.png" tvg-id="cityedem-telenov" group-title="Кино и сериалы 1 🎬", Сити Эдем - Теленовелла
 https://cityeden.catcast.tv/content/46209/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hnbLNtF/image-21.png" tvg-id="no_epg_cinema" group-title="🔴 Кинозалы 🔴", Сити Эдем - Бирма Play
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hnbLNtF/image-21.png" tvg-id="no_epg_cinema" group-title="Кино и сериалы 1 🎬", Сити Эдем - Бирма Play
 https://cityeden.catcast.tv/content/34100/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/SDGvD0bh/image-22.png" tvg-id="no_epg_cinema" group-title="🔴 Кинозалы 🔴", Сити Эдем - Классическая Музыка
+#EXTINF:-1 tvg-logo="https://i.ibb.co/SDGvD0bh/image-22.png" tvg-id="no_epg_cinema" group-title="Кино и сериалы 1 🎬", Сити Эдем - Классическая Музыка
 https://cityeden.catcast.tv/content/47400/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/8D2Pnhd1/image-23.png" tvg-id="no_epg_cinema" group-title="🔴 Кинозалы 🔴", Сити Эдем - Сиртаки ТВ
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8D2Pnhd1/image-23.png" tvg-id="no_epg_cinema" group-title="Кино и сериалы 1 🎬", Сити Эдем - Сиртаки ТВ
 https://cityeden.catcast.tv/content/46421/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/GQy7zrL6/image-24.png" tvg-id="no_epg_cinema" group-title="🔴 Кинозалы 🔴", Сити Эдем - АвтоГид
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GQy7zrL6/image-24.png" tvg-id="no_epg_cinema" group-title="Кино и сериалы 1 🎬", Сити Эдем - АвтоГид
 https://cityeden.catcast.tv/content/47515/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/SXsV7qpb/image-26.png" tvg-id="no_epg_cinema" group-title="🔴 Кинозалы 🔴", Сити Эдем - МедЗдрав
+#EXTINF:-1 tvg-logo="https://i.ibb.co/SXsV7qpb/image-26.png" tvg-id="no_epg_cinema" group-title="Кино и сериалы 1 🎬", Сити Эдем - МедЗдрав
 https://cityeden.catcast.tv/content/47519/index.m3u8
-#EXTINF:-0 tvg-id="" group-title="🔴 Кинозалы 🔴" tvg-logo="https://i.ibb.co/My9w94tZ/image-12.png", ЛИК
+#EXTINF:-0 tvg-id="" group-title="Кино и сериалы 1 🎬" tvg-logo="https://i.ibb.co/My9w94tZ/image-12.png", ЛИК
 http://autopilot.catcast.tv/content/41596/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/My9w94tZ/image-12.png" tvg-id="" group-title="🔴 Кинозалы 🔴", ЛИК Классика
+#EXTINF:-1 tvg-logo="https://i.ibb.co/My9w94tZ/image-12.png" tvg-id="" group-title="Кино и сериалы 1 🎬", ЛИК Классика
 https://v2.catcast.tv/content/41458/index.m3u8
 
 
@@ -9900,10 +9900,10 @@ https://live.teleradiocom.tj/16/3m.m3u8
 #EXTINF:-1 tvg-id="TVSugd.tj" tvg-logo="https://i.imgur.com/YzkwTHb.png" group-title="TJ+TM",TV Sugd
 #EXTVLCOPT:http-user-agent=Go-http-client/1.1
 https://live.teleradiocom.tj/14/3m.m3u8
-#EXTINF:-1 tvg-id="TVSafina.tj" tvg-logo="https://i.imgur.com/Ho2vKZJ.png" group-title="",TV Safina
+#EXTINF:-1 tvg-id="TVSafina.tj" tvg-logo="https://i.imgur.com/Ho2vKZJ.png" group-title="TJ+TM",TV Safina
 #EXTVLCOPT:http-user-agent=Go-http-client/1.1
 https://live.teleradiocom.tj/2/3m.m3u8
-#EXTINF:-1 tvg-id="TVSinamo.tj" tvg-logo="https://i.imgur.com/W2qz5a4.png" group-title="",TV Sinamo
+#EXTINF:-1 tvg-id="TVSinamo.tj" tvg-logo="https://i.imgur.com/W2qz5a4.png" group-title="TJ+TM",TV Sinamo
 #EXTVLCOPT:http-user-agent=Go-http-client/1.1
 https://live.teleradiocom.tj/6/3m.m3u8
 
@@ -19582,6 +19582,7 @@ http://lemon.catchmeifyo.com:8000/8313621450/4750413920/16276
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/TMXk7smj/image-16.png" group-title="Спорт ⚽️", ZIGGO SPORT 6
 #EXTGRP:Спорт ⚽️
 http://lemon.catchmeifyo.com:8000/8313621450/4750413920/16277
+
 
 
 
